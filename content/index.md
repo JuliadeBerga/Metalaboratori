@@ -15,7 +15,7 @@ title: Tesi dA - Metalaboratori
 
 ## Itineraris de lectura
 
-### Lectura lineal
+### Lectura lineal!!!
 Itinerari recomanat per llegir la tesi de principi a fi.  
 [[_Índex Lineal_]]
 ### Lectura per conceptes
