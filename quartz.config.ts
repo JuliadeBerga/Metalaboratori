@@ -17,7 +17,19 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      ".obsidian/**",
+      ".trash/**",
+      "999 No Publicar/**",
+      "Bins/**",
+      "Excalidraw/**",
+      "Presentació/**",
+      "Presentació Web/**",
+      "publish-old/**",
+      "publish/**",
+      "obsidian/**",
+      "**/*.excalidraw"
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

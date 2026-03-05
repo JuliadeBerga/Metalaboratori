@@ -1,0 +1,1 @@
+![[Regamificacio.excalidraw.svg]]

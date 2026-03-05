@@ -1,3 +1,46 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+  margin: 14px 0 22px;
+}
+
+.card {
+  display: block;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px 0;
+  background: var(--light);
+  text-decoration: none !important;
+  transition: transform .08s ease, box-shadow .08s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.card {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px 0;
+  background: var(--light);
+}
+
+
+.card h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+}
+
+.card p {
+  margin: 0;
+  color: var(--gray);
+  line-height: 1.35;
+}

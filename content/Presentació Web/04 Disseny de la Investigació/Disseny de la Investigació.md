@@ -1,0 +1,1 @@
+![[Disseny de la Investigació.excalidraw.svg]]
