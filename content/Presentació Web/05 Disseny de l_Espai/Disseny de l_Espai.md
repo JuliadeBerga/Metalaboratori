@@ -1,1 +1,0 @@
-![[Disseny de l'Espai.excalidraw.svg]]

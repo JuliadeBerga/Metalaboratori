@@ -1,2 +1,0 @@
-
-![[Aprenents-Educadors.excalidraw.svg]]

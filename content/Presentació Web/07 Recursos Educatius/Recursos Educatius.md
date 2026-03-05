@@ -1,1 +1,0 @@
-![[Recursos Educatius.excalidraw.svg]]

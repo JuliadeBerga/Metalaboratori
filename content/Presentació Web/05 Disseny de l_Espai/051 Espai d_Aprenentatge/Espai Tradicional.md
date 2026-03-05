@@ -1,1 +1,0 @@
-![[Espai Tradicional.excalidraw.svg]]

@@ -1,1 +1,0 @@
-![[Estructura.excalidraw.svg]]

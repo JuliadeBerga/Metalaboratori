@@ -1,1 +1,0 @@
-![[Espai Dissenyat.excalidraw.svg]]

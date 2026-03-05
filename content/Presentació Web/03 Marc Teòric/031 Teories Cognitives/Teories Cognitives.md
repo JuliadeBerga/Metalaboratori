@@ -1,1 +1,0 @@
-![[Teories Cognitves.excalidraw.svg]]
