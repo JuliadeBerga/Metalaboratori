@@ -1,0 +1,1 @@
+![[Disseny del Grup.excalidraw.svg]]

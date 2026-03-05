@@ -1,0 +1,1 @@
+![[Marc Teòric.excalidraw.svg]]

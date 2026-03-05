@@ -1,0 +1,3 @@
+# 035.6. Entrevistes grupals a les FEP
+
+Una altra font d’anàlisi de resultats ens és oferida pels mestres en formació d’educació infantil i primària de la Facultat d’Educació i Psicologia (FEP). També s’han realitzat entrevistes grupals (per equips de creació de videojocs) per analitzar quins tipus d’aprenentatge s’han desenvolupat, com ha funcionat la interfície creada i projectada en un web i l’integració de DAM a una classe gamificada entorn la Conspiració Intergalàctica.
