@@ -9,3 +9,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+content/.trash/
+content/999 No Publicar/
+*.mp4
+*.mov
+*.mkv
