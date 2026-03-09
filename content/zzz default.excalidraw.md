@@ -25,8 +25,8 @@ Títol ^s1fjvSOy
 	"elements": [
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1223243641,
+			"version": 137,
+			"versionNonce": 115535106,
 			"isDeleted": false,
 			"id": "s1fjvSOy",
 			"fillStyle": "solid",
@@ -46,7 +46,7 @@ Títol ^s1fjvSOy
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707390995644,
+			"updated": 1772973042477,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -76,8 +76,8 @@ Títol ^s1fjvSOy
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 403.2803259184866,
-		"scrollY": 418.094696969697,
+		"scrollX": 313.139678030303,
+		"scrollY": 386.15095612497043,
 		"zoom": {
 			"value": 2
 		},
