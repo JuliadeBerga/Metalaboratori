@@ -22,8 +22,8 @@ Fitxa de: [[Stahl, G.]]
 
 
 ## Conceptes
-#### [[Group Cognition]]
+#### [[Cognició de Grup (marc teòric)]]
 
-#### [[Computer-Supported Collaborative Learning]]
+#### [[Computer-Supported Collaborative Learning (CSCL)]]
 
 #### [[KBE Knowledge-Building Environments]]

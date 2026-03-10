@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Game #Gamification #marc_teoric #MOC1
 
 # The Four Freedoms of Play

@@ -47,12 +47,12 @@ _A ellaboratori no és el professor qui resol els problemes. Igual que aqui. ([n
 
 ### [[023. Aprenentatge Col·laboratiu]]
 ### [[Estudi de la Cognicio Distribuida]]
-### [[Distributed Cognition]]
-### [[Socially Distributed Cognition]]
-### [[Embodied Cognition]] 
-### [[Structurally Distributed Cognition]]
-### [[Culture and Cognition]]
-### [[Design Patterns]]
+### [[Cognició Distribuïda (marc teòric)]]
+### [[Cognició distribuïda socialment]]
+### [[Cognició incorporada (Embodied Cognition)]] 
+### [[Cognició distribuïda estructuralment]]
+### [[Cultura i Cognició]]
+### [[Patrons de Disseny (Design Patterns)]]
 
 ## Conceptes Propis
 

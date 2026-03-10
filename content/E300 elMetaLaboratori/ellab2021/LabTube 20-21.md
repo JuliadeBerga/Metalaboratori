@@ -17,7 +17,7 @@ c.- Vídeos de la xarxa (utlitzats per alumnes o professors) útils per al desen
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

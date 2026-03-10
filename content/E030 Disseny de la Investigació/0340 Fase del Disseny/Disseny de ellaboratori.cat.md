@@ -16,7 +16,7 @@ I continuant amb amb [[Bowker_Star1999]] ens planteja el següent repte:
 
 >"Most schools now are lousy places to grow boundary objects because they both strip away the ambiguity of the objects of learning and impose or ignore membership categories. In mass schooling and standardized testing, an attempt is made to insist on an engineered community of practice, where the practices are dictated and the naturalization process is monitored and regulated while ignoring borderlands."
 
-Molt lligat al concepte [[Distributed Cognition]], i encara amb [[Bowker_Star1999]]:
+Molt lligat al concepte [[Cognició Distribuïda (marc teòric)]], i encara amb [[Bowker_Star1999]]:
 
 >"The act of cooperation is the interleaving of distributed tasks; articulation work manages the consequences of this distributed aspect of the work."
 
@@ -37,7 +37,7 @@ Tal i com s'indica al punt: Dimensions del concepte [[Boundary  Objects]], podem
 · <b>Abstracció</b>. Facilita el diàleg entre móns (FEP-DAM)
 · <b>Polivalència</b>. Varies activitats son possibles (Trobades, controls, actualitzacions...)
 · <b>Modularitat</b>. Diferents parts de l'objecte poden servir de base en diàleg entre actors (la creació del videojoc)
-· <b>Estandardització</b>. Fa interpretable la informació. Aquest punt està desenvolupat de forma teòrica a [[Design Patterns]] i pràctica a [[_Patrons de Disseny_]]
+· <b>Estandardització</b>. Fa interpretable la informació. Aquest punt està desenvolupat de forma teòrica a [[Patrons de Disseny (Design Patterns)]] i pràctica a [[_Patrons de Disseny_]]
 
 D'igual manera, podem trobar tres tipus d'activitat a partir de la gestió de coneixements a la frontera:
 · <b>Transferència</b>. Gestió dels formats. Tota transferència d'informació es dóna a partir de [[Web ellaboratori.cat]] i [[Discord]].

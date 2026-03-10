@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Gamification #marc_teoric #Gamification #MOC1 
 
 # Sistema de Punts -Proposta-

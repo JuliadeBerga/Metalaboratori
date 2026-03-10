@@ -1,5 +1,5 @@
 ## Autor: [[Engestrom, Y.]]
 
-## Article: [[Learning by Expanding]]
+## Article: [[010 Fonaments Teòrics/012 Aprenentatge Combinat (Blended Learning)/Learning by Expanding]]
 
-## Marc Teòric: [[Activity Theory]]
+## Marc Teòric: [[Teoria de l’Activitat]]

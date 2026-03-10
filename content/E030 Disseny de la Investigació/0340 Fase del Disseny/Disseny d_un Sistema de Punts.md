@@ -7,10 +7,10 @@ tags:: #fase_disseny
 [[Multiplayer Classroom]]
 [[Aprenentatge Digital]]
 [[Digital Natives & Digital Immigrants]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 [[Boundary  Objects]]
-[[Structurally Distributed Cognition]]
-[[Embodied Cognition]]
+[[Cognició distribuïda estructuralment]]
+[[Cognició incorporada (Embodied Cognition)]]
 
 ## Background
 Un dels objectius de [[Web ellaboratori.cat]] era crear un sistema d'avaluació que formés part de l'aprenentatge contínuu, motivador per l'estudiant i alhora, gamificat.

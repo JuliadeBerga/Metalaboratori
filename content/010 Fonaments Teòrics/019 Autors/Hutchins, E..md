@@ -9,4 +9,4 @@ Fitxa de: [[Hutchins, E.]]
 [[Cognition in Wild]]
 
 ## Conceptes
-[[Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]

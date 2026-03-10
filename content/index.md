@@ -27,7 +27,7 @@ Mapa temàtic per navegar per idees, marcs i problemes.
 ## Capítols
 
 - [[010. Introducció]] — Context, problema i objectius
-- [[020. Marc Teòric]] — Vygotsky, Engeström, Hutchins, Wenger, Latour…
+- [[010 Fonaments Teòrics]] — Vygotsky, Engeström, Hutchins, Wenger, Latour…
 - [[030. Disseny de la Investigació]] — DBR, instruments i dispositiu d’anàlisi
 - [[040. Conceptes Propis]] — Categories, patrons i articulacions
 - [[050. Espais Híbrids d_Aprenentatge]] — Disseny pedagògic i tecnològic

@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Gamification #Game_Design #Game_Elements #Game #marc_teoric #MOC1
 
 # Estètica. Game Model

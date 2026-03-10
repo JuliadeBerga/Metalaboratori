@@ -10,4 +10,4 @@ Fitxa de: [[Fenwick, T.]]
 
 ## Conceptes
 [[Networking Technologized Learning]]
-[[Actor-Network Theory]]
+[[Teoria Actor-Xarxa (ANT)]]

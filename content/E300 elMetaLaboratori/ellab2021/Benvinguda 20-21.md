@@ -13,7 +13,7 @@ De la mateixa manera, per gaudir de l'experiència completa a ellaboratori, s'ac
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

@@ -135,12 +135,12 @@ _Amb aquests items es podrà analitzar com funciona els desensenvolupadors de el
 
 ### [[023. Aprenentatge Col·laboratiu]]
 ### [[Estudi de la Cognicio Distribuida]]
-### [[Distributed Cognition]]
-### [[Socially Distributed Cognition]]
-### [[Embodied Cognition]] 
-### [[Structurally Distributed Cognition]]
-### [[Culture and Cognition]]
-### [[Design Patterns]]
+### [[Cognició Distribuïda (marc teòric)]]
+### [[Cognició distribuïda socialment]]
+### [[Cognició incorporada (Embodied Cognition)]] 
+### [[Cognició distribuïda estructuralment]]
+### [[Cultura i Cognició]]
+### [[Patrons de Disseny (Design Patterns)]]
 
 
 ## Conceptes Propis

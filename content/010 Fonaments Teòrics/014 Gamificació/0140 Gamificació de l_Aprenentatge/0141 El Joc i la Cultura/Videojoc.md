@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #marc_teoric #videojoc #Gamification #MOC1
 
 # Videojoc

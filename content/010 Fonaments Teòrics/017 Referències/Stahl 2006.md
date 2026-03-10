@@ -2,4 +2,4 @@
 
 ## Article: [[Group Cognition. Computer Support for Building Collaborative Knowledge]]
 
-## Marc Teòric: [[Group Cognition]] 
+## Marc Teòric: [[Cognició de Grup (marc teòric)]] 

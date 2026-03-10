@@ -13,7 +13,7 @@ Un altre gadget creat el curs anterior i consolidat en el curs 21-22.
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

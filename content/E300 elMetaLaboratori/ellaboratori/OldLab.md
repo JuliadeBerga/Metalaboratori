@@ -14,7 +14,7 @@ col·laboratiu, digital i gamificat.
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

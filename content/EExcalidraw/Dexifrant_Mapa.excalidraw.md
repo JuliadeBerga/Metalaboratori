@@ -45,15 +45,15 @@ Més enllà de l'Aliança ^AcpaJk4G
 
 [[Gamificar_Educacio.excalidraw]] ^AM6sneFC
 
-[[Design Patterns]] ^wbRMg0lw
+[[Patrons de Disseny (Design Patterns)]] ^wbRMg0lw
 
-[[Socially Distributed Cognition]] ^vpZ3CBFM
+[[Cognició distribuïda socialment]] ^vpZ3CBFM
 
 [[Boundary  Objects]] ^FjGCVT2P
 
 [[Boundary Infraestructures]] ^T0ZcLsx5
 
-[[Embodied Cognition]] ^8x9GAnbw
+[[Cognició incorporada (Embodied Cognition)]] ^8x9GAnbw
 
 Human-Technology Relations ^4i5rGCl6
 

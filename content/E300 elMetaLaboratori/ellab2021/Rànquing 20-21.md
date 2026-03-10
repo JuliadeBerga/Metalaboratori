@@ -14,9 +14,9 @@ Aquest complement de [[Puntuació 20-21]] mostra a l'estudiant el total de punts
 [[Portes, un sistema de punts. Avaluació de l'Aprenentatge]]
 [[L'Equivocar-se és Positiu]]
 [[L'Error està permès]]
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

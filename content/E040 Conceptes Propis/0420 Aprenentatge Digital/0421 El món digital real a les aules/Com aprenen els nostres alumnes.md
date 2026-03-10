@@ -6,7 +6,7 @@ tags:: #Distributed_Cognition #Patrons_de_Disseny #concepte_propi #MOC5
 Descriure com aprenen els nostres alumnes seria l'objectiu que hi ha rera la pregunta de recerca i tota la investigació derivada d'aquesta tesi.
 
 Amb l'objectiu d'explicar part d'aquesta resposta ens centrarem en els següents aspectes teòrics:
-## [[Distributed Cognition]]
+## [[Cognició Distribuïda (marc teòric)]]
 En l'aprenentatge col·laboratiu dut a terme en els diferents cursos (iteracions del projecte) es pot veure una evolució en la manera d'aprendre dels nostres alumnes segons l'estructura col·laborativa a la que formaven part amb la seva corresponent iteració. 
 
 Estudi del Projecte Col·laboratiu en totes les seves estructures i iteracions:

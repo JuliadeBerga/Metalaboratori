@@ -3,7 +3,7 @@ tags:: #resultats
 # Patrons de Disseny
 tags: #Patrons_de_Disseny  #ellaboratori
 
-El concepte [[Design Patterns]] es desenvolupa en el tema [[Distributed Cognition]]. És un concepte arrelat la informàtica i molt utilitzat en la programació (sobretot la orientada a objectes). Tot i que la majoria de referències van relacionades amb el camp del software, aqui ens basarem en l'exemple de [[Mangalaraj, George]] en el seu estudi [[Distributed cognition in software design, an experimental investigation of the role of design patterns and collaboration]].
+El concepte [[Patrons de Disseny (Design Patterns)]] es desenvolupa en el tema [[Cognició Distribuïda (marc teòric)]]. És un concepte arrelat la informàtica i molt utilitzat en la programació (sobretot la orientada a objectes). Tot i que la majoria de referències van relacionades amb el camp del software, aqui ens basarem en l'exemple de [[Mangalaraj, George]] en el seu estudi [[Distributed cognition in software design, an experimental investigation of the role of design patterns and collaboration]].
 
 L'objectiu és crear patrons de disseny que facilitin la creació d'un videojoc entre estudiants universitaris i de cicles.
 

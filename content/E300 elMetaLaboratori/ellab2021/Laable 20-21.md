@@ -14,7 +14,7 @@ Informació dels estudiants, Nom i Descripció dels projectes, Formació...
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

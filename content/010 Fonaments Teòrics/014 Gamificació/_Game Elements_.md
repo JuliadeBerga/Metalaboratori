@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Game #Game_Elements #marc_teoric #Gamification #MOC1
 
 # Game Elements

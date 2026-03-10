@@ -32,9 +32,9 @@ Aquest punt desenvolupat en el següent capítol podran mostrar-se la majoria de
 
 
 ## Connexions al Marc Teòric
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

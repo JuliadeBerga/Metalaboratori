@@ -13,7 +13,7 @@ Fitxa de: [[Mangalaraj, George]]
 [[Mangalaraj2014]]
 
 ## Conceptes
-[[Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]
 
 ##Original PDF
 ![[Mangalaraj - 2014 - Distributed cognition in software design an exper.pdf]]

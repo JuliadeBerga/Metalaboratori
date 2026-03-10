@@ -1,6 +1,6 @@
 #pendent 
 
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Game #Gamification #marc_teoric #MOC1
 
 # The 36 learning principles

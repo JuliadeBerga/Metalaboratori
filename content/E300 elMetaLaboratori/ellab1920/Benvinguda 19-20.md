@@ -12,7 +12,7 @@ Per accedir cal agafar el primer avatar i posar la contrasenya: 1234
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

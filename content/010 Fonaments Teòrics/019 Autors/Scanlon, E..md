@@ -10,4 +10,4 @@ Fitxa de: [[Scanlon, E.]]
 
 ## Conceptes
 [[Technology based teaching environments using Activity Theory]]
-[[Activity Theory]]
+[[Teoria de l’Activitat]]

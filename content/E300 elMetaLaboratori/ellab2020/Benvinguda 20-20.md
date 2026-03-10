@@ -18,7 +18,7 @@ Era necessari registrar-se per accedir al joc. Actualment, com a resultat d'aque
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

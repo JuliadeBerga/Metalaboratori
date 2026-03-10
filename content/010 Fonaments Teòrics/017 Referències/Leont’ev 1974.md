@@ -2,4 +2,4 @@
 
 ## Article: [[The Problem of Activity in Psychology]]
 
-## Marc Teòric: [[Activity Theory]]
+## Marc Teòric: [[Teoria de l’Activitat]]

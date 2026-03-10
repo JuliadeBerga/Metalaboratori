@@ -2,4 +2,4 @@
 
 ## Article: [[Actor–Network Theory in Education]]
 
-## Marc Teòric: [[Actor-Network Theory]]
+## Marc Teòric: [[Teoria Actor-Xarxa (ANT)]]

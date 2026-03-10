@@ -10,4 +10,4 @@ Fitxa de: [[Deitrick, E.]]
 
 ## Conceptes
 [[Collaborative Computer Science Learning]]
-[[Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]

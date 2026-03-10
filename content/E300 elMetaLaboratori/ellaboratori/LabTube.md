@@ -22,7 +22,7 @@ En la nova distribució, no només es poden buscar els videos seleccionats amb e
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

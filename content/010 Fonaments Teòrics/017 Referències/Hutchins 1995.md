@@ -2,4 +2,4 @@
 
 ## Article: [[Cognition in Wild]]
 
-## Marc Teòric: [[Distributed Cognition]]
+## Marc Teòric: [[Cognició Distribuïda (marc teòric)]]

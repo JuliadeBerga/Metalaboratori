@@ -13,4 +13,4 @@ Fitxa de: [[Leóntiev, A.N.]]
 [[Leont’ev 1974]]
 
 ## Conceptes
-[[Activity Theory]]
+[[Teoria de l’Activitat]]

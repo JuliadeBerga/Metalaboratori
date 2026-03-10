@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Magic_Circle #Game #Homo_Ludens #marc_teoric #Gamification #MOC1
 
 # Definició de Cercle Màgic segons Huizinga

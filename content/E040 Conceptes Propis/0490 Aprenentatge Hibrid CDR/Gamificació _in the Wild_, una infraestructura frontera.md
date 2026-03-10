@@ -6,9 +6,9 @@ tags:: #Distributed_Cognition #Patrons_de_Disseny #concepte_propi #Boundary_Obje
 ## Conceptes Previs:
 [[Boundary Infraestructures]]
 [[Boundary  Objects]]
-[[Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]
 [[020 Conceptes Marc Teòric/0210 Gamificació de l'Aprenentatge/0213 Gamificació/Gamificació]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 ## La Gamificació en aquest projecte
 A [[_Game Elements_]] es detallen quins son els elements de joc més importants en el procés de gamificar.

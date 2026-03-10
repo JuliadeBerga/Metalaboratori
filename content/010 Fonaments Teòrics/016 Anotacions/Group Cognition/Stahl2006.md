@@ -175,7 +175,7 @@ tags:: #marc_teoric #Group_Cognition
 
 ### [[023. Aprenentatge Col·laboratiu]]
 ### [[Estudi de la Cognicio Distribuida]]
-### [[Distributed Cognition]]
+### [[Cognició Distribuïda (marc teòric)]]
 
 
 ## Conceptes Propis

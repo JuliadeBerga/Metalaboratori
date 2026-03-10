@@ -18,7 +18,7 @@ Ordenar i facilitar tota la informació perquè l'estudiant 'tan sols' la coneve
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

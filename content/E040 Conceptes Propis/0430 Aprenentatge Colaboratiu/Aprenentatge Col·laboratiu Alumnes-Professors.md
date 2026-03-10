@@ -4,11 +4,11 @@ tags:: #Distributed_Cognition #Patrons_de_Disseny #Boundary_Objects #Boundary_In
 # Aprenentatge Col·laboratiu Alumnes-Professors. DArk Women, FIU, els del laboratori, FFA... desenvolupadors d'una idea
 
 ## Conceptes Previs
-[[Distributed Cognition]]
-[[Socially Distributed Cognition]]
-[[Embodied Cognition]]
-[[Structurally Distributed Cognition]]
-[[Culture and Cognition]]
+[[Cognició Distribuïda (marc teòric)]]
+[[Cognició distribuïda socialment]]
+[[Cognició incorporada (Embodied Cognition)]]
+[[Cognició distribuïda estructuralment]]
+[[Cultura i Cognició]]
 [[Boundary  Objects]]
 [[Boundary Infraestructures]]
 [[Invisible Work]]

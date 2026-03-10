@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #herosjourney #Game #Game_Design #marc_teoric #Gamification #MOC1
 
 # The Hero’s Journey

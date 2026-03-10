@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Game #Game_Design #Gamification  #Player_Types #marc_teoric #MOC1 
 
 # User Types Hexad Scale

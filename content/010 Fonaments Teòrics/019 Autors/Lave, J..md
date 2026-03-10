@@ -9,4 +9,4 @@ Fitxa de: [[Lave, J.]]
 [[Situated Learning. Legitimate peripheral participation]]
 
 ## Conceptes
-[[Situated Learning Theory]]
+[[Teoria de l’Aprenentatge Situat]]

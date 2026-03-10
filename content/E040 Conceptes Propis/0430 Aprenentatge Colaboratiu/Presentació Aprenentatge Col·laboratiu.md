@@ -19,4 +19,4 @@ Per acabar, l'últim apartat, [[Gamificació com a Infraestructura Frontera]] s'
 ## Marc Teòric
 Aquest capítol és l'extensió pràctica del marc teòric desenvolupat a [[023. Aprenentatge Col·laboratiu]] i molt lligat a [[021. Gamificació de l'Aprenentatge]].
 
-Concretament seran dos els conceptes teòrics on pivotarà aquest capítol [[Distributed Cognition]] i [[Boundary  Objects]].
+Concretament seran dos els conceptes teòrics on pivotarà aquest capítol [[Cognició Distribuïda (marc teòric)]] i [[Boundary  Objects]].

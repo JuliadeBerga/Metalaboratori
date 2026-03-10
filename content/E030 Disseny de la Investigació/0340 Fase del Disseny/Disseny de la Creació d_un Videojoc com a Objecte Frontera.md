@@ -10,7 +10,7 @@ tags:: #fase_disseny
 [[Aprenentatge Digital]]
 [[Digital Natives, Digital Immigrants]]
 [[Virtual Natives]]
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
 
 ## Background

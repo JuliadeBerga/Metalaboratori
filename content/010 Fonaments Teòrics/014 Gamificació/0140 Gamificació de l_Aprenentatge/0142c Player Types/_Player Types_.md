@@ -1,4 +1,4 @@
-[[020. Marc Teòric]]
+[[010 Fonaments Teòrics]]
 tags:: #Gamification #Game_Design #Player_Types  #Game #marc_teoric #MOC1
 
 # _Player Types_

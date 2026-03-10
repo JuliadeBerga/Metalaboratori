@@ -8,9 +8,9 @@ Usuari: jferna7@xtec.cat o 657585267
 Password: 1234
 
 ## Connexions al Marc Teòric
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

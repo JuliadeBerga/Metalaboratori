@@ -12,9 +12,9 @@ Fitxa de: [[Deitrick, Elise]]
 [[Deitrick2015]]
 
 ## Conceptes
-[[Distributed Cognition]]
-[[Socially Distributed Cognition]]
-[[Structurally Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]
+[[Cognició distribuïda socialment]]
+[[Cognició distribuïda estructuralment]]
 
 ## Original PDF
 ![[Deitrick_2015_Using Distributed Cognition Theory to Analyze Collaborative Computer Science.pdf]]

@@ -12,9 +12,9 @@ Fitxa de: [[Hollan, James D.]]]
 [[Hollan2000]]
 
 ## Conceptes
-[[Distributed Cognition]]
-[[Socially Distributed Cognition]]
-[[Structurally Distributed Cognition]]
+[[Cognició Distribuïda (marc teòric)]]
+[[Cognició distribuïda socialment]]
+[[Cognició distribuïda estructuralment]]
 
 ## Original PDF
 ![[Hollan - 2000 - Distributed cognition toward a new foundation for.pdf]]

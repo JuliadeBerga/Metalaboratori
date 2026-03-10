@@ -9,4 +9,4 @@ Fitxa de: [[Engestrom, Y.]]
 [[The Problem of Activity in Psychology]]
 
 ## Conceptes
-[[Activity Theory]]
+[[Teoria de l’Activitat]]

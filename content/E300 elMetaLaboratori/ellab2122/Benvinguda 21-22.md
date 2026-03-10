@@ -21,7 +21,7 @@ Els accesos que permet ellaboratori curs 21-22, part 1 son els següents:
 
 ## Connexions al Marc Teòric
 ### [[Aprenentatge Digital]]
-### [[Design Patterns]]
+### [[Patrons de Disseny (Design Patterns)]]
 
 
 ## Enllaços al Web

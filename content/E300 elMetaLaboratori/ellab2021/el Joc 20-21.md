@@ -29,9 +29,9 @@ Els estudiants podien actualitzar el joc en moment que vulguessin directament, f
 
 
 ## Connexions al Marc Teòric
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

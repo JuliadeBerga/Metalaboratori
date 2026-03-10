@@ -11,9 +11,9 @@ Aqui estan tots els projectes que varen estar desenvolupant-se en curs 20-21. La
 1.- Espai per a veure el procés del desenvolupament del propi videojoc i dels altres companys.
 
 ## Connexions al Marc Teòric
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

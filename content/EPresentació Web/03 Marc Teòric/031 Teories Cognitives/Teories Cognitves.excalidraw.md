@@ -13,7 +13,7 @@ cssclasses:
 
 
 # Text Elements
-%%***>>>text element-link:[[Activity Theory]]<<<***%%Activity 
+%%***>>>text element-link:[[Teoria de l’Activitat]]<<<***%%Activity 
 Theory ^6tpqx1VU
 
 [[Leóntiev, A.N.]] ^h2qsuJZF

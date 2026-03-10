@@ -13,7 +13,7 @@ Així doncs per definir el concepte general podem dir que és un espai (una aula
 ### Aprenentatge Col·laboratiu
 Per generar aquest tipus d'aprenentatge necessitem dos o més individus amb un objectiu general comú. Son moltes les variables a tenir en compte:
 · Objectiu específic igual o objectius diferents treballant amb un objectiu general  (necessitat de crear un [[Boundary  Objects]]). En el cas específic d'aquest projecte, la creació d'un videojoc.
-· Partim de zero o facilitem [[Design Patterns]]. Tota la informació mostrada al web
+· Partim de zero o facilitem [[Patrons de Disseny (Design Patterns)]]. Tota la informació mostrada al web
 · Es pot generar un ens més gran que un Objecte Frontera i idear una [[Boundary Infraestructures]], com ellaboratori.
 · També es pot crear un [[Aprenentatge Col·laboratiu Alumnes-Professors]] basat en la [[Coassociació Alumnes-Professors]]
 
@@ -33,7 +33,7 @@ En el cas específic dels estudis en Formació Professional que s'ha basat aques
 Dissenyar un espai d'aquestes característiques no és gens trivial. L'esperial ascendent que es genera quan funciona bé és inversament proporcial a la l'espiral descendent que pot causar.
 
 ### Aprenentatge Col·laboratiu
-Un grup de persones treballant en un projecte comú no tenen perquè generar aprenentatge col·laboratiu.  Si les condicions creades, les motivacions personals o altres factors no son els adequats, aquest mode de treballar pot ser autodestructiu i empitjorar les aptituds dels cadascun dels individus tot el contrari que busca la recerca de la [[Distributed Cognition]].
+Un grup de persones treballant en un projecte comú no tenen perquè generar aprenentatge col·laboratiu.  Si les condicions creades, les motivacions personals o altres factors no son els adequats, aquest mode de treballar pot ser autodestructiu i empitjorar les aptituds dels cadascun dels individus tot el contrari que busca la recerca de la [[Cognició Distribuïda (marc teòric)]].
 
 ### Aprenentatge Digital
 De la mateixa manera, una no formació digital dels professors en la competència [[Ensenyar a Aprendre digitalment]] pot capficar a l'alumne en una teranyina d'informació falsa, inútil o desfasada dins la xarxa.

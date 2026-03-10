@@ -13,9 +13,9 @@ Aquesta utilitat continua després del curs anterior i es complementa amb els Vi
 
 
 ## Connexions al Marc Teòric
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

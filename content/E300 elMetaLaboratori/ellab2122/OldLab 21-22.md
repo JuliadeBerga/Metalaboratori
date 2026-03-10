@@ -17,7 +17,7 @@ El mateix fracàs d'algunes aplicacions son un aprenentatge continu per a aquest
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

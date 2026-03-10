@@ -19,9 +19,9 @@ En el cas vermell o groc pot tornar a obrir la porta si considera que ha millora
 [[Portes, un sistema de punts. Avaluació de l'Aprenentatge]]
 [[L'Equivocar-se és Positiu]]
 [[L'Error està permès]]
-[[Socially Distributed Cognition]]
+[[Cognició distribuïda socialment]]
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Gamificació a l'Escola]]
 [[Multiplayer Classroom]]

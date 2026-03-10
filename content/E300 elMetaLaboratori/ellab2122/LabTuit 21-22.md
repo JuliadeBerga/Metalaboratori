@@ -22,7 +22,7 @@ En el cas del LabTuit, tot i que la idea era força interesant (respondre als du
 
 ## Connexions al Marc Teòric
 [[Boundary  Objects]]
-[[Design Patterns]]
+[[Patrons de Disseny (Design Patterns)]]
 
 [[Aprenentatge Digital]]
 [[Aprendre a aprendre digitalment]]

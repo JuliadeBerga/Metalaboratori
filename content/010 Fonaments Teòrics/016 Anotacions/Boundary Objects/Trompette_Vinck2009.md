@@ -10,7 +10,7 @@ Aquest és el quart article estudiat per descriure el concepte [[Boundary  Objec
 
 >  "La noción de objeto frontera se inscribe en el modelo de la « grounded theory », en el sentido donde emerge y se construye como elemento de teorización para los autores en la confrontación con sus materiales de campo"
 
-Els autors també relacionen els  [[Boundary  Objects]] amb els [[_Patrons de Disseny_]], una relació que s'ampliarà dins dels conceptes de marc teòric al capítol de [[Distributed Cognition]].
+Els autors també relacionen els  [[Boundary  Objects]] amb els [[_Patrons de Disseny_]], una relació que s'ampliarà dins dels conceptes de marc teòric al capítol de [[Cognició Distribuïda (marc teòric)]].
 
 > "Las soluciones inventadas por los actores en situación serían de dos órdenes: la estandardización de los métodos y el diseño de los objetos-frontera."
 

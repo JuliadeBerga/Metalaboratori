@@ -10,4 +10,4 @@ Fitxa de: [[Oliver, R.]]
 
 ## Conceptes
 [[Web-Based Learning]]
-[[Situated Learning Theory]]
+[[Teoria de l’Aprenentatge Situat]]
