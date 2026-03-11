@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Metalaboratori",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "juliadeberga.github.io/Metalaboratori",
+    baseUrl: "https://juliadeberga.github.io/Metalaboratori/000-Porta-d'Entrada/001-Comen%C3%A7a-aqu%C3%AD/_Comen%C3%A7a-Aqu%C3%AD",
     ignorePatterns: [
       ".obsidian/**",
       ".trash/**",

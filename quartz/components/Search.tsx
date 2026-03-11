@@ -21,7 +21,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
       <div class={classNames(displayClass, "search")}>
         <button class="search-button">
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
-            <title>Search</title>
+            <title>Buscar</title>
             <g class="search-path" fill="none">
               <path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4" />
               <circle cx="8" cy="8" r="7" />
