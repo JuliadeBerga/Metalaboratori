@@ -24,4 +24,4 @@ Aquest entorn no substitueix la lectura tradicional de la tesi, sinó que la com
 
 **Comença l’exploració aquí:**
 
-[[Benvinguts]]
+[[000 Porta d'Entrada/001 Comença aquí/Benvinguts|Benvinguts]]
