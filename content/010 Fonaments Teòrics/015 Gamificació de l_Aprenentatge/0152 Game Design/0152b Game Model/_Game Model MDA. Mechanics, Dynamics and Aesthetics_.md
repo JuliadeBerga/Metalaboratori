@@ -1,7 +1,7 @@
 [[010 Fonaments Teòrics]]
 tags:: #Gamification #Game_Design #Game_Elements #Game #marc_teoric #MOC1
 
-# Game Model: MDA.              Mechanics, Dynamics and Aesthetics
+# Game Model: MDA. Mechanics, Dynamics and Aesthetics
 
 ## Definició del Concepte
 Els dissenyadors treballen amb la [[Mecànica (Model de Joc)]] per crear [[Estètica (Model de Joc)]], mentre que els jugadors experimenten [[Estètica (Model de Joc)]] i en fer-ho, poden substreure els coneixements sobre la [[Mecànica (Model de Joc)]].
