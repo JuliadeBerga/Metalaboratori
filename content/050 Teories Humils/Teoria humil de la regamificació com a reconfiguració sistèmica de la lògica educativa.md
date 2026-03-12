@@ -67,8 +67,8 @@ No substitueix el sistema educatiu; el reestructura des de dins.
 ## Relacions
 
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques d’agència]]  
-→ [[Dinàmiques de co-creació]]  
+→ [[022 Redistribució d’agència]]  
+→ [[024 Dinàmiques de co-creació]]  
 → [[Teoria humil de la compatibilitat estructural]]  
 → [[Teoria humil de la co-associació]]  
 → [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]  

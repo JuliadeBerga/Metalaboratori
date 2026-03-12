@@ -75,8 +75,8 @@ Aquest marc permet entendre que:
 Aquesta teoria fonamenta especialment:
 
 → [[Espais híbrids d’aprenentatge]]  
-→ [[Dinàmiques de co-creació]]
-→ [[Dinàmiques d’agència]]
+→ [[024 Dinàmiques de co-creació]]
+→ [[022 Redistribució d’agència]]
 → [[Dinàmiques de co-associació]]
 
 i contribueix a la formalització de:

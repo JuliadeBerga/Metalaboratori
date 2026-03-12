@@ -130,8 +130,8 @@ Això permet interpretar el Metalaboratori com una evolució dels principis CSCL
 El CSCL fonamenta especialment:
 
 → [[Arquitectura pedagògica]]  
-→ [[Cognició de grup]]  
-→ [[Dinàmiques de co-creació]]  
+→ [[026 Cognició de grup]]  
+→ [[024 Dinàmiques de co-creació]]  
 → [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]
 
 i constitueix un pont entre:

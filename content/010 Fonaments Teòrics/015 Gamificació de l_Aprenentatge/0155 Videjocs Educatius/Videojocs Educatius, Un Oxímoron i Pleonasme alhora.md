@@ -3,45 +3,77 @@ tags:: #Game #Gamification #marc_teoric #Serious_Games #MOC1
 
 # Videojocs Educatius, Un Oxímoron i Pleonasme alhora
 
+## Introducció
+
+El concepte **videojoc educatiu** ha estat àmpliament utilitzat en la literatura pedagògica i tecnològica per descriure videojocs amb finalitats d'aprenentatge. No obstant això, aquesta etiqueta presenta una certa ambigüitat conceptual.
+
+En aquesta investigació es proposa analitzar críticament aquest terme a partir de dues interpretacions possibles: com a **oxímoron** i com a **pleonasme**.
+
+---
+
 ## Un Oxímoron
 
-El nom d’aquest concepte sembla un oxímoron i segurament ho és. Videojocs educatius son dos conceptes positius per separat, però que al unir-los perdessin el seu significat; és com si es fessin mal entre ells.
+El concepte *videojoc educatiu* pot entendre's com un **oxímoron**, és a dir, una expressió formada per dos termes que, en combinar-se, semblen contradir-se.
 
-Associem la paraula videojoc a entreteniment, diversió, estimulant... Així com el terme educatiu el podem relacionar amb aprenentatge, assimilació de nous coneixements...
+Per separat, tant el concepte de **videojoc** com el d'**educació** tenen connotacions positives:
 
-Dos conceptes positius per separat.
+- **Videojoc** s'associa habitualment amb entreteniment, diversió, repte o estimulació.
+- **Educació** es vincula amb aprenentatge, adquisició de coneixement o desenvolupament de competències.
 
-Quan imaginem el concepte ‘Videojoc Educatiu’ no ens ve al cap la paraula entreteniment, diversió o nous coneixements per aprendre.
+Tanmateix, quan aquests dos conceptes es combinen en l'expressió *videojoc educatiu*, sovint es produeix una tensió semàntica. Socialment, el terme acostuma a evocar productes que no aconsegueixen ni la qualitat lúdica dels videojocs comercials ni l'eficàcia pedagògica esperada.
 
-El problema és que el subjecte és Videojoc i l’adjectiu, Educatiu. 
+Aquesta percepció es pot explicar també des d'una perspectiva lingüística. En l'expressió **videojoc educatiu**, el subjecte principal és *videojoc* i *educatiu* actua com a adjectiu qualificatiu. Això suggereix que l'element central continua sent el videojoc, mentre que la dimensió educativa apareix com una simple categoria o variant dins del mercat del videojoc.
 
-És com si diguéssim: el més important és el Videojoc i Educatiu és una classe de videojoc. Imagino una botiga que vengui videojocs i l’aparador tinguin videojocs d’acció multiplayer, videojocs d’esports i videojocs educatius. Dubto molt que algú s'interessi per aquest últim.
+Podríem imaginar, per exemple, una botiga de videojocs amb diferents seccions:
 
-Així doncs, apareix la primera idea: el subjecte ha de ser Educació qui ho complementa, el seu adjectiu, la paraula videojocs; ja que utilitzem el videojoc com a metodologia. Així cada paraula està al lloc que li correspon.
+- videojocs d'acció
+- videojocs d'esports
+- videojocs multijugador
+- videojocs educatius
 
-Al 1999 Amy Bruckman en el seu article presentat a la Game Developers Conference de San José, Califòrnia, ens introdueix un nou concepte ‘Edutainment’. Contracció d'Educational i Entertainment, Bruckman,1999 es refereix a aquells productes que generalment són d'entreteniment però que es dissenyen amb un rerefons educatiu principal. Posar al mateix nivell, dos noms, Educació i Entreteniment.
+És poc probable que aquesta última categoria resulti especialment atractiva per a molts jugadors, ja que sovint es percep com un producte menys interessant des del punt de vista lúdic.
 
-Comparativament veig més encertat ‘Edutainment’ que ‘Videojoc Educatiu’, però encara lluny del que estem realitzant. 
+Davant d'aquest problema conceptual, es pot plantejar una inversió de perspectiva: situar **l'educació com a element central** i entendre el **videojoc com una metodologia o eina pedagògica**.
 
-Una passa enrere a l’hora de definir aquest concepte seria ‘Serious Games’. Amb tots els inconvenients del terme ‘Videojocs Educatius’, accentuat pel ‘Serious’.
+En aquesta línia, [[Bruckman, Amy]] va introduir el terme **Edutainment** en una ponència presentada a la *Game Developers Conference* de San José el 1999. El concepte, resultat de la contracció entre *education* i *entertainment*, intenta situar educació i entreteniment en un mateix nivell conceptual.
 
-Aleshores quin terme utilitzar per a definir aquests videojocs que fem perquè siguin portats a les aules i que a partir d’ells, es puguin desplegar continguts, avaluar competències..
+Tot i que el terme *Edutainment* pot resultar més equilibrat que *videojoc educatiu*, encara no descriu del tot el tipus d'experiència que es planteja en aquesta investigació.
 
-Abans de definir aquest concepte, crec que hem d’entendre exactament quin tipus de videojocs estem realitzant.
+Un altre concepte relacionat és el de [[Serious Games]], que fa referència a jocs dissenyats amb finalitats que van més enllà de l'entreteniment. Tot i així, aquest terme també presenta limitacions conceptuals, ja que l'adjectiu *serious* pot reforçar la idea que el joc deixa de ser joc quan es vincula a objectius educatius.
+
+Això planteja una qüestió fonamental: **quin terme és adequat per descriure els videojocs que es desenvolupen amb l'objectiu de ser utilitzats en contextos educatius?**
+
+Abans de respondre aquesta pregunta, pot ser necessari comprendre amb més precisió **quin tipus de videojocs s'estan desenvolupant realment en aquest projecte**.
+
+---
 
 ## Un Pleonasme
-Parlar de [[Videojocs Educatius, Un Oxímoron i Pleonasme alhora]] és un pleonasme, com persones humanes o expressions com:
-"ho vaig veure amb els meus propis ulls"
-"surt a fora" o
-"El que no pot ser no pot ser, i a més és impossible"
 
-Tots els videojocs son educatius. Un altre tema seria quins son els continguts o les competències que aprenen els jugadors.
+Des d'una perspectiva alternativa, el concepte *videojoc educatiu* pot entendre's també com un **pleonasme**.
+
+Un pleonasme és una expressió redundant que repeteix una idea que ja està implícita en el terme principal. Alguns exemples habituals són:
+
+- "ho vaig veure amb els meus propis ulls"
+- "sortir a fora"
+- "persones humanes"
+
+En aquest sentit, es podria argumentar que **tots els videojocs són educatius**.
+
+Els videojocs impliquen processos constants d'aprenentatge: comprendre regles, dominar mecàniques, desenvolupar estratègies, interpretar sistemes i prendre decisions dins d'un entorn interactiu.
+
+Diversos autors han destacat aquest potencial educatiu inherent dels videojocs. Per exemple, [[Gee, James Paul]] descriu en la seva obra *What Video Games Have to Teach Us About Learning and Literacy* fins a **36 principis d'aprenentatge** presents en videojocs ben dissenyats.
+
+Des d'aquesta perspectiva, el debat no hauria de centrar-se tant en si un videojoc és educatiu o no, sinó en **quins tipus d'aprenentatge promou i quines competències desenvolupa**.
+
+---
 
 ## Conceptes Relacionats
-Podem ubicar el naixement del concepte [[Serious Games]] al [[1970]] per [[Abt, Clark]].
-Dins dels [[Serious Games]] trobem els [[Persuasive Games]], descrit per [[Bogost, Ian]] al [[2007]] o anomenat d'una altra manera per 
-[[Morales Moras, J.]] al [[2005]] com  [[Social Committed Games]].
 
-[[Gee, Paul]]
-Lo que nos enseñan los videojuegos sobre el aprendizaje y alfabetismo, 36 principis d'aprenentatge a través del videojoc.
+El concepte de [[Serious Games]] es pot situar històricament a l'obra de [[Abt, Clark]] publicada el [[1970]].
 
+Posteriorment, diversos autors han desenvolupat categories específiques dins d'aquest camp:
+
+- [[Persuasive Games]], descrits per [[Bogost, Ian]] (2007), que utilitzen el videojoc com a mitjà de persuasió o argumentació.
+- [[Social Committed Games]], concepte utilitzat per [[Morales Moras, J.]] (2005) per referir-se a videojocs amb una intencionalitat social o crítica.
+
+També cal destacar l'aportació de [[Gee, James Paul]], que analitza els videojocs com a entorns d'aprenentatge complexos capaços de generar processos profunds d'adquisició de coneixement.

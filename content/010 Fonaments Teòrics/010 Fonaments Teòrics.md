@@ -28,8 +28,8 @@ El marc teòric s’organitza en diversos àmbits que dialoguen entre si.
 
 Teories que permeten comprendre l’aprenentatge com un procés col·lectiu, distribuït i mediat per artefactes.
 
-→ [[Cognició distribuïda]]  
-→ [[Cognició de grup]]  
+→ [[025 Cognició distribuïda]]  
+→ [[026 Cognició de grup]]  
 → [[CSCL]]  
 → [[Knowledge-Building Environments]]
 

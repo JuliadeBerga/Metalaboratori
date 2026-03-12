@@ -76,8 +76,8 @@ Aquest marc és clau per comprendre:
 Aquesta teoria fonamenta especialment:
 
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques d’agència]]
-→ [[Dinàmiques de co-creació]]
+→ [[022 Redistribució d’agència]]
+→ [[024 Dinàmiques de co-creació]]
 
 i contribueix a la formalització de:
 

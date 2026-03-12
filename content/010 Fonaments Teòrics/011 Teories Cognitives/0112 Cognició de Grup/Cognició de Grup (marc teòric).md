@@ -108,7 +108,7 @@ Aquest marc permet interpretar que en els entorns analitzats:
 La cognició de grup explica l’emergència de:
 
 → [[Subjecte col·lectiu]]  
-→ [[Co-associació]]  
+→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
 → [[Autoritat epistèmica distribuïda]]
 
 ---

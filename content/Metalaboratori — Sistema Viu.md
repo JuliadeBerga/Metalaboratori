@@ -9,8 +9,8 @@ El Metalaboratori és la cartografia conceptual d’aquest sistema.
 
 Marc teòric que permet entendre l’aprenentatge com a fenomen social, situat i distribuït.
 
-→ [[Cognició distribuïda]]  
-→ [[Cognició de grup]]  
+→ [[025 Cognició distribuïda]]  
+→ [[026 Cognició de grup]]  
 → [[Actor-Xarxa]]  
 → [[Aprenentatge col·laboratiu]]  
 → [[Gamificació]]
@@ -27,17 +27,17 @@ Configuració material i normativa que regula l’activitat i estructura les con
 
 Transformacions en la relació pedagògica quan l’espai és co-creat pels participants.
 
-→ [[Dinàmiques d’agència]]  
-→ [[Co-associació]]  
-→ [[Transformació de rols]]  
+→ [[022 Redistribució d’agència]]  
+→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+→ [[023 Transformació de rols]]  
 → [[Autoritat epistèmica]]
 
 ## Cognició en el sistema
 
 Formes de pensament que emergeixen de la coordinació entre persones, artefactes i arquitectura.
 
-→ [[Cognició distribuïda]]  
-→ [[Cognició de grup]]  
+→ [[025 Cognició distribuïda]]  
+→ [[026 Cognició de grup]]  
 → [[Subjecte col·lectiu]]  
 → [[Coordinació sociomaterial]]
 

@@ -78,9 +78,9 @@ Aquest marc permet interpretar els entorns digitals d’aprenentatge com:
 Aquesta teoria fonamenta especialment:
 
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques de co-creació]]  
-→ [[Dinàmiques d’agència]]
-→ [[Cognició de grup]]
+→ [[024 Dinàmiques de co-creació]]  
+→ [[022 Redistribució d’agència]]
+→ [[026 Cognició de grup]]
 
 i contribueix a la formalització de:
 

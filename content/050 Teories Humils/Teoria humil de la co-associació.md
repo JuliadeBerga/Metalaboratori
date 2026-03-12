@@ -60,8 +60,8 @@ Aquestes tensions no són inherents al model, però constitueixen condicions de 
 
 ## Relacions
 
-→ [[Dinàmiques d’agència]]  
-→ [[Transformació de rols]]  
+→ [[022 Redistribució d’agència]]  
+→ [[023 Transformació de rols]]  
 → [[Arquitectura pedagògica]]  
 → [[Teoria humil de la compatibilitat estructural]]  
 → [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]  

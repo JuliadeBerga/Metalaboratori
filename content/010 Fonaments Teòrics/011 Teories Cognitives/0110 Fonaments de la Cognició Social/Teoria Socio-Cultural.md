@@ -85,8 +85,8 @@ Sense Vygotsky no es pot comprendre la genealogia teòrica del Metalaboratori.
 La seva influència és directa en:
 
 → [[Teoria de l’Activitat]] (Leont’ev, Engeström)  
-→ [[Cognició Distribuïda]]  
-→ [[Cognició de Grup]]  
+→ [[025 Cognició distribuïda]]  
+→ [[026 Cognició de grup]]  
 → [[Teoria de l’Aprenentatge Situat]]
 
 ---
@@ -111,9 +111,9 @@ Aquest marc permet comprendre:
 
 És un fonament directe de:
 
-→ [[Dinàmiques d’agència]]
-→ [[Co-associació]]  
-→ [[Cognició distribuïda]]  
+→ [[022 Redistribució d’agència]]
+→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+→ [[025 Cognició distribuïda]]  
 → [[Subjecte col·lectiu]]
 
 ---

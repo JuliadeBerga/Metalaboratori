@@ -18,12 +18,12 @@ Aquestes quatre teories no funcionen de manera aïllada. Formen part d’un mate
 Les teories humils emergeixen de la relació entre els principals dominis analítics de la recerca:
 
 - [[Arquitectura pedagògica]]
-- [[Dinàmiques d’agència]]
-- [[Transformació de rols]]
-- [[Dinàmiques de co-creació]]
-- [[Cognició distribuïda]]
-- [[Cognició de grup]]
-- [[Límits i tensions del sistema]]
+- [[022 Redistribució d’agència]]
+- [[023 Transformació de rols]]
+- [[024 Dinàmiques de co-creació]]
+- [[025 Cognició distribuïda]]
+- [[026 Cognició de grup]]
+- [[027 Límits i tensions del sistema]]
 
 ## Relació amb les iteracions
 

@@ -204,7 +204,7 @@ Aquest concepte fonamenta directament:
 
 → [[Redistribució d’agència]]  
 → [[Subjecte col·lectiu]]  
-→ [[Cognició de grup]]  
+→ [[026 Cognició de grup]]  
 → [[Teoria humil de la co-associació]]
 
 La co-associació és el mecanisme que permet que el sistema educatiu funcioni com un **sistema viu**.

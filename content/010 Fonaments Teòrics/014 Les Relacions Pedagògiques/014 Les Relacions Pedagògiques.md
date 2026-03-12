@@ -169,8 +169,8 @@ Aquest apartat connecta especialment amb:
 → [[Cognició distribuïda (marc teòric)]]  
 → [[Cognició de grup (marc teòric)]]  
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques d’agència]]  
-→ [[Co-associació]]  
+→ [[022 Redistribució d’agència]]  
+→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
 → [[Teoria humil de la co-associació]]
 
 i actua com a pont entre:

@@ -102,10 +102,10 @@ Aquest marc es complementa amb línies que amplien la seva comprensió:
 
 Aquest marc fonamenta especialment:
 
-→ [[Cognició de grup]]  
+→ [[026 Cognició de grup]]  
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques de co-creació]]  
-→ [[Dinàmiques d’agència]]
+→ [[024 Dinàmiques de co-creació]]  
+→ [[022 Redistribució d’agència]]
 
 i contribueix a la formalització de:
 

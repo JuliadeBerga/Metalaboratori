@@ -65,8 +65,8 @@ Aquestes implicacions no prescriuen un model únic, sinó criteris per analitzar
 ## Relacions
 
 → [[Arquitectura pedagògica]]  
-→ [[Dinàmiques d’agència]]  
-→ [[Transformació de rols]]  
+→ [[022 Redistribució d’agència]]  
+→ [[023 Transformació de rols]]  
 → [[Teoria humil de la co-associació]]  
 → [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]  
 ## Representació esquemàtica de tensions estructurals entre orientació estudiantil i distribució d'autoritat

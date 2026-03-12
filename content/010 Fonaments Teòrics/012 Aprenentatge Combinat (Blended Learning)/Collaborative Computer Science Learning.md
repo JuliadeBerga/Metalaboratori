@@ -115,7 +115,7 @@ Els projectes desenvolupats pels estudiants mostren:
 Aquestes dinàmiques constitueixen exemples clars de:
 
 → [[Cognició distribuïda (marc teòric)]]  
-→ [[Dinàmiques de co-creació]]  
+→ [[024 Dinàmiques de co-creació]]  
 → [[Arquitectura pedagògica]]
 
 ---

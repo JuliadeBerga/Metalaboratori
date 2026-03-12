@@ -18,9 +18,9 @@ Són les peces bàsiques del sistema.
 Representen conceptes clau de la recerca i actuen com a punts de connexió entre idees.
 
 Exemples:  
-→ [[Cognició distribuïda]]  
+→ [[025 Cognició distribuïda]]  
 → [[Arquitectura pedagògica]]  
-→ [[Co-associació]]
+→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]
 
 Cada node conceptual et permet:
 

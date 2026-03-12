@@ -94,8 +94,8 @@ Aquesta teoria fonamenta especialment:
 → [[Evolució del Sistema]]  
 → [[Arquitectura pedagògica]]
 → [[Transformació Iterativa]]  
-→ [[Dinàmiques d’agència]]
-→ [[Dinàmiques de co-creació]]
+→ [[022 Redistribució d’agència]]
+→ [[024 Dinàmiques de co-creació]]
 
 i és clau per comprendre l’emergència de:
 
