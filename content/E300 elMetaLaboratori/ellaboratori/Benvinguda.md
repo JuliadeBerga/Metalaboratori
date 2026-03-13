@@ -10,9 +10,9 @@ Disseny molt semblant al disseny definitiu de ellaboratori.
 ## Objectiu d'aquest Espai
 Els accesos que permet ellaboratori (versió definitiva) son els següents:
 1.- [[OldLab]] Accés a ellaboratori de curs anteriors on es poden veure fins a 5 evolucions del web
-2.- [[LabTube]], visualitzador i classificador de videos amb tot el material generat
-3.- [[Laable]], buscador propi de la base de dades creada
-4.- [[LabFlix]], portal on jugar a tots el videojocs desenvolupats
+2.- [[E300 elMetaLaboratori/ellaboratori/LabTube]], visualitzador i classificador de videos amb tot el material generat
+3.- [[E300 elMetaLaboratori/ellaboratori/Laable]], buscador propi de la base de dades creada
+4.- [[E300 elMetaLaboratori/ellaboratori/LabFlix]], portal on jugar a tots el videojocs desenvolupats
 5.- [[la Tesi]], connexió de ellaboratori amb aquesta plataforma
 6.- [[Tutorials]], recopilació del temari desenvolupat pels estudiants
 7.- [[Mosquit Tigre, el Videjoc]], joc del mosquit tigre programat per a Dipsalut
@@ -21,7 +21,7 @@ Els accesos que permet ellaboratori (versió definitiva) son els següents:
 
 ## Connexions al Marc Teòric
 Per aprofundir més en els conceptes que han donat la base teòrica del web accedir a:
-### [[elLaboratori.cat]]
+### [[E050 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
 
 
 ## Enllaços al Web
@@ -31,9 +31,9 @@ Per aprofundir més en els conceptes que han donat la base teòrica del web acce
 ## Enllaços a la Investigació
 ### Pàgines següents: 
 ### [[OldLab]]
-### [[LabTube]]
-### [[Laable]]
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 ### [[Tutorials]]
 ### [[Mosquit Tigre, el Videjoc]]

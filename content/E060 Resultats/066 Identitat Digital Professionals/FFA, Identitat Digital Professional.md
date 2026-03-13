@@ -5,7 +5,7 @@ tags:: #concepte_propi #aprenentatge_digital  #aprenentatge_colaboratiu #aprenen
 
 ## Conceptes Previs
 [[Identitat Digital Professional]]
-[[elLaboratori.cat]]
+[[E050 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
 
 ## Background
 El curs 19-20 mentre els alumnes del cicle de grau superior d'informàtica iniciaven un projecte col·laboratiu, tres alumnes del cicle de grau mig van voler participar i vàren desenvolupar un videojoc amb la col·laboració del doctor i líder de les FEP [[Cornellà, Pere]].

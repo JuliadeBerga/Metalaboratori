@@ -7,7 +7,7 @@ tags:: #concepte_propi #Identitat-Digital #xarxes #MOC6
 
 ## Conceptes Previs
 [[Disseny d'un Sistema de Punts]]
-[[elLaboratori.cat]]
+[[E050 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
 [[020 Conceptes Marc Teòric/0220 El món digital a les aules/0221 Aprenentatge Digital/Partnering]]
 
 ## Background

@@ -39,5 +39,5 @@ Porta d'accés als LabFlix creats en cursos anteriors, GameJam participades, pro
 ### Pàgines anteriors: 
 ### [[Benvinguda]]
 ### [[OldLab]]
-### [[LabTube]]
-### [[Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]

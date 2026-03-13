@@ -39,8 +39,8 @@ L'única condició dels estudiants de DAM va ser que havia de ser un videojoc (n
 ### Pàgines anteriors: 
 ### [[Benvinguda]]
 ### [[OldLab]]
-### [[LabTube]]
-### [[Laable]]
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 ### [[Tutorials]]

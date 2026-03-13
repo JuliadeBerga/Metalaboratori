@@ -28,9 +28,9 @@ col·laboratiu, digital i gamificat.
 
 ## Enllaços a la Investigació
 ### Pàgines següents: 
-### [[LabTube]]
-### [[Laable]]
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 ### [[Tutorials]]
 ### [[Mosquit Tigre, el Videjoc]]

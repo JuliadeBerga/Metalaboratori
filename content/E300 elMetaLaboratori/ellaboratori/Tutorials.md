@@ -36,8 +36,8 @@ Fer visible tota la documentació generada pels estudiants, com a recurs per als
 ### Pàgines anteriors: 
 ### [[Benvinguda]]
 ### [[OldLab]]
-### [[LabTube]]
-### [[Laable]]
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 

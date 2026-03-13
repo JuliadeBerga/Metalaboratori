@@ -23,28 +23,28 @@ Des d’aquesta perspectiva, el Metalaboratori no s’entén només com un espai
 
 ---
 
-## Components de l’arquitectura
+# Components de l’arquitectura
 
 En la recerca analitzada, l’arquitectura pedagògica es concreta en:
 
-- el **[[Sistema de portes]]** com a avaluació acumulativa visible
+- el **[[Sistema de portes]]** com a arquitectura d’avaluació visible
     
-- la **diferenciació explícita entre mínims i màxims**
+- la **diferenciació entre mínims i màxims** dins el projecte
     
-- la **traçabilitat dels assoliments**
+- la **traçabilitat del progrés** dins el sistema
     
-- la **integració de fases del projecte**
+- la **separació entre espais públics i interns**
     
-- la **separació d’espais públics i interns**
+- la **publicació dels projectes desenvolupats**
     
-- els **dispositius normatius compartits**, com el decàleg
+- la **documentació del coneixement produït**
     
 
 Aquests elements no operen de manera decorativa, sinó que estructuren la governança del procés educatiu.
 
 ---
 
-## Funció analítica del domini
+# Funció analítica del domini
 
 Aquest domini permet analitzar:
 
@@ -56,85 +56,127 @@ Aquest domini permet analitzar:
     
 - com es legitimen recorreguts diferenciats
     
-- com l’espai esdevé memòria, bastida i estructura de coordinació
+- com l’espai esdevé memòria i bastida del sistema
     
 
 L’arquitectura estableix el marc estructural dins el qual operen la **redistribució d’agència**, la **transformació de rols** i les **dinàmiques cognitives**.
 
 ---
 
-## Estructura interna de la capa
+# Estructura interna de la capa
 
-Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant de diversos conceptes que descriuen les **condicions estructurals de possibilitat** del sistema:
-
-### Espai d’aprenentatge
-
-- [[Espai híbrid d'aprenentatge]]
-    
-- [[Ecologia d'aprenentatge]]
-    
-- [[Sistema sociotècnic d’aprenentatge]]
-    
-- [[Infraestructura d’aprenentatge]]
-    
-- [[Ecosistema digital educatiu]]
-    
-
-### Arquitectura del web
-
-- [[Arquitectura MVC]]
-    
-- [[Backend pedagògic]]
-    
-- [[Frontend pedagògic]]
-    
-- [[Base de dades com a memòria del sistema]]
-    
-- [[Infraestructura tecnològica]]
-    
-
-### Organització del sistema
-
-- [[Sistema de portes]]
-    
-- [[Avaluació integrada]]
-    
-- [[Ritmes d’aprenentatge]]
-    
-- [[Progressió visible]]
-    
-- [[Sistema de punts]]
-    
-
-### Espais del sistema
-
-- [[Espai privat de creació]]
-    
-- [[Espai públic de difusió]]
-    
-- [[Separació joc/web]]
-    
-- [[Espais d’interacció]]
-    
-- [[Espais de documentació]]
-    
-
-### Artefactes del sistema
-
-- [[Artefactes digitals]]
-    
-- [[Tutorials]]
-    
-- [[Galeria de projectes]]
-    
-- [[Històrics del sistema]]
-    
-- [[Memòria del laboratori]]
-    
+Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels dispositius concrets que configuren ellaboratori.cat.
 
 ---
 
-## Connexió amb les teories humils
+# 1. Infraestructura del laboratori
+
+- [[ellaboratori.cat]]
+    
+- [[Històric de laboratoris]]
+    
+- [[Espai públic del laboratori]]
+    
+- [[Espai privat del joc]]
+    
+- [[Metalaboratori]]
+
+
+Aquest conjunt descriu la **infraestructura digital que sosté el sistema**.
+
+---
+
+# 2. Dispositius de producció de projectes
+
+- [[Formulari de propostes de videojocs (FEP)]]
+    
+- [[Creació d’equips]]
+    
+- [[Galeria de videojocs]]
+    
+- [[Testatge de videojocs]]
+    
+- [[Pujar videojoc]]
+    
+- [[Visualització dels jocs en curs]]
+    
+
+Aquests dispositius permeten **iniciar i estructurar el desenvolupament dels videojocs**.
+
+---
+
+# 3. Dispositius de visibilitat i circulació
+
+- [[LabFlix]]
+    
+- [[Galeria de videojocs]]
+    
+- [[Laable]]
+    
+- [[Perfil professional digital]]
+    
+- [[Directori de participants]]
+    
+
+Aquests espais fan possible la **circulació dels projectes i de les persones dins el sistema**.
+
+---
+
+# 4. Dispositius de producció de coneixement
+
+- [[Tutorials del laboratori]]
+    
+- [[LabTube]]
+    
+- [[Continguts creats pels estudiants]]
+    
+
+Aquests dispositius permeten **documentar i reutilitzar el coneixement produït dins el projecte**.
+
+---
+
+# 5. Dispositius socials experimentals
+
+- [[LabTuit]]
+    
+- [[Xat del laboratori]]
+    
+- [[Espais de discussió fallits]]
+    
+
+Aquests elements documenten **intents de crear espais socials interns que no es van consolidar en la pràctica**.
+
+---
+
+# 6. Dispositius d’avaluació
+
+- [[Sistema de portes]]
+    
+- [[Sistema de punts]]
+    
+- [[Visualització del progrés]]
+    
+
+Aquest conjunt configura **l’arquitectura d’avaluació del sistema**, que integra l’avaluació dins el procés d’activitat.
+
+---
+
+# 7. Artefactes en fase de disseny
+
+- [[App de ellaboratori]]
+    
+- [[Botiga del laboratori]]
+    
+- [[Identitat digital d’aprenent]]
+    
+- [[Laboratori de laboratoris]]
+    
+
+Aquests conceptes documenten **direccions d’evolució del sistema que van ser explorades durant el procés de disseny però no implementades**.
+
+---
+
+# Connexió amb les teories humils
 
 Aquest domini constitueix el fonament de:
 
@@ -149,27 +191,29 @@ L’arquitectura és el nivell a partir del qual el sistema deixa de ser només 
 
 ---
 
-## Desenvolupament a les iteracions
+# Desenvolupament a les iteracions
 
 - [[040 Iteració 1]] — emergència de la co-creació de l’espai
     
-- [[050 Iteració 2]] — consolidació d’una arquitectura distribuïda
+- [[050 Iteració 2]] — consolidació de l’arquitectura del laboratori
     
 - [[060 Iteració 3]] — evolució del sistema de portes com a arquitectura d’avaluació
     
 
 ---
 
-## Paper dins del Sistema Viu del Metalaboratori
+# Paper dins del Sistema Viu del Metalaboratori
 
-L’arquitectura pedagògica constitueix la **primera capa del sistema viu**. No descriu encara què pensen els participants ni com emergeix la cognició col·lectiva, sinó el **marc material i normatiu** que fa possible que aquestes dinàmiques arribin a aparèixer.
+L’arquitectura pedagògica constitueix la **primera capa del sistema viu**.
 
-És, per tant, la capa que connecta:
+No descriu encara les dinàmiques cognitives ni les transformacions de les relacions pedagògiques, sinó el **marc sociomaterial que les fa possibles**.
 
-- el disseny de l’espai
+Aquesta capa connecta:
+
+- el disseny de l’espai digital
     
-- la governança del procés
+- la governança del procés educatiu
     
 - la redistribució d’agència
     
-- i la transformació posterior de les relacions pedagògiques
+- i l’emergència posterior de la cognició col·lectiva.

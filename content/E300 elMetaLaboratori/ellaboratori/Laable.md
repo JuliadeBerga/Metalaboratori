@@ -34,7 +34,7 @@ Ordenar i facilitar tota la informació perquè l'estudiant 'tan sols' la coneve
 
 ## Enllaços a la Investigació
 ### Pàgines següents: 
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 ### [[Tutorials]]
 ### [[Mosquit Tigre, el Videjoc]]
@@ -44,5 +44,5 @@ Ordenar i facilitar tota la informació perquè l'estudiant 'tan sols' la coneve
 ### Pàgines anteriors: 
 ### [[Benvinguda]]
 ### [[OldLab]]
-### [[LabTube]]
+### [[E300 elMetaLaboratori/ellaboratori/LabTube]]
 

@@ -13,10 +13,10 @@ Gestor/Visualitzador de videos, tipus YouTube.
 a.- Vídeos dels professors
 b.- Vídeos dels alumnes
 c.- Vídeos de la xarxa (utlitzats per alumnes o professors) útils per al desenvolupament de la materia.
-3.- De la mateixa manera que el [[Laable]], el LabTube disposa d'un buscador propi.
+3.- De la mateixa manera que el [[E300 elMetaLaboratori/ellaboratori/Laable]], el LabTube disposa d'un buscador propi.
 
 ## Nova Distribució 
-EL [[LabTube]] ja és una eina 100% funcional amb una base de dades propia on queden emmagatzemat tots els enllaços als videos. Per qüestions de capacitat, els videos estan allotjats directament a YouTube.
+EL [[E300 elMetaLaboratori/ellaboratori/LabTube]] ja és una eina 100% funcional amb una base de dades propia on queden emmagatzemat tots els enllaços als videos. Per qüestions de capacitat, els videos estan allotjats directament a YouTube.
 En la nova distribució, no només es poden buscar els videos seleccionats amb el buscador, sinó que a 'Tendències' apareixen els videos més actuals i a 'Biblioteca' els classifiquem segons etapa educativa i matèria.
 
 
@@ -38,8 +38,8 @@ En la nova distribució, no només es poden buscar els videos seleccionats amb e
 
 ## Enllaços a la Investigació
 ### Pàgines següents: 
-### [[Laable]]
-### [[LabFlix]]
+### [[E300 elMetaLaboratori/ellaboratori/Laable]]
+### [[E300 elMetaLaboratori/ellaboratori/LabFlix]]
 ### [[la Tesi]]
 ### [[Tutorials]]
 ### [[Mosquit Tigre, el Videjoc]]
