@@ -111,5 +111,5 @@ Alguns especialistes assumeixen de manera sostinguda funcions d’orientació, c
 [[Nucli d’especialistes]]  
 [[Autoritat epistèmica estudiantil]]  
 [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Exercici docent distribuït]]  
-[[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+[[Co-associació (Conceptes Propis)]]  
 [[Cognició distribuïda]]

@@ -112,7 +112,7 @@ Aquest marc permet comprendre:
 És un fonament directe de:
 
 → [[022 Redistribució d’agència]]
-→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+→ [[Co-associació (Conceptes Propis)]]  
 → [[025 Cognició distribuïda]]  
 → [[Subjecte col·lectiu]]
 

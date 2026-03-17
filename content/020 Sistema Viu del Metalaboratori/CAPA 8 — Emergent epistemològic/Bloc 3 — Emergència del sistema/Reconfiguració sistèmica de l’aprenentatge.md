@@ -186,7 +186,7 @@ La reconfiguració sistèmica explica **com canvia l’aprenentatge quan canvia 
 
 Aquest concepte es relaciona amb:
 
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 - [[Redistribució d’agència]]
     

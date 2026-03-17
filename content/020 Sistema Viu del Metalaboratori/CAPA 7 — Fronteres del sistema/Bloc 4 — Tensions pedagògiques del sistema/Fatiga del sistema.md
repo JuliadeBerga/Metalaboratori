@@ -114,7 +114,7 @@ Aquest concepte es relaciona amb:
 
 - [[Nucli d’especialistes]]
     
-- [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]
+- [[Co-associació (Conceptes Propis)]]
     
 - [[Asimetries de dedicació]]
     

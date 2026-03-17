@@ -36,7 +36,7 @@ Fa possible analitzar:
     
 - com es distribueix la funció docent en situacions de co-docència
     
-- sota quines condicions pot emergir una relació de co-associació
+- sota quines condicions pot emergir una relació de [[Co-associació]]
     
 - com els objectes i infraestructures actuen de frontera entre comunitats heterogènies
     
@@ -170,7 +170,7 @@ Aquest apartat connecta especialment amb:
 → [[Cognició de grup (marc teòric)]]  
 → [[Arquitectura pedagògica]]  
 → [[022 Redistribució d’agència]]  
-→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+→ [[Co-associació]]  
 → [[Teoria humil de la co-associació]]
 
 i actua com a pont entre:

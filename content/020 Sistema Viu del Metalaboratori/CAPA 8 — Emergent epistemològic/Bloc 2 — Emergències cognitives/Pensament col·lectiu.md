@@ -137,7 +137,7 @@ Aquest concepte es relaciona amb:
     
 - [[Co-docència emergent]]
     
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 
 Forma part de la capa:

@@ -53,5 +53,5 @@ la funció docent es redistribueix parcialment dins el sistema.
 ## Connexions
 
 [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Exercici docent distribuït]]  
-[[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Co-associació]]  
+[[Co-associació (Dinàmiques d'agència)]]  
 [[Transformació de rols]]

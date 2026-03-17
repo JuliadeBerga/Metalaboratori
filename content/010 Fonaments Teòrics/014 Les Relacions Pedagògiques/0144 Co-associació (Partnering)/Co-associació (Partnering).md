@@ -1,4 +1,4 @@
-# 0144 Co-associació (Partnering)
+# Co-associació (Partnering)
 
 _(Relació pedagògica basada en la cooperació simètrica entre educador i aprenent)_
 

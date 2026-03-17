@@ -142,7 +142,7 @@ Aquesta capa descriu les propietats emergents del sistema pedagògic a través d
 
 ### Transformacions pedagògiques emergents
 
-- [[Co-associació]]
+- [[Co-associació (Conceptes Propis)]]
     
 - [[Exercici docent distribuït]]
     
@@ -160,7 +160,7 @@ Aquesta capa descriu les propietats emergents del sistema pedagògic a través d
 
 ### Transformacions del sistema
 
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 - [[Reconfiguració sistèmica de l’aprenentatge]]
     

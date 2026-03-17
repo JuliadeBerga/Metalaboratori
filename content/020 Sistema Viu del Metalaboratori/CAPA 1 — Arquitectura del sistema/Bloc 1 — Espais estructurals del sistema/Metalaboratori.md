@@ -21,5 +21,5 @@ Cada recurs del web disposa d’un accés al Metalaboratori que permet consultar
 
 [[ellaboratori.cat]]  
 [[Recursos educatius del laboratori]]  
-[[Teories humils]]  
+[[Teories humils de la recerca]]  
 [[Sistema conceptual del laboratori]]

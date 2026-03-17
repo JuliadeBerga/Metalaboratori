@@ -147,7 +147,7 @@ L’aprenentatge es conceptualitza com un **procés de transformació sociomater
 
 Aquest concepte es relaciona amb:
 
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 - [[Reconfiguració sistèmica de l’aprenentatge]]
     
@@ -320,7 +320,7 @@ L’aprenentatge es conceptualitza com un **procés de transformació sociomater
 
 Aquest concepte es relaciona amb:
 
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 - [[Reconfiguració sistèmica de l’aprenentatge]]
     

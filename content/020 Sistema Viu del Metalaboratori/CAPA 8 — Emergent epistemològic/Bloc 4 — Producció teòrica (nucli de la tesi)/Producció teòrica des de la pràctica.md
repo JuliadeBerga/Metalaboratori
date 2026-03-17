@@ -154,7 +154,7 @@ La teoria es configura com a part del sistema analitzat, i no com una capa exter
 
 Aquest concepte es relaciona amb:
 
-- [[Sistema viu d’aprenentatge]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Bloc 3 — Emergència del sistema/Sistema viu d’aprenentatge]]
     
 - [[Reconfiguració sistèmica de l’aprenentatge]]
     

@@ -45,4 +45,4 @@ Permet que la validació del coneixement es converteixi en un procés **col·lec
 [[Autoritat epistèmica]]  
 [[Autoritat epistèmica estudiantil]]  
 [[Cognició de grup]]  
-[[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]
+[[Co-associació (Conceptes Propis)]]

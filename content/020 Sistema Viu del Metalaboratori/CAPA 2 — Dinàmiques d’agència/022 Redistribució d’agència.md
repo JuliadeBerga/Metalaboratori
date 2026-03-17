@@ -139,7 +139,7 @@ Aquest bloc analitza **com el disseny del sistema participa en la regulació de 
 
 # 5. Dinàmiques clau de la tesi
 
-- [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Co-associació]]
+- [[Co-associació (Dinàmiques d'agència)]]
     
 - [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Exercici docent distribuït]]
     

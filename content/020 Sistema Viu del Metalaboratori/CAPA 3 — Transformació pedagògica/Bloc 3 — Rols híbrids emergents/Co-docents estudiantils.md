@@ -86,7 +86,7 @@ Aquest fenomen constitueix una manifestació clara de l’[[020 Sistema Viu del 
 
 Quan les pràctiques d’orientació entre iguals esdevenen habituals, es creen les condicions per a formes més avançades de col·laboració pedagògica.
 
-Aquest procés prepara l’emergència de dinàmiques de [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]], en què estudiants i docent participen conjuntament en l’orientació de l’activitat.
+Aquest procés prepara l’emergència de dinàmiques de [[Co-associació (Conceptes Propis)]], en què estudiants i docent participen conjuntament en l’orientació de l’activitat.
 
 ---
 
@@ -111,5 +111,5 @@ Les pràctiques d’orientació entre iguals es consoliden i contribueixen a for
 [[Nucli d’especialistes]]  
 [[Especialistes com a referents]]  
 [[020 Sistema Viu del Metalaboratori/CAPA 8 — Emergent epistemològic/Exercici docent distribuït]]  
-[[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+[[Co-associació (Conceptes Propis)]]  
 [[Cognició distribuïda]]

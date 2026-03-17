@@ -39,6 +39,6 @@ alguns estudiants passen a orientar altres participants dins el procés de desen
 ## Connexions
 
 [[Agència docent]]  
-[[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Agència sistèmica]]  
-[[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
+[[Agència sistèmica]]  
+[[Co-associació]]  
 [[Cognició distribuïda]]

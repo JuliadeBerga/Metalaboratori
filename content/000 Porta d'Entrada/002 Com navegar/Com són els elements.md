@@ -20,7 +20,7 @@ Representen conceptes clau de la recerca i actuen com a punts de connexió entre
 Exemples:  
 → [[025 Cognició distribuïda]]  
 → [[Arquitectura pedagògica]]  
-→ [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]
+→ [[Co-associació]]
 
 Cada node conceptual et permet:
 

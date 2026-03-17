@@ -1,4 +1,4 @@
-# Co-associació
+# Co-associació (Dinàmiques d'agència)
 
 ## Definició
 
