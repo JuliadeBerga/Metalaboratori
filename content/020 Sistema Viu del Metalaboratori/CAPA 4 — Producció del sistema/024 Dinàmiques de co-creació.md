@@ -1,146 +1,165 @@
 # 024 Dinàmiques de co-creació
 
-_(Producció col·lectiva de l’arquitectura pedagògica)_
+_(Producció col·lectiva del sistema d’aprenentatge)_
 
-Aquest domini analitza els processos mitjançant els quals **estudiants i docents construeixen conjuntament l’arquitectura de l’entorn d’aprenentatge i la pràctica pedagògica associada**.
+Aquest domini analitza els processos mitjançant els quals **els participants del Metalaboratori produeixen i transformen el propi sistema d’aprenentatge**.
 
-No estudia els efectes cognitius d’aquesta producció col·lectiva, sinó **el procés mateix de construcció conjunta**.
+En el context analitzat, l’entorn educatiu no apareix com una estructura completament definida pel docent abans de l’activitat, sinó com un sistema que **es construeix progressivament a través de la participació dels seus membres**.
 
-En el sistema analitzat, l’entorn digital, les regles del sistema i part dels dispositius pedagògics no són dissenyats exclusivament pel docent, sinó que **emergeixen de processos sostinguts de co-creació**.
+Els estudiants no només desenvolupen projectes dins un entorn existent, sinó que intervenen directament en la configuració de:
 
-Aquesta capa constitueix el **motor productiu del sistema viu d’aprenentatge**.
+- la infraestructura digital del laboratori
+    
+- els dispositius que regulen l’avaluació
+    
+- les normes que orienten el funcionament del sistema
+    
+- les pràctiques pedagògiques que estructuren l’activitat educativa
+    
+
+Aquest procés converteix el Metalaboratori en un **sistema d’aprenentatge produït col·lectivament pels seus participants**.
+
+Aquesta capa descriu, per tant, **la dimensió productiva del sistema viu d’aprenentatge**.
 
 ---
 
-## Producció compartida de l’arquitectura
+## Producció del sistema
 
-La co-creació no consisteix en participació simbòlica ni en col·laboració superficial, sinó en **intervenció efectiva sobre els components estructurals del sistema**.
+La co-creació no consisteix en una participació simbòlica dins un entorn dissenyat externament, sinó en **intervencions efectives sobre els components estructurals del sistema**.
 
-Això inclou:
+Al llarg del desenvolupament del laboratori, els participants contribueixen a la producció de:
 
-- disseny de funcionalitats del web
+- funcionalitats del web
     
-- definició de dispositius d’avaluació
+- dispositius pedagògics com el sistema de portes
     
-- negociació de criteris de validació
+- criteris visibles d’avaluació
     
-- disseny de trajectòries de progressió
+- pràctiques d’orientació entre iguals
     
-- configuració de narratives i dispositius de significació
+- formes de coordinació del treball col·lectiu
     
 
-Quan els participants intervenen en aquests nivells, l’arquitectura deixa de ser imposada i esdevé **espai habitat**.
+A través d’aquestes contribucions, l’entorn deixa de ser un dispositiu extern imposat als participants i esdevé **una infraestructura construïda dins la pràctica educativa**.
 
 ---
 
-## Coordinació tècnica i governança compartida
+## Co-creació i governança del sistema
 
-La co-creació implica processos de coordinació sostinguda:
+La producció col·lectiva del sistema genera noves formes de regulació de l’activitat educativa.
 
-- presa de decisions sobre arquitectura tecnològica
+Quan els participants intervenen en la construcció de l’arquitectura del laboratori, el funcionament del sistema deixa de dependre exclusivament de les decisions del docent.
+
+La regulació de l’activitat passa a emergir de la interacció entre:
+
+- participants
     
-- integració de components desenvolupats per actors diferents
+- arquitectura digital
     
-- resolució conjunta de problemes estructurals
+- dispositius pedagògics
     
-- adaptació iterativa del sistema a noves necessitats
+- normes compartides
     
 
-Aquestes pràctiques generen formes de **governança distribuïda**, on el control no es concentra en un únic actor.
+Aquest procés dona lloc a formes de **governança distribuïda del sistema d’aprenentatge**.
 
 ---
 
-## Rituals de coordinació
+## Coordinació del sistema
 
-La producció col·lectiva requereix espais i pràctiques de sincronització:
+La producció col·lectiva del laboratori requereix mecanismes de coordinació que permetin mantenir la coherència del sistema mentre múltiples participants hi intervenen.
 
-- reunions tècniques
-    
-- espais de debat pedagògic
-    
-- canals digitals de coordinació
-    
-- sessions de revisió conjunta
-    
-- pràctiques de documentació compartida
-    
+Aquesta coordinació es produeix a través de:
 
-Aquests rituals estabilitzen la cooperació i fan possible la continuïtat del procés.
-
----
-
-## Co-creació i apropiació de l’entorn
-
-Quan els participants intervenen en la producció de l’arquitectura:
-
-- comprenen les regles del sistema
+- pràctiques de treball col·laboratiu
     
-- poden discutir-les críticament
+- discussions tècniques i pedagògiques
     
-- poden modificar-les
+- espais de sincronització de l’activitat
     
-- assumeixen responsabilitat sobre el seu funcionament
+- integració progressiva de les contribucions dins l’arquitectura del sistema
     
 
-L’entorn deixa de percebre’s com a dispositiu extern de control i esdevé **marc compartit d’acció**.
+Aquests mecanismes permeten que el sistema evolucioni sense fragmentar-se.
 
 ---
 
-## Funció analítica del domini
+## Evolució del sistema
 
-Aquest domini permet analitzar:
+La construcció del Metalaboratori es produeix a través d’un procés iteratiu en què el sistema es transforma progressivament a partir de l’experiència acumulada durant el projecte.
 
-- processos de producció col·lectiva
+Cada iteració introdueix modificacions en:
+
+- l’arquitectura del web
     
-- distribució de responsabilitats estructurals
+- els dispositius pedagògics
     
-- emergència de governança compartida
+- les pràctiques d’orientació i coordinació
     
-- formes d’apropiació de l’entorn d’aprenentatge
+- la distribució de funcions dins el sistema
     
 
-La co-creació constitueix el **mecanisme que connecta arquitectura i redistribució d’agència**.
+Aquest procés converteix el laboratori en **un sistema en evolució constant**.
 
 ---
 
 ## Estructura interna de la capa
 
-Aquesta capa del Sistema Viu del Metalaboratori analitza els conceptes que descriuen **com es produeix i evoluciona col·lectivament el sistema d’aprenentatge**.
+Aquesta capa del Sistema Viu del Metalaboratori descriu **com el sistema és produït i transformant pels seus participants**.
 
-### Producció de l’arquitectura
+### Bloc 1 — Co-creació tècnica del sistema
 
 - [[Desenvolupament col·laboratiu del web]]
     
 - [[Integració de funcionalitats]]
     
-- [[Decisions d’arquitectura]]
+- [[Arquitectura sociotècnica]]
+    
+- [[Resolució col·lectiva de problemes tècnics]]
     
 
-### Producció pedagògica
+### Bloc 2 — Co-creació normativa
 
-- [[Construcció col·lectiva de l’espai]]
+- [[Decàleg del laboratori]]
     
-- [[Disseny pedagògic emergent]]
+- [[Definició col·lectiva de criteris]]
     
-- [[Iteració pedagògica]]
+- [[Sistema de portes com a arquitectura normativa]]
+    
+- [[Governança distribuïda]]
     
 
-### Coordinació del sistema
+### Bloc 3 — Co-creació pedagògica
 
-- [[Coordinació sociotècnica]]
+- [[Emergència de co-docència]]
     
-- [[Coordinació funcional]]
+- [[Explicacions entre iguals]]
+    
+- [[Orientació pedagògica distribuïda]]
+    
+- [[Redistribució de la funció docent]]
+    
+
+### Bloc 4 — Coordinació sociotècnica
+
+- [[020 Sistema Viu del Metalaboratori/CAPA 4 — Producció del sistema/Bloc 4 — Coordinació sociotècnica/Coordinació funcional]]
     
 - [[Integració de contribucions]]
     
+- [[Rituals de coordinació]]
+    
+- [[Memòria col·lectiva del sistema]]
+    
 
-### Evolució del sistema
+### Bloc 5 — Evolució del sistema
 
 - [[Iteracions DBR]]
     
 - [[Redisseny iteratiu]]
     
 - [[Evolució del sistema]]
+    
+- [[Adaptació pedagògica]]
     
 
 ---
@@ -156,23 +175,23 @@ Aquest domini és central en:
 - [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]
     
 
-La co-creació constitueix **el mecanisme operatiu a través del qual es redistribueix l’agència dins el sistema pedagògic**.
+La co-creació constitueix **el mecanisme operatiu que permet que l’arquitectura del sistema i la distribució d’agència evolucionin conjuntament**.
 
 ---
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — emergència del nucli co-creador del web
+- [[040 Iteració 1]] — emergència de la construcció col·lectiva de l’espai
     
-- [[050 Iteració 2]] — consolidació d’una arquitectura distribuïda
+- [[050 Iteració 2]] — consolidació de la producció distribuïda del sistema
     
-- [[060 Iteració 3]] — extensió de la co-creació a la dimensió pedagògica
+- [[060 Iteració 3]] — estabilització de les dinàmiques pedagògiques emergents
     
 
 ---
 
 ## Paper dins del Sistema Viu del Metalaboratori
 
-Si l’[[Arquitectura pedagògica]] defineix l’estructura del sistema i la [[Redistribució d’agència]] descriu el moviment del poder dins aquest marc, les **dinàmiques de co-creació** expliquen **com el sistema es construeix i evoluciona col·lectivament**.
+Si l’[[021 Arquitectura pedagògica]] descriu **l’estructura del sistema** i la [[022 Redistribució d'agència]] explica **com es mou el poder dins aquesta estructura**, les **dinàmiques de co-creació** mostren **com el sistema és produït i transformant pels seus participants**.
 
-Aquesta capa mostra com el Metalaboratori passa de ser un **entorn dissenyat pel docent** a esdevenir **un sistema d’aprenentatge produït pels seus participants**.
+Aquesta capa explica com el Metalaboratori passa de ser un **entorn dissenyat inicialment pel docent** a convertir-se en **un sistema d’aprenentatge construït col·lectivament per la comunitat que hi participa**.

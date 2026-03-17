@@ -1,10 +1,10 @@
 # 022 Redistribució d’agència
 
-_(Dinàmiques d’agència dins el sistema viu d’aprenentatge)_
+_(Dinàmiques d’agència dins el Sistema Viu d’Aprenentatge)_
 
 Aquest domini analitza el **desplaçament progressiu del poder de decisió** dins l’ecosistema d’aprenentatge: qui decideix què es fa, com es fa i què té valor dins l’activitat educativa.
 
-L’agència no es considera un atribut estrictament individual, sinó una **propietat distribuïda del sistema**, que es reorganitza segons l’arquitectura de l’entorn i les pràctiques dels participants.
+L’agència no es considera un atribut estrictament individual, sinó una **propietat distribuïda del sistema**, que es reorganitza segons la configuració de l’entorn i les pràctiques dels participants.
 
 En el context del Metalaboratori, l’agència emergeix de la interacció entre:
 
@@ -21,7 +21,7 @@ Aquesta distribució progressiva de la capacitat d’intervenció modifica la ma
 
 ---
 
-## Dimensions de la redistribució
+# Dimensions de la redistribució
 
 La redistribució d’agència es manifesta en diversos nivells:
 
@@ -36,15 +36,15 @@ La redistribució d’agència es manifesta en diversos nivells:
 - desplaçament parcial de la centralitat docent
     
 
-Aquestes dimensions no impliquen absència de marc ni dissolució del rol docent, sinó **reorganització de responsabilitats dins la xarxa pedagògica**.
+Aquestes transformacions no impliquen absència de marc ni dissolució del rol docent, sinó **reorganització de responsabilitats dins la xarxa pedagògica**.
 
 L’autoritat no desapareix, sinó que **circula dins el sistema**.
 
 ---
 
-## Arquitectura com a dispositiu d’agència
+# Arquitectura com a mediadora de l’agència
 
-La redistribució no es produeix únicament per voluntat dels participants. Depèn en gran mesura de la **configuració de l’arquitectura pedagògica**.
+La redistribució d’agència no es produeix únicament per voluntat dels participants. Depèn en gran mesura de la **configuració de l’[[021 Arquitectura pedagògica]]**.
 
 Quan el sistema:
 
@@ -54,46 +54,38 @@ Quan el sistema:
     
 - integra l’avaluació en l’activitat
     
-- possibilita intervenció en la configuració del sistema
+- possibilita la intervenció en la configuració del sistema
     
 
 l’agència deixa d’estar concentrada en la figura docent i es **distribueix parcialment entre participants i arquitectura**.
 
-L’arquitectura actua així com a **mediadora sociomaterial de l’agència**.
+L’arquitectura actua així com una **mediació sociomaterial de l’agència**.
 
 ---
 
-## Funció analítica del domini
+# Mecanisme observat en la recerca
 
-Aquest domini permet analitzar:
+L’anàlisi de les iteracions del projecte permet identificar un mecanisme progressiu de redistribució d’agència.
 
-- desplaçaments de centralitat docent
-    
-- emergència de responsabilitats compartides
-    
-- transformacions en la governança del coneixement
-    
-- moviments del poder de validació dins la xarxa pedagògica
-    
+co-creació arquitectònica  
+        ↓  
+autoritat epistèmica estudiantil  
+        ↓  
+exercici docent distribuït  
+        ↓  
+co-associació
 
-La redistribució d’agència és el mecanisme que connecta:
-
-- l’[[021 Arquitectura pedagògica]]
-    
-- la [[023 Transformació de rols]]
-    
-- les formes emergents d’[[Autoritat epistèmica]]
-    
-- i les dinàmiques de [[025 Cognició distribuïda]]
-    
+Aquest procés descriu el pas d’un model pedagògic centrat en la validació docent cap a una configuració en què la producció i validació del coneixement esdevenen **processos distribuïts dins el sistema**.
 
 ---
 
-## Estructura interna de la capa
+# Estructura interna de la capa
 
-Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels conceptes que descriuen **com es redistribueix la capacitat d’intervenció dins el sistema**.
+La capa de redistribució d’agència s’organitza en cinc blocs conceptuals que descriuen diferents dimensions d’aquest fenomen.
 
-### Agència pedagògica
+---
+
+# 1. Formes d’agència
 
 - [[Agència estudiantil]]
     
@@ -101,19 +93,25 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels co
     
 - [[Agència sistèmica]]
     
-- [[Autonomia operativa]]
-    
 
-### Autoritat epistèmica
+Aquest bloc descriu **qui pot actuar dins el sistema i com s’exerceix aquesta capacitat d’intervenció**.
+
+---
+
+# 2. Redistribució d’autoritat
 
 - [[Autoritat epistèmica]]
     
+- [[Autoritat epistèmica estudiantil]]
+    
 - [[Autoritat distribuïda]]
     
-- [[Autoritat negociada]]
-    
 
-### Governança del sistema
+Aquest bloc analitza **com es transforma la validació del coneixement dins el sistema**.
+
+---
+
+# 3. Governança del sistema
 
 - [[Presa de decisions col·lectiva]]
     
@@ -122,7 +120,11 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels co
 - [[Decisió pedagògica compartida]]
     
 
-### Regulació de l’activitat
+Aquest bloc descriu **com es prenen les decisions dins l’activitat educativa**.
+
+---
+
+# 4. Regulació de l’activitat
 
 - [[Regulació per arquitectura]]
     
@@ -131,9 +133,24 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels co
 - [[Regles emergents]]
     
 
+Aquest bloc analitza **com el disseny del sistema participa en la regulació de l’activitat**.
+
 ---
 
-## Connexió amb les teories humils
+# 5. Dinàmiques clau de la tesi
+
+- [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Co-associació]]
+    
+- [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Bloc 5 — Dinàmiques clau de la tesi/Exercici docent distribuït]]
+    
+- [[Desplaçament del professor]]
+    
+
+Aquest bloc descriu les **configuracions pedagògiques emergents** que resulten de la redistribució d’agència.
+
+---
+
+# Connexió amb les teories humils
 
 Aquest domini és central en:
 
@@ -146,23 +163,25 @@ Aquest domini és central en:
 - [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]
     
 
-La redistribució d’agència constitueix un dels **mecanismes clau de transformació pedagògica** observats en la recerca.
+La redistribució d’agència constitueix un dels **mecanismes clau de transformació pedagògica observats en la recerca**.
 
 ---
 
-## Desenvolupament a les iteracions
+# Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — inici del desplaçament en la co-creació de l’espai
+- [[040 Iteració 1]] — inici de la co-creació arquitectònica del sistema
     
-- [[050 Iteració 2]] — emergència d’agència concentrada en el nucli d’especialistes
+- [[050 Iteració 2]] — emergència d’autoritat epistèmica estudiantil
     
-- [[060 Iteració 3]] — redistribució de la funció docent i circulació d’autoritat epistèmica
+- [[060 Iteració 3]] — aparició d’exercici docent distribuït i dinàmiques de co-associació
     
 
 ---
 
-## Paper dins del Sistema Viu del Metalaboratori
+# Paper dins el Sistema Viu del Metalaboratori
 
-Si l’[[Arquitectura pedagògica]] defineix les **condicions estructurals del sistema**, la redistribució d’agència descriu **com el poder de decisió es mou dins aquest marc**.
+Si l’[[021 Arquitectura pedagògica]] defineix les **condicions estructurals del sistema**, la redistribució d’agència descriu **com el poder d’intervenir circula dins aquest marc**.
 
-Aquesta capa explica **com els participants passen de ser usuaris d’un entorn a esdevenir agents actius dins el sistema d’aprenentatge**.
+Aquesta capa explica **com els participants passen de ser usuaris d’un entorn d’aprenentatge a esdevenir agents actius dins el sistema**.
+
+És el nivell en què l’arquitectura deixa de ser només infraestructura i es converteix en **motor de transformació pedagògica**.

@@ -30,7 +30,7 @@ Transformacions en la relació pedagògica quan l’espai és co-creat pels part
 → [[022 Redistribució d’agència]]  
 → [[E540 Disseny de l_Espai d_Aprenentatge/Co-associació]]  
 → [[023 Transformació de rols]]  
-→ [[Autoritat epistèmica]]
+→ [[020 Sistema Viu del Metalaboratori/CAPA 2 — Dinàmiques d’agència/Autoritat epistèmica]]
 
 ## Cognició en el sistema
 

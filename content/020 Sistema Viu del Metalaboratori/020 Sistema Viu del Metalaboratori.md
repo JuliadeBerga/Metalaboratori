@@ -1,25 +1,31 @@
 # 020 Sistema Viu del Metalaboratori
 
-El **Metalaboratori** pot entendre’s com un **sistema viu d’aprenentatge** on l’arquitectura pedagògica, les dinàmiques d’agència, la producció col·lectiva i els processos cognitius interactuen al llarg del temps.
+El **Metalaboratori** pot entendre’s com un **sistema viu d’aprenentatge** en què l’arquitectura pedagògica, la redistribució d’agència, la transformació de rols, la producció col·lectiva i els processos cognitius s’articulen al llarg del temps generant dinàmiques emergents.
 
-Aquest sistema no es defineix només pels seus components, sinó per les **relacions i processos emergents que es generen entre ells**.
+Aquest sistema no es defineix únicament pels seus components, sinó per les **relacions, interdependències i processos que es configuren entre ells**.
+
+L’aprenentatge no es localitza exclusivament en els individus, sinó que es produeix en el sistema d’activitat en el seu conjunt, a través de la interacció entre participants, artefactes i estructures.
 
 Per descriure aquesta complexitat, la investigació organitza l’anàlisi en **vuit capes conceptuals** que permeten comprendre:
 
 - les condicions estructurals del sistema
     
-- les dinàmiques d’agència
+- la distribució de l’agència
     
-- les transformacions relacionales
+- la reconfiguració de les posicions pedagògiques
     
-- els mecanismes cognitius
+- la producció col·lectiva del sistema
     
-- les emergències pedagògiques
+- el funcionament cognitiu distribuït
+    
+- l’emergència de cognició col·lectiva
     
 - els límits i tensions del model
     
+- les propietats emergents del sistema
+    
 
-Aquest conjunt de capes configura el que anomenem **Sistema Viu del Metalaboratori**.
+Aquest conjunt de capes configura el que es defineix com a **Sistema Viu del Metalaboratori**.
 
 ---
 
@@ -27,88 +33,124 @@ Aquest conjunt de capes configura el que anomenem **Sistema Viu del Metalaborato
 
 ## [[021 Arquitectura pedagògica]]
 
-Condicions estructurals que organitzen l’entorn d’aprenentatge.
+Defineix les **condicions estructurals** que organitzen l’entorn d’aprenentatge.
 
 Inclou la configuració sociomaterial del sistema: arquitectura del web, sistema de portes, ritmes de treball, dispositius d’avaluació i espais d’interacció.
+
+Constitueix la base que fa possible la resta de dinàmiques.
 
 ---
 
 ## [[022 Redistribució d’agència]]
 
-Moviments del poder de decisió dins el sistema.
+Descriu els **moviments del poder de decisió** dins el sistema.
 
-Analitza com la configuració de l’arquitectura permet que la capacitat d’intervenció es distribueixi entre participants i dispositius.
+Analitza com l’arquitectura permet que la capacitat d’intervenció es distribueixi entre participants i dispositius, modificant la centralitat del docent.
 
 ---
 
 ## [[023 Transformació de rols]]
 
-Reconfiguració de les posicions pedagògiques.
+Analitza la **reconfiguració de les posicions pedagògiques**.
 
-Descriu com els participants passen de rols fixes a **posicions emergents dins la xarxa d’activitat**.
+Els participants deixen de ocupar rols fixos i passen a assumir **posicions emergents dins la xarxa d’activitat**, en funció de les necessitats del sistema.
 
 ---
 
 ## [[024 Dinàmiques de co-creació]]
 
-Producció col·lectiva del sistema.
+Descriu els processos de **producció col·lectiva del sistema**.
 
-Analitza els processos mitjançant els quals estudiants i docents construeixen conjuntament l’arquitectura pedagògica i els dispositius del sistema.
+Estudiants i docents intervenen en la construcció de l’arquitectura pedagògica, els dispositius i les pràctiques, configurant un sistema en evolució.
 
 ---
 
 ## [[025 Cognició distribuïda]]
 
-Coordinació funcional del pensament.
+Analitza la **coordinació funcional del pensament**.
 
-Descriu com el coneixement es distribueix entre actors humans, artefactes digitals i estructures del sistema.
+El coneixement es distribueix entre participants, artefactes i estructures, generant un sistema cognitiu sociotècnic basat en la interdependència operativa.
 
 ---
 
 ## [[026 Cognició de grup]]
 
-Emergència del subjecte cognitiu col·lectiu.
+Descriu l’**emergència del subjecte cognitiu col·lectiu**.
 
-Analitza quan el grup deixa de ser una coordinació d’individus i esdevé una **unitat cognitiva capaç de produir criteris i significat compartit**.
+El grup deixa de ser una coordinació d’individus i esdevé una unitat capaç de produir criteris, significats i validacions compartides.
 
 ---
 
 ## [[027 Límits i tensions del sistema]]
 
-Friccions estructurals del model.
+Analitza les **friccions estructurals** del model.
 
-Identifica els límits sistèmics, les tensions internes i les condicions de sostenibilitat del sistema pedagògic.
+Identifica límits de sostenibilitat, tensions internes i condicions que delimiten l’abast i la transferibilitat del sistema.
 
 ---
 
-## [[028 Emergència del sistema]]
+## [[028 Emergències del sistema]]
 
-Propietats emergents del sistema viu.
+Descriu les **propietats emergents del sistema viu**.
 
-Descriu les transformacions pedagògiques que emergeixen de la interacció entre totes les capes.
+Analitza com, a partir de la interacció sostinguda entre les capes anteriors, emergeixen:
 
-Aquestes emergències constitueixen la base empírica de les **teories humils formulades en la investigació**.
+- noves formes pedagògiques
+    
+- noves formes de cognició
+    
+- transformacions del sistema d’aprenentatge
+    
+- producció teòrica des de la pràctica
+    
+
+Aquestes emergències permeten conceptualitzar el Metalaboratori com un sistema capaç d’auto-organitzar-se i generar coneixement.
+
+---
+
+# Relació entre capes
+
+Les capes no funcionen de manera aïllada, sinó com un **sistema interdependent**:
+
+- l’arquitectura configura les possibilitats d’acció
+    
+- la redistribució d’agència activa noves dinàmiques
+    
+- la transformació de rols reconfigura les relacions
+    
+- la co-creació produeix el sistema
+    
+- la cognició distribuïda permet la coordinació funcional
+    
+- la cognició de grup permet la producció col·lectiva de significat
+    
+- les tensions delimiten el sistema
+    
+- les emergències transformen el model
+    
+
+Aquest conjunt de relacions configura una dinàmica sistèmica en evolució.
 
 ---
 
 # Relació amb les iteracions de la recerca
 
-El sistema viu del Metalaboratori no apareix de manera immediata.
+El sistema viu del Metalaboratori es construeix progressivament a través de les iteracions pròpies de la Design-Based Research:
 
-Es desenvolupa progressivament a través de les iteracions de la investigació:
+- [[040 Iteració 1]] — configuració inicial de l’arquitectura i emergència de la co-creació
+    
+- [[050 Iteració 2]] — consolidació de la redistribució d’agència i de la cognició distribuïda
+    
+- [[060 Iteració 3]] — emergència de la cognició de grup, el pensament col·lectiu i el sistema viu d’aprenentatge
+    
 
-- [[040 Iteració 1]] — emergència inicial de l’arquitectura i la co-creació
-    
-- [[050 Iteració 2]] — consolidació de dinàmiques d’agència i cognició distribuïda
-    
-- [[060 Iteració 3]] — emergència de cognició de grup i sistema pedagògic estabilitzat
-    
+Les iteracions no només transformen el sistema, sinó que permeten comprendre’l.
 
 ---
 
 # Relació amb la producció teòrica
 
-L’anàlisi d’aquest sistema permet formular les **teories humils de la investigació**:
+L’anàlisi del Sistema Viu del Metalaboratori permet la formulació de les **teories humils de la investigació**:
 
 - [[Teoria humil de la compatibilitat estructural]]
     
@@ -119,4 +161,21 @@ L’anàlisi d’aquest sistema permet formular les **teories humils de la inves
 - [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]
     
 
-Aquestes teories emergeixen de l’observació del sistema en funcionament.
+Aquestes teories no s’apliquen al sistema, sinó que **emergeixen de la seva anàlisi** i constitueixen interpretacions situades dels processos observats.
+
+---
+
+# Funció del capítol 020 dins la tesi
+
+Aquest capítol proporciona el **marc analític integrat** que permet:
+
+- descriure el sistema d’aprenentatge en la seva complexitat
+    
+- comprendre les relacions entre estructura, acció i cognició
+    
+- analitzar l’evolució del sistema al llarg del temps
+    
+- fonamentar empíricament la producció teòrica
+    
+
+El Sistema Viu del Metalaboratori no és només un objecte d’estudi, sinó la **unitat analítica central** de la investigació.

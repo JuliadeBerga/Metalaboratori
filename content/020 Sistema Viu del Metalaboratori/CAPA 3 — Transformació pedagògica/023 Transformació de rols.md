@@ -4,13 +4,13 @@ _(Reconfiguració de les posicions pedagògiques dins el sistema viu d’aprenen
 
 Aquest domini analitza la **reconfiguració de les posicions pedagògiques** dins l’ecosistema d’aprenentatge quan es redistribueix l’agència i es transforma l’arquitectura de l’entorn.
 
-No es tracta només de canvis funcionals (qui fa què), sinó de **transformacions identitàries i relacionals**: qui esdevé qui dins la pràctica educativa.
+No es tracta només de canvis funcionals (qui fa què), sinó de **transformacions identitàries i relacionals**: com els participants passen a ocupar noves posicions dins la pràctica educativa.
 
 En el sistema analitzat, els rols no són categories fixes assignades prèviament, sinó **posicions que emergeixen de la participació efectiva en l’activitat col·lectiva**.
 
 ---
 
-## De posicions fixes a posicions emergents
+## De rols fixos a posicions emergents
 
 En models pedagògics tradicionals, els rols es defineixen de manera estable:
 
@@ -19,45 +19,60 @@ En models pedagògics tradicionals, els rols es defineixen de manera estable:
 - l’alumnat rep continguts, executa tasques i és avaluat
     
 
-En l’entorn analitzat, els rols esdevenen **posicions dinàmiques** que emergeixen de la participació en l’activitat.
+En l’entorn analitzat, aquestes posicions es transformen progressivament.
 
-La funció docent no desapareix, però deixa de ser una propietat fixa d’un actor per convertir-se en una **funció distribuïda dins la xarxa pedagògica**.
+Els participants poden assumir funcions diverses dins el sistema segons:
+
+- la seva implicació en els projectes
+    
+- el desenvolupament de competències tècniques
+    
+- la participació en la resolució de problemes
+    
+- la contribució al funcionament del laboratori
+    
+
+La funció docent no desapareix, però deixa de ser una propietat exclusiva d’un actor per convertir-se parcialment en **una funció distribuïda dins la xarxa pedagògica**.
 
 ---
 
 ## Emergència de noves figures pedagògiques
 
-La transformació de rols fa possible l’aparició de figures intermèdies dins el sistema:
+La redistribució d’agència i la configuració de l’arquitectura del laboratori fan possible l’aparició de **noves posicions dins el sistema**.
 
-- estudiants amb responsabilitat estructural sobre l’entorn
+Entre aquestes posicions destaquen:
+
+- estudiants que desenvolupen parts del sistema
     
-- alumnes que orienten iguals de manera sostinguda
+- participants que orienten altres estudiants
     
-- participants que actuen com a pont entre arquitectura i pràctica
+- estudiants que actuen com a pont entre l’arquitectura i la pràctica
     
-- configuracions de **co-docència informal**
+- formes informals de **co-docència estudiantil**
     
 
-Aquestes figures no són assignacions formals, sinó **posicions reconegudes dins la pràctica col·lectiva**.
+Aquestes figures no són assignacions institucionals, sinó **posicions que emergeixen de la pràctica col·lectiva**.
 
 ---
 
 ## Desplaçament de la centralitat docent
 
-El docent manté funcions clau dins el sistema:
+Tot i la redistribució d’algunes funcions, el docent manté un paper central dins el sistema.
 
-- garantia del marc pedagògic
+Entre les seves funcions principals destaquen:
+
+- sostenir el marc pedagògic del laboratori
     
-- coherència sistèmica
+- garantir la coherència del sistema
     
-- bastida conceptual
+- actuar com a bastida conceptual
     
-- interlocució crítica
+- dissenyar i ajustar l’arquitectura pedagògica
+    
+- coordinar el funcionament global de l’entorn
     
 
-Però la validació del coneixement i l’orientació quotidiana deixen de concentrar-se exclusivament en la seva figura.
-
-La centralitat esdevé **mòbil i situada**, segons competència, context i necessitat.
+La centralitat docent no desapareix, però es transforma: el docent passa a intervenir més en **la configuració i governança del sistema** que en la resolució directa de totes les tasques.
 
 ---
 
@@ -65,68 +80,74 @@ La centralitat esdevé **mòbil i situada**, segons competència, context i nece
 
 Aquest domini permet analitzar:
 
-- mutacions identitàries dels participants
+- com es transformen les identitats dels participants dins el sistema
     
-- emergència de lideratges pedagògics distribuïts
+- com emergeixen lideratges pedagògics distribuïts
     
-- circulació de l’autoritat dins la xarxa educativa
+- com circula l’autoritat epistèmica dins la xarxa educativa
     
-- formes de **co-docència no institucionalitzada**
+- com apareixen formes de **docència parcialment distribuïda**
     
 
-La transformació de rols constitueix **l’expressió relacional de la redistribució d’agència**.
+La transformació de rols constitueix així **l’expressió relacional de la redistribució d’agència** dins el laboratori.
 
 ---
 
-## Estructura interna de la capa
+# Estructura interna de la capa
 
-Aquesta capa del Sistema Viu del Metalaboratori analitza els conceptes que descriuen **com es reconfiguren les identitats i posicions dins el sistema pedagògic**.
+Aquesta capa del Sistema Viu del Metalaboratori descriu les diferents **posicions pedagògiques emergents** dins el sistema.
 
-### Rols estudiantils emergents
+## Rols estudiantils emergents
 
-- [[Especialistes]]
-    
-- [[Nucli fort]]
+- [[Nucli d’especialistes]]
     
 - [[Desenvolupadors del sistema]]
     
-- [[Estudiants de mínims]]
+- [[Especialistes com a referents]]
     
 - [[Estudiants de màxims]]
     
-
-### Transformació del rol docent
-
-- [[Professor com a bastida]]
+- [[Estudiants de mínims]]
     
-- [[Professor com a mentor]]
+
+---
+
+## Transformació del rol docent
+
+- [[Professor com a bastida conceptual]]
     
-- [[Professor com a co-creador]]
+- [[Professor com a dissenyador d’arquitectura pedagògica]]
+    
+- [[Professor com a coordinador del sistema]]
     
 - [[Professor com a investigador]]
     
 
-### Rols híbrids o emergents
+---
+
+## Rols híbrids emergents
 
 - [[Co-docents estudiantils]]
     
-- [[Agents pedagògics]]
+- [[Pont entre arquitectura i pràctica]]
     
-- [[Guardians del sistema]]
+- [[Orientació entre iguals]]
     
 
-### Identitat professional i comunitària
+---
+
+## Identitat professional i comunitària
 
 - [[Identitat professional emergent]]
     
 - [[Comunitat de pràctica emergent]]
     
-- [[Sentit de pertinença]]
+- [[Sentit de pertinença al laboratori]]
     
 
 ---
 
-## Connexió amb les teories humils
+# Connexió amb les teories humils
 
 Aquest domini és central en:
 
@@ -137,28 +158,29 @@ Aquest domini és central en:
 - [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]
     
 
-La transformació de rols constitueix una de les **manifestacions més visibles del canvi pedagògic** analitzat en la recerca.
+La transformació de rols constitueix una de les **manifestacions més visibles del canvi pedagògic** observat en la recerca.
 
 ---
 
-## Desenvolupament a les iteracions
+# Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — primers indicis de desplaçament relacional en la co-creació
+- [[040 Iteració 1]] — primers indicis de redistribució funcional dins la co-creació del sistema
     
-- [[050 Iteració 2]] — emergència del **nucli d’especialistes** com a posició diferenciada
+- [[050 Iteració 2]] — emergència del **nucli d’especialistes** i diferenciació de trajectòries
     
-- [[060 Iteració 3]] — consolidació de la co-docència i redistribució de la funció docent
+- [[060 Iteració 3]] — consolidació de formes d’orientació entre iguals i exercici docent distribuït
     
 
 ---
 
-## Paper dins del Sistema Viu del Metalaboratori
+# Paper dins del Sistema Viu del Metalaboratori
 
-Si la **[[Redistribució d’agència]]** descriu el moviment del poder dins el sistema, la **transformació de rols** descriu **com aquest moviment modifica les identitats i relacions pedagògiques**.
+Si la **[[Redistribució d’agència]]** descriu el moviment del poder dins el sistema, la **transformació de rols** descriu **com aquest moviment reconfigura les identitats i relacions pedagògiques**.
 
 Aquesta capa explica com els participants passen de:
 
-- **rols pedagògics fixos**  
-    a
-    
-- **posicions emergents dins un sistema d’aprenentatge col·laboratiu**.
+**rols pedagògics fixos**
+
+a
+
+**posicions emergents dins un sistema d’aprenentatge col·laboratiu i distribuït**.

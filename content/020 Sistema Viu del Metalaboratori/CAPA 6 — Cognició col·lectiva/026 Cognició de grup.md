@@ -2,156 +2,160 @@
 
 _(Emergència del subjecte cognitiu col·lectiu)_
 
-Aquest domini analitza el pas d’una **coordinació funcional del pensament** cap a l’emergència d’un **subjecte cognitiu col·lectiu**.
+Aquest domini analitza el pas d’una **coordinació funcional del pensament** cap a l’emergència d’un **subjecte cognitiu col·lectiu** dins el sistema d’aprenentatge.
 
-Parteix de la teoria de la **cognició de grup** (Stahl), segons la qual el coneixement pot construir-se no només entre individus sinó **a nivell del propi grup com a unitat cognitiva**.
+Parteix de la teoria de la **cognició de grup** (Stahl), segons la qual el coneixement pot construir-se no només entre individus sinó **a nivell del grup com a unitat cognitiva**.
 
-En aquest nivell, el grup deixa de ser únicament un espai de coordinació de tasques i esdevé **una entitat cognitiva capaç de produir criteris, significats i validacions compartides**.
+En aquest nivell, el grup deixa de ser únicament un espai de coordinació de tasques i esdevé **una entitat cognitiva capaç de produir interpretacions, criteris i decisions compartides**.
+
+La cognició ja no es distribueix simplement entre actors i artefactes, sinó que **emergeix del procés col·lectiu d’interacció sostinguda**.
 
 ---
 
-## Del repartiment de tasques al subjecte col·lectiu
+## De la cognició distribuïda a la cognició de grup
 
-La [[025 Cognició distribuïda]] descriu la coordinació funcional entre actors.
+La capa anterior del sistema descriu **[[025 Cognició distribuïda]]**, on el pensament es coordina funcionalment entre participants i artefactes.
 
-La cognició de grup descriu un fenomen qualitativament diferent:
+En aquest nivell:
 
-el grup deixa de ser suma d’individus i esdevé **un node cognitiu amb propietats pròpies**:
+- els participants assumeixen funcions complementàries
+    
+- el coneixement es distribueix entre actors i arquitectura
+    
+- la resolució de problemes es coordina entre especialistes
+    
+
+La cognició de grup descriu un fenomen qualitativament diferent.
+
+El grup passa de coordinar funcions a **produir coneixement col·lectivament**.
+
+Apareixen així propietats cognitives que no poden atribuir-se a individus concrets:
+
+- interpretacions compartides
+    
+- criteris col·lectius de validació
+    
+- llenguatge normatiu propi
+    
+- memòria del grup
+    
+- capacitat de raonament col·lectiu
+    
+
+El grup esdevé així **subjecte cognitiu emergent**.
+
+---
+
+## Construcció col·lectiva de significat
+
+Un dels processos centrals de la cognició de grup és la **co-construcció de significat**.
+
+El coneixement no és transferit entre individus, sinó que es construeix a través de seqüències d’interacció on:
+
+- una idea és formulada per un participant
+    
+- és reformulada per altres membres
+    
+- es discuteix i es contrasta
+    
+- es transforma progressivament
+    
+- es consolida com a interpretació compartida
+    
+
+El significat es construeix així **en el procés col·lectiu de participació**.
+
+---
+
+## Normativitat i autoritat epistèmica del grup
+
+Quan el grup desenvolupa cognició pròpia, també emergeixen formes de **normativitat col·lectiva**.
+
+Els participants comencen a utilitzar expressions com:
+
+- “això no encaixa amb el projecte”
+    
+- “aquesta és la manera correcta de fer-ho”
+    
+- “aquí ho fem així”
+    
+
+Aquestes expressions indiquen que el grup ha desenvolupat:
 
 - criteris compartits
     
 - llenguatge propi
     
-- memòria col·lectiva
-    
-- normativitat emergent
-    
-- autoritat epistèmica situada
+- regulació epistèmica interna
     
 
-El coneixement no pertany a ningú en particular: **emergeix del procés col·lectiu**.
+La validació del coneixement deixa de dependre exclusivament de l’autoritat docent i passa a emergir **de la pràctica col·lectiva del grup**.
 
 ---
 
-## Co-construcció iterativa de significat
+## Memòria i continuïtat del grup
 
-La cognició de grup es manifesta en seqüències de construcció conjunta on:
+La cognició de grup requereix també mecanismes de **continuïtat cognitiva**.
 
-- una idea és formulada per un membre
+El grup desenvolupa:
+
+- memòria col·lectiva de decisions prèvies
     
-- és reformulada per un altre
+- referents interns utilitzats com a exemples
     
-- es contrasta col·lectivament
+- criteris acumulats a través de l’experiència
     
-- es transforma iterativament
-    
-- es consolida com a criteri compartit
+- continuïtat en la interpretació dels projectes
     
 
-El significat **no és transferit**, sinó **produït col·lectivament**.
+Aquest coneixement acumulat permet que el grup mantingui **coherència cognitiva en el temps**.
+
+La cognició del grup es distribueix així entre:
+
+- els participants
+    
+- la memòria del sistema
+    
+- els artefactes desenvolupats
+    
 
 ---
 
-## Emergència de criteris normatius compartits
+## Manifestació en el Metalaboratori
 
-Un indicador clau és l’aparició de **normativitat col·lectiva**:
+En el context del Metalaboratori, la cognició de grup apareix de manera clara en la **tercera iteració de la recerca**.
 
-- “aquí ho fem així”
+Durant aquesta fase, el **nucli d’especialistes** desenvolupa formes estables de treball col·lectiu que inclouen:
+
+- discussió conjunta de decisions tècniques
     
-- “això no encaixa amb el projecte”
+- interpretació col·lectiva del funcionament del sistema
     
-- “aquest és l’estàndard que seguim”
+- construcció compartida de criteris de qualitat
     
-
-Els criteris deixen de dependre d’autoritat externa i emergeixen de la pràctica del grup.
-
-Apareix una **regulació epistèmica interna**.
-
----
-
-## Autoritat epistèmica col·lectiva
-
-Quan el grup esdevé referent de validació:
-
-- la legitimitat del coneixement no depèn exclusivament del docent
-    
-- les decisions es validen per coherència interna
-    
-- el grup reconeix la seva pròpia competència col·lectiva
-    
-- emergeix confiança epistèmica compartida
+- resolució col·lectiva de problemes complexos
     
 
-Aquesta autoritat no elimina la figura docent, però **en desplaça la centralitat**.
-
----
-
-## Memòria col·lectiva i continuïtat
-
-El grup desenvolupa **memòria pròpia**:
-
-- decisions prèvies estabilitzades
-    
-- solucions consolidades
-    
-- experiències compartides
-    
-- referents interns
-    
-
-Aquesta memòria permet:
-
-- coherència en el temps
-    
-- acumulació de coneixement
-    
-- transmissió interna de criteris
-    
-
-El grup adquireix **continuïtat cognitiva més enllà dels individus**.
-
----
-
-## Diferència amb cognició distribuïda
-
-La [[025 Cognició distribuïda]] implica **coordinació funcional**.
-
-La cognició de grup implica **emergència d’un nivell cognitiu superior**.
-
-Distribuïda → integració de funcions  
-Grup → producció col·lectiva de significat
-
-No tot entorn distribuït genera cognició de grup.
-
-La cognició de grup requereix:
-
-- estabilitat relacional
-    
-- interacció sostinguda
-    
-- negociació iterativa de significat
-    
-- reconeixement intern d’autoritat col·lectiva
-    
+El grup deixa de limitar-se a coordinar tasques i passa a actuar com **unitat cognitiva capaç de produir coneixement**.
 
 ---
 
 ## Funció analítica del domini
 
-Aquest domini permet identificar:
+Aquest domini permet analitzar:
 
-- emergència de subjecte cognitiu col·lectiu
+- emergència de subjectes cognitius col·lectius
     
-- co-construcció de criteris compartits
+- construcció interactiva de significat
     
-- regulació epistèmica interna
+- desenvolupament de normativitat del grup
     
-- llenguatge normatiu emergent
+- producció col·lectiva de coneixement
     
-- validació situada del coneixement
+- estabilització de processos cognitius compartits
     
 
-Aquesta capa descriu **quan el sistema d’aprenentatge deixa de ser només coordinat i passa a pensar col·lectivament**.
+La cognició de grup constitueix **un dels indicadors més clars de transformació pedagògica dins el sistema estudiat**.
 
 ---
 
@@ -163,7 +167,7 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels co
 
 - [[Subjecte cognitiu col·lectiu]]
     
-- [[Pensament col·lectiu]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 6 — Cognició col·lectiva/Bloc 1 — Emergència del subjecte cognitiu col·lectiu/Pensament col·lectiu]]
     
 - [[Intel·ligència col·lectiva]]
     
@@ -183,7 +187,7 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels co
     
 - [[Criteris compartits]]
     
-- [[Llenguatge del grup]]
+- [[Autoritat epistèmica col·lectiva]]
     
 
 ### Memòria i continuïtat
@@ -206,27 +210,21 @@ Aquest domini és central en:
 - [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]
     
 
-I constitueix base per comprendre:
+I constitueix la base cognitiva per comprendre:
 
 → [[Teoria humil de la compatibilitat estructural]]
 
-La cognició de grup és una de les **formes més avançades d’organització cognitiva observades en el sistema estudiat**.
+La cognició de grup representa una de les **formes més avançades d’organització cognitiva observades en el sistema d’aprenentatge analitzat**.
 
 ---
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — no emergeix cognició de grup (cooperació funcional limitada)
-    
-- [[050 Iteració 2]] — emergència incipient dins el **nucli d’especialistes**
-    
-- [[060 Iteració 3]] — consolidació mitjançant **co-docència i autoritat compartida**
-    
+**[[040 Iteració 1]]**  
+No emergeixen formes de cognició col·lectiva estables.
 
----
+**[[050 Iteració 2]]**  
+Apareixen formes de cognició distribuïda dins el nucli d’especialistes.
 
-## Paper dins del Sistema Viu del Metalaboratori
-
-Si la [[Cognició distribuïda]] descriu **com el sistema coordina el pensament**, la cognició de grup descriu **quan el sistema esdevé un subjecte cognitiu col·lectiu**.
-
-Aquest és un dels moments més significatius de la transformació pedagògica observada en la recerca.
+**[[060 Iteració 3]]**  
+El grup desenvolupa processos estables de cognició de grup i autoritat epistèmica col·lectiva.
