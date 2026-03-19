@@ -137,11 +137,11 @@ Aquest conjunt de relacions configura una dinàmica sistèmica en evolució.
 
 El sistema viu del Metalaboratori es construeix progressivament a través de les iteracions pròpies de la Design-Based Research:
 
-- [[040 Iteració 1]] — configuració inicial de l’arquitectura i emergència de la co-creació
+- [[041 Iteració 1]] — configuració inicial de l’arquitectura i emergència de la co-creació
     
-- [[050 Iteració 2]] — consolidació de la redistribució d’agència i de la cognició distribuïda
+- [[042 Iteració 2]] — consolidació de la redistribució d’agència i de la cognició distribuïda
     
-- [[060 Iteració 3]] — emergència de la cognició de grup, el pensament col·lectiu i el sistema viu d’aprenentatge
+- [[043 Iteració 3]] — emergència de la cognició de grup, el pensament col·lectiu i el sistema viu d’aprenentatge
     
 
 Les iteracions no només transformen el sistema, sinó que permeten comprendre’l.

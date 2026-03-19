@@ -128,6 +128,6 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — configuració inicial del sistema sociotècnic
-- [[050 Iteració 2]] — consolidació d’un sistema cognitiu distribuït al voltant del nucli d’especialistes
-- [[060 Iteració 3]] — el sistema cognitiu sociotècnic sosté l’emergència de processos de cognició de grup
+- [[041 Iteració 1]] — configuració inicial del sistema sociotècnic
+- [[042 Iteració 2]] — consolidació d’un sistema cognitiu distribuït al voltant del nucli d’especialistes
+- [[043 Iteració 3]] — el sistema cognitiu sociotècnic sosté l’emergència de processos de cognició de grup

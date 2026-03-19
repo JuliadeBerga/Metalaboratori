@@ -129,11 +129,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La implicació dels estudiants es concentra principalment en el desenvolupament dels projectes.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareix el nucli d’especialistes, que assumeix responsabilitats tècniques addicionals.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La participació intensiva es consolida en alguns participants, fet que requereix mecanismes de regulació per evitar sobrecàrrega.

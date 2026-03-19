@@ -135,11 +135,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Les normes del treball estan principalment definides pel docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen pràctiques compartides dins el nucli d’especialistes, però la regulació continua parcialment docent.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa normes emergents que orienten el treball del grup.

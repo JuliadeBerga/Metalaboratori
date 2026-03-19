@@ -73,15 +73,15 @@ Aquest procés pot reforçar la [[Identitat professional emergent]], ja que els 
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Els estudiants participen en el laboratori principalment com a part de l’activitat del curs.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Les interaccions entre participants i la participació en projectes comuns reforcen la percepció d’un espai compartit.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Alguns participants desenvolupen un vincle clar amb el laboratori i participen activament en el seu funcionament.
 

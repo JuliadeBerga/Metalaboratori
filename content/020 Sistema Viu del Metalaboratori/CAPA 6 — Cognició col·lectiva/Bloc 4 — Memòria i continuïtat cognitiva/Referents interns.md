@@ -124,11 +124,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Els referents del treball provenen principalment de les orientacions del docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 El nucli d’especialistes comença a utilitzar experiències prèvies del projecte com a guia.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El grup utilitza referents interns per orientar decisions tècniques i conceptuals sobre el sistema.

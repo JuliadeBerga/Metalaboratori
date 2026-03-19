@@ -89,15 +89,15 @@ Aquest model connecta amb la [[Redistribució d’agència]] i amb l’[[020 Sis
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 El docent comença a reduir la centralitat de la classe expositiva i a organitzar l’activitat al voltant de projectes.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 La intervenció docent es desplaça progressivament cap a l’acompanyament conceptual mentre el grup d’especialistes assumeix part del suport tècnic.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 El rol de bastida conceptual es consolida com una de les funcions principals del docent dins el sistema.
 

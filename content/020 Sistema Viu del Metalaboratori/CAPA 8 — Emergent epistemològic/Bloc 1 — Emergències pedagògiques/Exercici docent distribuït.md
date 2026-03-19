@@ -152,11 +152,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El docent concentra la major part de les funcions pedagògiques.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Algunes funcions comencen a redistribuir-se, especialment dins el nucli d’especialistes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La docència es distribueix parcialment entre participants, arquitectura i docent.

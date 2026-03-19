@@ -133,11 +133,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La dedicació dels participants és similar i centrada en les activitats del curs.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 El nucli d’especialistes comença a dedicar temps addicional al desenvolupament del sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La dedicació diferenciada es consolida amb estudiants que assumeixen funcions estructurals dins el sistema.

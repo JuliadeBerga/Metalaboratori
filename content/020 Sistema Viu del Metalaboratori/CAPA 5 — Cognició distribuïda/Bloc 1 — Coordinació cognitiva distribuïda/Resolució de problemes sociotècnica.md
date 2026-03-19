@@ -120,6 +120,6 @@ Forma part de la capa:
   
 ## Desenvolupament a les iteracions  
   
-- [[040 Iteració 1]] — resolució de problemes encara fortament docent  
-- [[050 Iteració 2]] — emergència de resolució distribuïda dins el nucli d’especialistes  
-- [[060 Iteració 3]] — resolució col·lectiva associada a processos de cognició de grup
+- [[041 Iteració 1]] — resolució de problemes encara fortament docent  
+- [[042 Iteració 2]] — emergència de resolució distribuïda dins el nucli d’especialistes  
+- [[043 Iteració 3]] — resolució col·lectiva associada a processos de cognició de grup

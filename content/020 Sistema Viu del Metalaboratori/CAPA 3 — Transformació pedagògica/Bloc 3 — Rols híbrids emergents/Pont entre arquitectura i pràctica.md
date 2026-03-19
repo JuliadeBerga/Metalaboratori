@@ -91,15 +91,15 @@ Aquest procés forma part de la [[Redistribució d’agència]] dins el laborato
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Els estudiants utilitzen el sistema principalment com a usuaris.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Alguns participants que desenvolupen parts del sistema adquireixen una comprensió més profunda de la seva arquitectura.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Aquests estudiants actuen de manera informal com a pont entre el funcionament del sistema i la pràctica quotidiana del grup.
 

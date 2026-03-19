@@ -28,13 +28,13 @@ Els estudiants amb més experiència o coneixement tècnic poden orientar les de
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 les decisions tècniques es prenen principalment entre els estudiants que desenvolupen el web.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 el nucli d’especialistes assumeix un paper central en l’orientació tècnica.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 la presa de decisions tècniques es consolida com una pràctica distribuïda dins el sistema.
 
 ## Connexions

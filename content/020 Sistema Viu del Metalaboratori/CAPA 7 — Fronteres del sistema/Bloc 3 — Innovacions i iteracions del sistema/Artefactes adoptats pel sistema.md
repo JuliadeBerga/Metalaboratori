@@ -140,11 +140,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Apareixen els primers dispositius digitals del sistema.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Alguns artefactes comencen a estabilitzar-se dins les pràctiques del grup.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Els dispositius principals del sistema es consoliden com a part de l’arquitectura sociotècnica del Metalaboratori.

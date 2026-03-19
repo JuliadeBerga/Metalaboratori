@@ -220,11 +220,11 @@ La cognició de grup representa una de les **formes més avançades d’organitz
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 No emergeixen formes de cognició col·lectiva estables.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen formes de cognició distribuïda dins el nucli d’especialistes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El grup desenvolupa processos estables de cognició de grup i autoritat epistèmica col·lectiva.

@@ -191,8 +191,8 @@ La cognició distribuïda explica **com la coordinació entre participants i arq
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — coordinació inicial de tasques dins els projectes
+- [[041 Iteració 1]] — coordinació inicial de tasques dins els projectes
     
-- [[050 Iteració 2]] — consolidació d’una cognició distribuïda intensa dins el nucli d’especialistes
+- [[042 Iteració 2]] — consolidació d’una cognició distribuïda intensa dins el nucli d’especialistes
     
-- [[060 Iteració 3]] — la cognició distribuïda sosté l’emergència de processos de cognició de grup
+- [[043 Iteració 3]] — la cognició distribuïda sosté l’emergència de processos de cognició de grup

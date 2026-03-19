@@ -124,11 +124,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Els criteris d’avaluació i validació del treball depenen principalment del docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen discussions tècniques dins el nucli d’especialistes, però els criteris continuen parcialment guiats pel docent.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa criteris compartits que orienten les decisions sobre el sistema i els projectes.

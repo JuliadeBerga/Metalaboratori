@@ -148,11 +148,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La funció docent es concentra principalment en el docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen formes inicials d’orientació entre estudiants.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Es consoliden situacions de co-docència emergent amb participació simultània de diversos actors.

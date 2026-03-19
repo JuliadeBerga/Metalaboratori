@@ -164,11 +164,11 @@ La transformació de rols constitueix una de les **manifestacions més visibles 
 
 # Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — primers indicis de redistribució funcional dins la co-creació del sistema
+- [[041 Iteració 1]] — primers indicis de redistribució funcional dins la co-creació del sistema
     
-- [[050 Iteració 2]] — emergència del **nucli d’especialistes** i diferenciació de trajectòries
+- [[042 Iteració 2]] — emergència del **nucli d’especialistes** i diferenciació de trajectòries
     
-- [[060 Iteració 3]] — consolidació de formes d’orientació entre iguals i exercici docent distribuït
+- [[043 Iteració 3]] — consolidació de formes d’orientació entre iguals i exercici docent distribuït
     
 
 ---

@@ -135,11 +135,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Les decisions sobre els projectes depenen principalment del docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen espais d’interacció intensa dins el nucli d’especialistes, però la construcció de significat continua parcialment guiada pel docent.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa processos sostinguts de construcció intersubjectiva de significat sobre el sistema i els projectes.

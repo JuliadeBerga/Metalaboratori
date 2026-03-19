@@ -82,15 +82,15 @@ La seva funció es desplaça així cap a **la governança del sistema més que c
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 El docent coordina la posada en marxa del sistema i orienta els primers processos de treball.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Amb l’emergència del [[Nucli d’especialistes]], part del suport tècnic es distribueix entre estudiants, mentre el docent manté la coordinació global.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 La coordinació del sistema es consolida com una funció central del rol docent dins el laboratori.
 

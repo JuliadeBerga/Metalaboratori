@@ -37,13 +37,13 @@ Aquest fenomen constitueix un dels indicadors més clars de redistribució d’a
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 encara no apareix una autoritat estudiantil clara.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 emergeix el nucli d’especialistes amb capacitat d’orientar altres estudiants.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 alguns membres d’aquest nucli participen activament en processos d’acompanyament pedagògic.
 
 ## Connexions

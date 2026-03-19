@@ -46,7 +46,7 @@ Es relaciona amb:
     
 - [[Redistribució d’agència]] — que permet intervenir en el sistema
     
-- [[Transformació de rols]] — que habilita nous posicionaments
+- [[023 Transformació de rols]] — que habilita nous posicionaments
     
 - [[Co-associació]] — que articula la producció col·lectiva
     

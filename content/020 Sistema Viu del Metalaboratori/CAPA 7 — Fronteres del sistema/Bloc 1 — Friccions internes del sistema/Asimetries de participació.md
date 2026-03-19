@@ -126,11 +126,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La participació és relativament homogènia.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareix el **nucli d’especialistes**, que assumeix funcions estructurals dins el sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Les diferències de participació es consoliden com a trajectòries diferenciades dins el sistema.

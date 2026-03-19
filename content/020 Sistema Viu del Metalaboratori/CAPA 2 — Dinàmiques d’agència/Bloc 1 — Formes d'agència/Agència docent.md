@@ -36,13 +36,13 @@ La seva autoritat es desplaça cap a funcions de:
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 el docent lidera el procés de disseny inicial.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 comença a compartir espais de decisió amb el nucli d’especialistes.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 la funció docent es redistribueix parcialment entre els participants.
 
 ## Connexions

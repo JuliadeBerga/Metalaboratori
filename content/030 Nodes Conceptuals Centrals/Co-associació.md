@@ -65,9 +65,9 @@ No és una assignació formal de rols, sinó una configuració que apareix quan:
 
 ## Desenvolupament empíric
 
-→ [[040 Iteració 1]]  
-→ [[050 Iteració 2]]  
-→ [[060 Iteració 3]]
+→ [[041 Iteració 1]]  
+→ [[042 Iteració 2]]  
+→ [[043 Iteració 3]]
 
 La co-associació no apareix de manera immediata, sinó que es desenvolupa progressivament:
 

@@ -48,9 +48,9 @@ Es relaciona amb:
 
 - [[Redistribució d’agència]] — defineix què pot fer cada actor
     
-- [[Transformació de rols]] — permet flexibilitat i emergència de posicions
+- [[023 Transformació de rols]] — permet flexibilitat i emergència de posicions
     
-- [[Dinàmiques de co-creació]] — habilita la producció col·lectiva
+- [[024 Dinàmiques de co-creació]] — habilita la producció col·lectiva
     
 - [[Co-associació]] — crea espais per a la interdependència
     

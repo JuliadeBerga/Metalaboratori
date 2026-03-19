@@ -29,9 +29,9 @@ Les teories humils emergeixen de la relació entre els principals dominis analí
 
 La seva formulació es construeix a partir de l’anàlisi progressiva desenvolupada a:
 
-- [[040 Iteració 1]]
-- [[050 Iteració 2]]
-- [[060 Iteració 3]]
+- [[041 Iteració 1]]
+- [[042 Iteració 2]]
+- [[043 Iteració 3]]
 
 ## Relació amb la tesi
 

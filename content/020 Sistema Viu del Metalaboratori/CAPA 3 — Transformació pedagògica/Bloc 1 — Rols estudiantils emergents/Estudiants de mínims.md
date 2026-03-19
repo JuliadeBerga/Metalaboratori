@@ -98,15 +98,15 @@ El laboratori no pretén eliminar aquesta diversitat, sinó **fer-la compatible 
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Apareixen diferències d’implicació entre participants.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 La diferenciació entre trajectòries mínimes i ampliades es fa visible dins el sistema.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 La convivència entre trajectòries diverses es consolida com una característica estable del sistema.
 

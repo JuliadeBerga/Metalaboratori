@@ -123,11 +123,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Es desenvolupen diversos dispositius digitals inicials, alguns dels quals no són adoptats pels participants.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 L’arquitectura del sistema evoluciona a partir de l’observació de les pràctiques reals dels estudiants.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El sistema incorpora dispositius més ajustats a les dinàmiques del grup i consolida la seva arquitectura sociotècnica.

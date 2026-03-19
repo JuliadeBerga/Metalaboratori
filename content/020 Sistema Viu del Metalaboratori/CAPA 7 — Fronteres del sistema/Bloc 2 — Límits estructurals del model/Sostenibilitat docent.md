@@ -133,11 +133,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El docent manté control directe sobre la major part dels processos del sistema.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Part de les funcions es redistribueixen amb l’aparició del nucli d’especialistes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El docent assumeix principalment funcions de regulació sistèmica i bastida pedagògica.

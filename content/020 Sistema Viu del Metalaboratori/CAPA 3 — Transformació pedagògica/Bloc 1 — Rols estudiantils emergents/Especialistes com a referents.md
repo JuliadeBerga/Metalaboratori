@@ -92,15 +92,15 @@ Els especialistes no substitueixen el docent, però contribueixen a **expandir l
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Apareixen primeres situacions d’ajuda puntual entre estudiants.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Els membres del [[Nucli d’especialistes]] esdevenen referents tècnics dins el grup.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Alguns especialistes assumeixen de manera sostinguda funcions d’orientació, contribuint a formes incipients d’exercici docent distribuït.
 

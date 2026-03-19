@@ -117,11 +117,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El sistema es desenvolupa en un context específic amb fort lideratge docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 La consolidació de l’arquitectura sociotècnica permet ampliar les dinàmiques col·laboratives.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El model mostra estabilitat dins el context analitzat, però continua depenent de les condicions estructurals del sistema.

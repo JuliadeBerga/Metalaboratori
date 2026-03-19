@@ -90,15 +90,15 @@ Aquest procés connecta amb el domini de la [[Cognició de grup]], en què el co
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Els estudiants comencen a col·laborar en la resolució de problemes tècnics.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Les interaccions entre participants es fan més freqüents i apareixen formes d’orientació entre iguals.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 La pràctica col·lectiva es consolida i el grup desenvolupa formes estables de coordinació.
 

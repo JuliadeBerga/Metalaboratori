@@ -137,11 +137,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 L’arquitectura del sistema és encara limitada i el docent manté major control dels processos.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 La consolidació del web i dels dispositius associats permet ampliar la redistribució d’agència.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 L’arquitectura sociotècnica esdevé un element central del funcionament del sistema.

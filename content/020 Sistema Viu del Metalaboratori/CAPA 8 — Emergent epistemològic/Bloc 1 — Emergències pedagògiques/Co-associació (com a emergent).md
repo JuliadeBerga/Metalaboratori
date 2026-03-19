@@ -152,11 +152,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Les interaccions entre estudiants són principalment funcionals i centrades en la tasca pròpia.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen formes inicials de suport entre estudiants, especialment dins el nucli d’especialistes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La co-associació es consolida com a pràctica estable dins el sistema.

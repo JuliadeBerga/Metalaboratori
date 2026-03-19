@@ -169,11 +169,11 @@ La redistribució d’agència constitueix un dels **mecanismes clau de transfor
 
 # Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — inici de la co-creació arquitectònica del sistema
+- [[041 Iteració 1]] — inici de la co-creació arquitectònica del sistema
     
-- [[050 Iteració 2]] — emergència d’autoritat epistèmica estudiantil
+- [[042 Iteració 2]] — emergència d’autoritat epistèmica estudiantil
     
-- [[060 Iteració 3]] — aparició d’exercici docent distribuït i dinàmiques de co-associació
+- [[043 Iteració 3]] — aparició d’exercici docent distribuït i dinàmiques de co-associació
     
 
 ---

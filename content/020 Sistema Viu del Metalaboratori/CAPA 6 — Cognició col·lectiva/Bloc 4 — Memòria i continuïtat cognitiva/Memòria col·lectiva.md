@@ -118,11 +118,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El coneixement del projecte depèn principalment de l’orientació docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 El nucli d’especialistes acumula experiència en el desenvolupament del sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El grup utilitza coneixement acumulat per orientar noves decisions sobre el sistema i els projectes.

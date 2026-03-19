@@ -127,11 +127,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Es desenvolupen diversos gadgets de comunicació dins el web, però la seva utilització és molt limitada.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 El sistema continua evolucionant, però la comunicació entre estudiants es realitza principalment a través d’eines externes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 L’arquitectura del sistema prioritza dispositius amb funcions específiques del procés d’aprenentatge.

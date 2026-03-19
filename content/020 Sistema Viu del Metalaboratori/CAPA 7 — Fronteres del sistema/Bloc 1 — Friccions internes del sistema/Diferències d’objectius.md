@@ -125,11 +125,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Les orientacions dels estudiants són relativament similars i centrades en completar el projecte.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareix el nucli d’especialistes amb objectius més exploratoris.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La coexistència de trajectòries amb objectius diferents es consolida dins el sistema.

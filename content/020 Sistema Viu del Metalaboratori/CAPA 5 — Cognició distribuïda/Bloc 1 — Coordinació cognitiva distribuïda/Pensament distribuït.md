@@ -113,8 +113,8 @@ Constitueix un dels conceptes centrals de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — coordinació limitada entre participants
-- [[050 Iteració 2]] — emergència clara de pensament distribuït dins el nucli d’especialistes
-- [[060 Iteració 3]] — resolució col·lectiva associada a processos de cognició de grup
+- [[041 Iteració 1]] — coordinació limitada entre participants
+- [[042 Iteració 2]] — emergència clara de pensament distribuït dins el nucli d’especialistes
+- [[043 Iteració 3]] — resolució col·lectiva associada a processos de cognició de grup
 
 El pensament distribuït és el primer nivell en què el sistema d’aprenentatge **comença a operar com una intel·ligència col·lectiva funcional**.

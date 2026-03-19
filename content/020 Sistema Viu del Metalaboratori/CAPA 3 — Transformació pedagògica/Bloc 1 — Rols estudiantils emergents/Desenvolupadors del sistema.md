@@ -92,15 +92,15 @@ Aquesta dinàmica connecta directament amb la:
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Apareixen les primeres col·laboracions tècniques en la construcció del web del laboratori.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 El nucli d’estudiants desenvolupadors participa activament en el desenvolupament de funcionalitats del sistema.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Alguns d’aquests estudiants passen a orientar altres participants i contribueixen a estabilitzar el funcionament del sistema.
 

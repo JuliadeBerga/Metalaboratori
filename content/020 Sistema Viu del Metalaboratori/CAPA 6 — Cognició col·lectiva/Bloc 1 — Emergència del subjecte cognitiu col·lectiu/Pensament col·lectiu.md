@@ -116,11 +116,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El pensament es produeix principalment a nivell individual.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen processos inicials de coordinació cognitiva entre especialistes.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El grup desenvolupa processos sostinguts de pensament col·lectiu en el desenvolupament del sistema.

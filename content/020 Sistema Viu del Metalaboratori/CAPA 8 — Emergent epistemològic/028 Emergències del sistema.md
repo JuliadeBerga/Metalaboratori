@@ -197,13 +197,13 @@ Aquestes teories es configuren com a interpretacions situades dels processos eme
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 Emergència inicial de pràctiques col·laboratives sense estabilització sistèmica.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 Consolidació de la cognició distribuïda i de la redistribució d’agència.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 Emergència de cognició de grup, pensament col·lectiu i sistema viu d’aprenentatge.
 
 ---

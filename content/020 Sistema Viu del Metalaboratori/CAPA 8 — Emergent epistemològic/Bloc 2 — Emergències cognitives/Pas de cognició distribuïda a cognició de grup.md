@@ -149,11 +149,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 No es produeix cognició de grup. Predomina la cooperació.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 S’estableix la cognició distribuïda, però sense emergència de subjecte col·lectiu.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Emergència clara de cognició de grup dins el nucli d’especialistes.

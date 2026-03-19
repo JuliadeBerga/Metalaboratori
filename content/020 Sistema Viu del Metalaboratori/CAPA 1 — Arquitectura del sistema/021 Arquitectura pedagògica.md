@@ -193,11 +193,11 @@ L’arquitectura és el nivell a partir del qual el sistema deixa de ser només 
 
 # Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — emergència de la co-creació de l’espai
+- [[041 Iteració 1]] — emergència de la co-creació de l’espai
     
-- [[050 Iteració 2]] — consolidació de l’arquitectura del laboratori
+- [[042 Iteració 2]] — consolidació de l’arquitectura del laboratori
     
-- [[060 Iteració 3]] — evolució del sistema de portes com a arquitectura d’avaluació
+- [[043 Iteració 3]] — evolució del sistema de portes com a arquitectura d’avaluació
     
 
 ---

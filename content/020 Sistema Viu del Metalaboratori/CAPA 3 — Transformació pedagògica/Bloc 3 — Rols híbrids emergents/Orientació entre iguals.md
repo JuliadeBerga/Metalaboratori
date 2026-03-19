@@ -82,15 +82,15 @@ Aquest fenomen constitueix una manifestació clara de la [[Redistribució d’ag
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 L’ajuda entre estudiants apareix de manera puntual.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Alguns participants ofereixen suport tècnic de manera recurrent dins el grup.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 L’orientació entre iguals es consolida com una pràctica habitual dins el laboratori.
 

@@ -148,11 +148,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 No apareix pensament col·lectiu.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Existeix cognició distribuïda, però no pensament col·lectiu estabilitzat.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Apareix pensament col·lectiu sostingut dins el nucli d’especialistes.

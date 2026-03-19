@@ -141,8 +141,8 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — emergència inicial de l’arquitectura digital del sistema
+- [[041 Iteració 1]] — emergència inicial de l’arquitectura digital del sistema
     
-- [[050 Iteració 2]] — consolidació de l’arquitectura cognitiva a través del desenvolupament del web
+- [[042 Iteració 2]] — consolidació de l’arquitectura cognitiva a través del desenvolupament del web
     
-- [[060 Iteració 3]] — l’arquitectura sosté processos avançats de coordinació i facilita l’emergència de cognició de grup
+- [[043 Iteració 3]] — l’arquitectura sosté processos avançats de coordinació i facilita l’emergència de cognició de grup

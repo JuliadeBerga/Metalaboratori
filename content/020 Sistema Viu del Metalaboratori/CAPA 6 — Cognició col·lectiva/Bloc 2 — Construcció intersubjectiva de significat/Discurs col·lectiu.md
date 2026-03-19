@@ -133,11 +133,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El llenguatge del projecte està principalment definit pel docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen expressions compartides dins el nucli d’especialistes relacionades amb el desenvolupament del sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa un discurs col·lectiu que estructura les discussions tècniques i pedagògiques del grup.

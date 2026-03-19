@@ -181,11 +181,11 @@ La co-creació constitueix **el mecanisme operatiu que permet que l’arquitectu
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — emergència de la construcció col·lectiva de l’espai
+- [[041 Iteració 1]] — emergència de la construcció col·lectiva de l’espai
     
-- [[050 Iteració 2]] — consolidació de la producció distribuïda del sistema
+- [[042 Iteració 2]] — consolidació de la producció distribuïda del sistema
     
-- [[060 Iteració 3]] — estabilització de les dinàmiques pedagògiques emergents
+- [[043 Iteració 3]] — estabilització de les dinàmiques pedagògiques emergents
     
 
 ---

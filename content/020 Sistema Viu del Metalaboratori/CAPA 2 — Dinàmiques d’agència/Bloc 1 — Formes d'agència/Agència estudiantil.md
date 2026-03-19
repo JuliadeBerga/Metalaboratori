@@ -27,13 +27,13 @@ Aquest desplaçament modifica la relació tradicional entre estudiant i sistema 
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 apareixen les primeres formes d’intervenció estudiantil en la construcció del web.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 el nucli d’especialistes assumeix responsabilitats tècniques que afecten el funcionament del sistema.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 alguns estudiants passen a orientar altres participants dins el procés de desenvolupament.
 
 ## Connexions

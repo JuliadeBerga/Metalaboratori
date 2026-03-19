@@ -135,11 +135,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La validació del coneixement depèn principalment del docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen discussions tècniques dins el nucli d’especialistes, però la validació continua parcialment docent.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa autoritat epistèmica col·lectiva en les decisions relacionades amb el sistema i els projectes.

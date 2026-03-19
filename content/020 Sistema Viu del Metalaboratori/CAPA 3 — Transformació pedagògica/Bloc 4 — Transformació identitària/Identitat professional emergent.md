@@ -78,15 +78,15 @@ el seu treball deixa de percebre’s només com una tasca escolar i passa a adqu
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Els estudiants comencen a desenvolupar projectes propis dins el laboratori.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Alguns participants assumeixen responsabilitats tècniques més avançades dins el sistema.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 La participació en el desenvolupament del laboratori reforça la percepció d’estar participant en una pràctica tècnica significativa.
 

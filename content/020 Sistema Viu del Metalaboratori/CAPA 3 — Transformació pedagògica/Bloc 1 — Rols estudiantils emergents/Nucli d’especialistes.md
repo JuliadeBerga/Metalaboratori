@@ -80,15 +80,15 @@ Aquest procés prepara el pas cap a dinàmiques de **co-associació**.
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**
+**[[041 Iteració 1]]**
 
 Apareixen les primeres formes de col·laboració tècnica entre estudiants en la construcció del sistema.
 
-**[[050 Iteració 2]]**
+**[[042 Iteració 2]]**
 
 S’identifica clarament un **grup d’especialistes** que assumeix un paper central en el desenvolupament del web i en la resolució de problemes tècnics.
 
-**[[060 Iteració 3]]**
+**[[043 Iteració 3]]**
 
 Alguns membres del nucli participen activament en l’orientació d’altres estudiants, consolidant formes d’exercici docent distribuït.
 

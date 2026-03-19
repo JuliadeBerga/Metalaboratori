@@ -145,11 +145,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El docent manté la major part de les funcions estructurals del sistema.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Emergeix el **nucli d’especialistes**, que assumeix funcions tècniques i organitzatives.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Els especialistes consoliden el seu paper com a agents clau en el funcionament del sistema.

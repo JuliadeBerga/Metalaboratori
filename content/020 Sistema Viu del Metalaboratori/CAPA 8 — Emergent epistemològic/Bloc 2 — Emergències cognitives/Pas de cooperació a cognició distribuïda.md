@@ -146,11 +146,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Predomini de dinàmiques de cooperació basades en el repartiment de tasques.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Emergència de la cognició distribuïda amb especialització funcional i interdependència entre participants.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La cognició distribuïda es consolida i prepara l’emergència de formes de cognició de grup.

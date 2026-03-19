@@ -105,6 +105,6 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — el web registra principalment els projectes desenvolupats
-- [[050 Iteració 2]] — el sistema digital es consolida com a memòria del procés de desenvolupament
-- [[060 Iteració 3]] — la memòria del sistema facilita la continuïtat del treball col·lectiu i la coordinació del grup
+- [[041 Iteració 1]] — el web registra principalment els projectes desenvolupats
+- [[042 Iteració 2]] — el sistema digital es consolida com a memòria del procés de desenvolupament
+- [[043 Iteració 3]] — la memòria del sistema facilita la continuïtat del treball col·lectiu i la coordinació del grup

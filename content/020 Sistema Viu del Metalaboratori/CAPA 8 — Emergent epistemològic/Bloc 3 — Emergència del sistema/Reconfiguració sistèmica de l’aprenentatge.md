@@ -203,11 +203,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Transformacions inicials sense ruptura sistèmica.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Reconfiguració parcial amb redistribució d’agència i cognició distribuïda.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Reconfiguració sistèmica consolidada amb emergència de cognició de grup i sistema viu.

@@ -164,13 +164,13 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 L’aprenentatge es vincula principalment a tasques i projectes.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Els participants comencen a intervenir en l’organització del sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 L’aprenentatge es manifesta clarament com a transformació del sistema.
 
 _(Redefinició de l’aprenentatge com a procés de transformació del sistema d’activitat)_
@@ -337,11 +337,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 L’aprenentatge es vincula principalment a tasques i projectes.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Els participants comencen a intervenir en l’organització del sistema.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 L’aprenentatge es manifesta clarament com a transformació del sistema.

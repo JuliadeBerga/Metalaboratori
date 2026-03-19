@@ -138,11 +138,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 El sistema manté una regulació docent més directa.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 L’arquitectura pedagògica permet ampliar l’autonomia dels participants.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 S’estabilitza un model de governança distribuïda entre arquitectura, estudiants i docent.

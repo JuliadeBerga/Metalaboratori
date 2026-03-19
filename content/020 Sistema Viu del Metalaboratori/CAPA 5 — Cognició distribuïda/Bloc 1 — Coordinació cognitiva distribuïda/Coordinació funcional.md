@@ -116,6 +116,6 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — coordinació principalment docent  
-- [[050 Iteració 2]] — emergència de coordinació funcional dins el nucli d’especialistes  
-- [[060 Iteració 3]] — coordinació compartida que prepara l’aparició de cognició de grup
+- [[041 Iteració 1]] — coordinació principalment docent  
+- [[042 Iteració 2]] — emergència de coordinació funcional dins el nucli d’especialistes  
+- [[043 Iteració 3]] — coordinació compartida que prepara l’aparició de cognició de grup

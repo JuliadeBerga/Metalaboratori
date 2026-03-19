@@ -139,11 +139,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 No apareix cognició de grup. El sistema funciona principalment mitjançant coordinació docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen indicis de coordinació intensa dins el nucli d’especialistes, però el sistema continua funcionant principalment mitjançant cognició distribuïda.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Emergència clara d’un subjecte cognitiu col·lectiu dins el nucli d’especialistes.

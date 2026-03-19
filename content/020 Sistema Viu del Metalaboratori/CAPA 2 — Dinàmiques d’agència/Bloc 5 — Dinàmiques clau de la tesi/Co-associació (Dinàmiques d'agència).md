@@ -42,13 +42,13 @@ La relació pedagògica deixa de basar-se exclusivament en una jerarquia transmi
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 apareixen formes inicials de col·laboració en la construcció del sistema.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 l’emergència del nucli d’especialistes genera formes incipients d’autoritat epistèmica estudiantil.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 alguns estudiants participen activament en processos d’orientació, consolidant dinàmiques de co-associació.
 
 ## Connexions

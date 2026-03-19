@@ -120,8 +120,8 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — la tecnologia funciona principalment com a suport tècnic del projecte
+- [[041 Iteració 1]] — la tecnologia funciona principalment com a suport tècnic del projecte
     
-- [[050 Iteració 2]] — el web es consolida com a mediador central de l’activitat cognitiva
+- [[042 Iteració 2]] — el web es consolida com a mediador central de l’activitat cognitiva
     
-- [[060 Iteració 3]] — la tecnologia sosté processos avançats de coordinació i prepara l’emergència de cognició de grup
+- [[043 Iteració 3]] — la tecnologia sosté processos avançats de coordinació i prepara l’emergència de cognició de grup

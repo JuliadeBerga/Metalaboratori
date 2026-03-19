@@ -105,15 +105,15 @@ Aquest procés connecta amb la [[Redistribució d’agència]] i amb la [[Co-cre
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Es dissenya la primera arquitectura del laboratori i es comencen a experimentar diferents dispositius pedagògics.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 L’arquitectura del sistema es consolida i es desenvolupa el [[Sistema de portes]] com a dispositiu central.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 El sistema evoluciona a partir de l’experiència acumulada i de la participació dels estudiants en el desenvolupament de l’entorn.
 

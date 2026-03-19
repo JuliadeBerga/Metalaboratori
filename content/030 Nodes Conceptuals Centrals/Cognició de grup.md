@@ -46,9 +46,9 @@ Es construeix sobre:
     
 - [[Co-associació]] — interdependència relacional
     
-- [[Dinàmiques de co-creació]] — producció compartida
+- [[024 Dinàmiques de co-creació]] — producció compartida
     
-- [[Transformació de rols]] — flexibilitat de posicions
+- [[023 Transformació de rols]] — flexibilitat de posicions
     
 
 I permet l’emergència de:
@@ -64,13 +64,13 @@ I permet l’emergència de:
 
 ## Desenvolupament empíric
 
-**Iteració 1 — Absència de cognició de grup**  
+**[[041 Iteració 1]] — Absència de cognició de grup**  
 El sistema no presenta una producció col·lectiva de significat. Les decisions i interpretacions es mantenen a nivell individual o depenen del docent.
 
-**Iteració 2 — Base en cognició distribuïda**  
+**[[042 Iteració 2]] — Base en cognició distribuïda**  
 Existeix coordinació funcional del pensament, però el grup encara no actua com a unitat cognitiva. El coneixement es distribueix, però no es construeix plenament de manera col·lectiva.
 
-**Iteració 3 — Emergència de cognició de grup**  
+*[[043 Iteració 3]]* — Emergència de cognició de grup**  
 Apareixen indicadors clars de subjecte cognitiu col·lectiu:
 
 - decisions preses de manera compartida sense intervenció directa del docent

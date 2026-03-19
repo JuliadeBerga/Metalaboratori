@@ -92,15 +92,15 @@ Aquest procés prepara l’emergència de dinàmiques de [[Co-associació (Conce
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Apareixen primeres situacions d’ajuda entre estudiants.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 Alguns membres del [[Nucli d’especialistes]] assumeixen de manera recurrent funcions d’orientació tècnica.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Les pràctiques d’orientació entre iguals es consoliden i contribueixen a formes incipients d’exercici docent distribuït.
 

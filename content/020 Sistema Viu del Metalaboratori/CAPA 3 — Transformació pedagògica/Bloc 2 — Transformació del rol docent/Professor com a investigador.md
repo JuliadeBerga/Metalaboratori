@@ -92,15 +92,15 @@ El coneixement produït emergeix així **de la interacció entre acció pedagòg
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 El docent inicia la documentació sistemàtica del procés mitjançant diaris docents.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 La recerca es centra en l’anàlisi de les dinàmiques emergents dins el grup d’especialistes.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 La investigació amplia el focus cap a la transformació de rols i les formes de cognició col·lectiva.
 

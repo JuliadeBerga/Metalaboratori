@@ -135,11 +135,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Les interpretacions del projecte depenen principalment de les orientacions del docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareixen espais de discussió dins el nucli d’especialistes, però la negociació continua parcialment guiada.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El nucli d’especialistes desenvolupa processos autònoms de negociació de significat sobre el sistema i els projectes.

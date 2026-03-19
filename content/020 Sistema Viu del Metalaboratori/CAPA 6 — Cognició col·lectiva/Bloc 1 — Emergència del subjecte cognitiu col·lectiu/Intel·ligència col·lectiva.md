@@ -114,11 +114,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La resolució de problemes depèn principalment de la intervenció docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 El nucli d’especialistes desenvolupa formes inicials de coordinació cognitiva.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 El grup desenvolupa capacitat estable de resolució col·lectiva de problemes en el desenvolupament del sistema.

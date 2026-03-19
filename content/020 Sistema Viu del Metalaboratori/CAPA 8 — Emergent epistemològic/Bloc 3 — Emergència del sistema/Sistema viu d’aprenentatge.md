@@ -197,11 +197,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 Sistema inicialment dependent de la intervenció docent.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Emergència de coordinació distribuïda, però amb dependència estructural.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 Consolidació d’un sistema capaç d’auto-organitzar processos cognitius i pedagògics.

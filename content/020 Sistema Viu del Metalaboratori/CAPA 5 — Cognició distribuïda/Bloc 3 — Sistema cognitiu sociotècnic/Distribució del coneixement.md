@@ -132,8 +132,8 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — distribució inicial de tasques dins els projectes
+- [[041 Iteració 1]] — distribució inicial de tasques dins els projectes
     
-- [[050 Iteració 2]] — especialització de competències dins el nucli d’especialistes
+- [[042 Iteració 2]] — especialització de competències dins el nucli d’especialistes
     
-- [[060 Iteració 3]] — la distribució del coneixement sosté l’emergència de processos de cognició de grup
+- [[043 Iteració 3]] — la distribució del coneixement sosté l’emergència de processos de cognició de grup

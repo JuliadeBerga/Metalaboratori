@@ -41,13 +41,13 @@ El docent continua sent una figura central del sistema, però la seva funció se
 
 ## Desenvolupament a les iteracions
 
-[[040 Iteració 1]]  
+[[041 Iteració 1]]  
 el docent lidera el disseny del sistema.
 
-[[050 Iteració 2]]  
+[[042 Iteració 2]]  
 comença a compartir espais de decisió amb els estudiants més experimentats.
 
-[[060 Iteració 3]]  
+[[043 Iteració 3]]  
 la funció docent es redistribueix parcialment dins el sistema.
 
 ## Connexions

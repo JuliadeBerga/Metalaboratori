@@ -126,6 +126,6 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-- [[040 Iteració 1]] — els artefactes funcionen principalment com a suport tècnic del projecte  
-- [[050 Iteració 2]] — el web es consolida com a infraestructura cognitiva del sistema  
-- [[060 Iteració 3]] — els artefactes sostenen la redistribució de l’activitat pedagògica i la coordinació del grup
+- [[041 Iteració 1]] — els artefactes funcionen principalment com a suport tècnic del projecte  
+- [[042 Iteració 2]] — el web es consolida com a infraestructura cognitiva del sistema  
+- [[043 Iteració 3]] — els artefactes sostenen la redistribució de l’activitat pedagògica i la coordinació del grup

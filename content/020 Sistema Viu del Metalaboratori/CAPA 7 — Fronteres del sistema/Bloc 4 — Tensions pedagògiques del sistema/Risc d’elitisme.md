@@ -134,11 +134,11 @@ Forma part de la capa:
 
 ## Desenvolupament a les iteracions
 
-**[[040 Iteració 1]]**  
+**[[041 Iteració 1]]**  
 La participació dels estudiants és relativament homogènia.
 
-**[[050 Iteració 2]]**  
+**[[042 Iteració 2]]**  
 Apareix el nucli d’especialistes amb funcions tècniques específiques.
 
-**[[060 Iteració 3]]**  
+**[[043 Iteració 3]]**  
 La diferenciació de trajectòries es consolida, però es manté la cohesió del sistema.

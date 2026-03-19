@@ -1,21 +1,56 @@
 # Redistribució d’agència
 
-_(Reconfiguració de la capacitat d’intervenció dins el sistema viu d’aprenentatge)_
+La **redistribució d’agència** és un concepte central del [[020 Sistema Viu del Metalaboratori]] que descriu el desplaçament de la capacitat d’intervenció, decisió i validació dins el sistema d’aprenentatge.
 
-La **redistribució d’agència** descriu el procés pel qual la capacitat de decisió, acció i influència dins el sistema deixa d’estar concentrada en el docent i es distribueix entre participants i dispositius.
+No es tracta d’un augment genèric de participació, sinó d’una **reconfiguració estructural de qui pot fer què dins l’activitat pedagògica**.
 
-No es tracta simplement de donar més autonomia als estudiants, sinó de **reconfigurar estructuralment qui pot intervenir, com i sobre què**.
+Aquest concepte articula la transició des d’un model centrat en el docent cap a un sistema en què l’agència es distribueix entre estudiants, docent i artefactes.
 
-En el Metalaboratori, l’agència es distribueix entre:
+---
 
-- estudiants (decisions tècniques, organitzatives i pedagògiques)
+## Definició en aquesta investigació
+
+En aquesta investigació, la redistribució d’agència descriu el procés pel qual funcions tradicionalment concentrades en el docent es desplacen parcialment cap a:
+
+- els estudiants
     
-- docent (funció de bastida i regulació sistèmica)
+- els dispositius del sistema
     
-- arquitectura (regulació a través de dispositius i estructures)
+- l’estructura de l’arquitectura pedagògica
     
 
-Aquesta redistribució transforma el sistema des d’un model centrat en la instrucció cap a un **model d’activitat col·lectiva amb governança distribuïda**.
+Aquest desplaçament afecta especialment:
+
+- la presa de decisions
+    
+- la validació del coneixement
+    
+- la regulació del procés d’aprenentatge
+    
+- la definició de trajectòries
+    
+
+La redistribució d’agència no implica absència de governança ni dissolució del rol docent, sinó una **reorganització funcional del sistema d’activitat**.
+
+El docent no desapareix, sinó que passa a actuar com a:
+
+- dissenyador de l’arquitectura
+    
+- garant de coherència sistèmica
+    
+- bastida que sosté la viabilitat del sistema
+    
+
+L’agència dels estudiants no és homogènia ni automàtica. Es construeix en relació amb:
+
+- les condicions que permet l’arquitectura
+    
+- les oportunitats d’intervenció disponibles
+    
+- les trajectòries individuals dins el sistema
+    
+
+En aquest sentit, la redistribució d’agència és una **propietat emergent condicionada per la configuració sociomaterial del sistema**.
 
 ---
 
@@ -31,6 +66,93 @@ La redistribució d’agència es pot comprendre a partir de:
     
 
 Des d’aquesta perspectiva, l’agència no és una propietat individual, sinó una **propietat relacional i sistèmica**.
+
+---
+## Marc conceptual
+
+→ [[022 Redistribució d’agència]]
+
+Aquest concepte es vincula amb perspectives que entenen l’activitat com a distribuïda entre actors i artefactes, i amb enfocaments que qüestionen la centralitat del docent en la regulació del procés d’aprenentatge.
+
+---
+
+## Dinàmiques del sistema
+
+→ [[Co-associació (Dinàmiques d’agència)]]  
+→ [[024 Dinàmiques de co-creació]]
+
+La redistribució d’agència es manifesta en el sistema a través de dinàmiques concretes:
+
+- estudiants que orienten altres estudiants
+    
+- processos de validació no centralitzats
+    
+- decisions que es prenen dins la pràctica i no només des del docent
+    
+- construcció compartida de l’arquitectura
+    
+
+Aquestes dinàmiques no són assignades formalment, sinó que emergeixen quan el sistema ho permet.
+
+---
+
+## Desenvolupament empíric
+
+→ [[041 Iteració 1]]  
+→ [[042 Iteració 2]]  
+→ [[043 Iteració 3]]
+
+La redistribució d’agència es desenvolupa progressivament:
+
+- en la primera iteració, el control continua majoritàriament centralitzat
+    
+- en la segona, apareixen espais d’intervenció dels estudiants
+    
+- en la tercera, l’agència es distribueix de manera més estable dins el sistema
+    
+
+Aquest procés no és lineal ni homogeni, sinó que presenta variacions segons participants i contextos.
+
+---
+
+## Condicions de possibilitat
+
+→ [[021 Arquitectura pedagògica]]
+
+La redistribució d’agència depèn de manera directa de l’arquitectura del sistema.
+
+Sense:
+
+- visibilitat de criteris
+    
+- traçabilitat del progrés
+    
+- sistemes de portes
+    
+- espais d’interacció
+    
+- possibilitat de revisió
+    
+
+l’agència no es distribueix, sinó que tendeix a recentralitzar-se.
+
+L’arquitectura no acompanya la redistribució: **la fa possible**.
+
+---
+
+## Relació amb la cognició
+
+→ [[025 Cognició distribuïda]]  
+→ [[026 Cognició de grup]]
+
+La redistribució d’agència és condició per al desenvolupament de formes avançades de cognició:
+
+- permet la coordinació funcional del coneixement (cognició distribuïda)
+    
+- facilita l’emergència de criteris compartits (cognició de grup)
+    
+
+Sense redistribució d’agència, el sistema no pot evolucionar cap a formes col·lectives de pensament.
 
 ---
 
@@ -97,20 +219,22 @@ El sistema funciona amb **governança distribuïda**.
 
 ---
 
-## Forma emergent
+## Redistribució d’agència com a emergent
 
-Quan es consolida, la redistribució d’agència es manifesta en:
+→ [[028 Emergències del sistema]]
 
-- presa de decisions col·lectiva
+Quan es consolida, la redistribució d’agència deixa de ser una intervenció puntual i esdevé una propietat del sistema.
+
+En aquest punt:
+
+- el sistema ja no depèn exclusivament del docent
     
-- autonomia real en l’organització del treball
+- la regulació es distribueix
     
-- capacitat del sistema per autoregular-se
-    
-- distribució de responsabilitat entre actors
+- les pràctiques es reprodueixen dins la xarxa d’activitat
     
 
-L’agència deixa de ser assignada i passa a ser **produïda pel sistema**.
+Això obre la possibilitat d’un sistema pedagògic auto-organitzat.
 
 ---
 
@@ -137,24 +261,24 @@ l’agència no es transfereix, **es configura arquitectònicament**.
 
 ---
 
-## Tensió estructural
+## Límits i tensions
 
-La redistribució d’agència genera tensions inevitables:
+→ [[027 Límits i tensions del sistema]]
 
-- diferències d’implicació entre participants
+La redistribució d’agència genera tensions estructurals:
+
+- asimetries de participació
     
-- trajectòries mínimes vs trajectòries d’exploració
+- diferències d’implicació
     
-- sobrecàrrega en alguns rols
+- sobrecàrrega en alguns estudiants
     
-- risc de desorientació
+- trajectòries mínimes sense implicació profunda
     
 
-Aquestes tensions no són errors, sinó **efectes estructurals del sistema**.
+Aquestes tensions no són anomalies, sinó part del funcionament del sistema.
 
-Connecta amb:
-
-→ [[Límits i tensions del sistema]]
+La redistribució no elimina desigualtats: **les reconfigura**.
 
 ---
 
@@ -169,7 +293,16 @@ La redistribució d’agència és central per a:
 - [[Teoria humil de la co-associació]]
     
 
-Ja que totes elles depenen de com es distribueix la capacitat d’intervenció dins el sistema.
+L’anàlisi d’aquest concepte contribueix a la formulació de teories que expliquen:
+
+- com l’arquitectura permet redistribuir agència
+    
+- en quines condicions aquesta redistribució és viable
+    
+- quins límits presenta
+    
+
+Aquestes teories es formulen a partir de l’observació del sistema en funcionament.
 
 ---
 
@@ -188,7 +321,26 @@ Aquest concepte permet:
 
 No descriu només autonomia, sinó **estructura de governança del sistema**.
 
+
 ---
+
+## Funció dins el 030 Nodes Conceptuals Centrals
+
+Aquesta nota actua com a **hub conceptual** per comprendre com es reorganitza el poder d’intervenció dins el sistema.
+
+No substitueix els desenvolupaments específics, sinó que:
+
+- articula els diferents nivells del concepte
+    
+- connecta arquitectura, pràctica i emergència
+    
+- permet navegar entre capes del sistema
+    
+
+La redistribució d’agència és una peça clau per entendre la transició cap a un sistema viu d’aprenentatge.
+
+---
+
 
 ## Paper dins el Sistema Viu del Metalaboratori
 

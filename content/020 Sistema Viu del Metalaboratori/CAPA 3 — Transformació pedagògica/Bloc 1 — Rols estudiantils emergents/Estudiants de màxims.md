@@ -99,15 +99,15 @@ Aquest principi connecta amb la:
 
 ## Desenvolupament a les iteracions
 
-### [[040 Iteració 1]]
+### [[041 Iteració 1]]
 
 Comencen a aparèixer diferències d’implicació entre participants.
 
-### [[050 Iteració 2]]
+### [[042 Iteració 2]]
 
 La diferenciació entre trajectòries mínimes i ampliades es fa visible dins el sistema.
 
-### [[060 Iteració 3]]
+### [[043 Iteració 3]]
 
 Alguns estudiants de màxims participen activament en l’orientació d’altres estudiants.
 
