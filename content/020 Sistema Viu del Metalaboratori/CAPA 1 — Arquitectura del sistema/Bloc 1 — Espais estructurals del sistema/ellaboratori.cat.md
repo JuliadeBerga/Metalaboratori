@@ -24,4 +24,4 @@ El web actua com a infraestructura central del projecte. En ell s’articulen el
 [[Espai públic del laboratori]]  
 [[Espai privat del joc]]  
 [[Metalaboratori]]  
-[[LabFlix]]
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]

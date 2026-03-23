@@ -76,7 +76,7 @@ Aquesta part de l'article és un intent, a partir de molt exemples. ([note on p.
 
 ## Conceptes Propis
 
-### [[042. Aprenentatge Digital a les Aules]]
+### [[0842. Aprenentatge Digital a les Aules]]
 #### [[Aprendre a aprendre digitalment]]
 #### [[Com aprenen els nostres alumnes]]
 #### [[El món digital real a les aules]]

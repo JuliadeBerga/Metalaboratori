@@ -58,6 +58,12 @@ La co-associació pot generar tensions si no es gestiona adequadament:
 
 Aquestes tensions no són inherents al model, però constitueixen condicions de disseny a considerar.
 
+## Desenvolupament empíric a les iteracions
+
+La co-associació emergeix de manera incipient a la [[042 Iteració 2]] amb la consolidació del nucli d’estudiants co-creadors.
+
+Esdevé pràctica estructural a la [[043 Iteració 3]], on la funció docent es redistribueix de manera efectiva dins el sistema i es consolida una autoritat epistèmica distribuïda.
+
 ## Relacions
 
 → [[022 Redistribució d’agència]]  
@@ -65,4 +71,4 @@ Aquestes tensions no són inherents al model, però constitueixen condicions de 
 → [[Arquitectura pedagògica]]  
 → [[Teoria humil de la compatibilitat estructural]]  
 → [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]  
-→ [[070 Teories Humils]]
+→ [[Teories humils de la recerca]]

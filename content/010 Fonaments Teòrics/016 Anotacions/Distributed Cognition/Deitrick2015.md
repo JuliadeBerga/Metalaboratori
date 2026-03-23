@@ -56,7 +56,7 @@ _A ellaboratori no és el professor qui resol els problemes. Igual que aqui. ([n
 
 ## Conceptes Propis
 
-### [[043. Aprenentatge Col·laboratiu]]
+### [[0843. Aprenentatge Col·laboratiu]]
 ### [[Aprenentatge Col·laboratiu Alumnes-Professors]]
 #### [[Aprenentatge Col·laboratiu entre Alumnes]]
 ### [[Gamificació com a Infraestructura Frontera]]

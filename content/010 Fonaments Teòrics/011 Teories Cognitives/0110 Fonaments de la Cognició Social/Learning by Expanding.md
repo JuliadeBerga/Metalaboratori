@@ -99,7 +99,7 @@ Aquesta teoria fonamenta especialment:
 
 i és clau per comprendre l’emergència de:
 
-→ [[Teories humils]]
+→ [[Teories humils de la recerca]]
 
 ---
 ## Relació amb altres teories

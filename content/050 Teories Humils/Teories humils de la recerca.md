@@ -35,4 +35,7 @@ La seva formulació es construeix a partir de l’anàlisi progressiva desenvolu
 
 ## Relació amb la tesi
 
-→ [[070 Teories Humils]]
+Aquestes teories no només emergeixen del procés iteratiu, sinó que poden traçar-se directament en les transformacions observades a les iteracions 2 i 3, on els mecanismes descrits es fan operatius dins el sistema.
+
+→ [[Teories humils de la recerca]]
+

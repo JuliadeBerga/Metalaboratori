@@ -142,7 +142,7 @@ _Conclusió de l'article ([note on p.19](zotero://open-pdf/library/items/KH3HEE6
 
 ## Conceptes Propis
 
-### [[043. Aprenentatge Col·laboratiu]]
+### [[0843. Aprenentatge Col·laboratiu]]
 ### [[Aprenentatge Col·laboratiu Alumnes-Professors]]
 #### [[Aprenentatge Col·laboratiu entre Alumnes]]
 ### [[Gamificació com a Infraestructura Frontera]]

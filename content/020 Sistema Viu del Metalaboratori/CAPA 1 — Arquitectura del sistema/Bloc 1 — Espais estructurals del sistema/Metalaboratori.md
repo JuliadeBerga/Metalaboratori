@@ -19,7 +19,7 @@ Cada recurs del web disposa d’un accés al Metalaboratori que permet consultar
 
 ## Connexions
 
-[[ellaboratori.cat]]  
+[[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 1 — Espais estructurals del sistema/ellaboratori.cat]]  
 [[Recursos educatius del laboratori]]  
 [[Teories humils de la recerca]]  
 [[Sistema conceptual del laboratori]]

@@ -19,7 +19,7 @@ L’espai públic permet consultar propostes de videojocs, galeries de projectes
 
 ## Connexions
 
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Tutorials del laboratori]]  
 [[Galeria de videojocs]]  
 [[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/Històric de laboratoris]]

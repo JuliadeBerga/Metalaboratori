@@ -6,7 +6,7 @@ tags:: #marc_teoric #Boundary_Objects #Boundary_Infraestructures #Invisible_Work
 
 ## Conceptes aplicats a la investigació
 Aquest és el quart article estudiat per descriure el concepte [[Boundary  Objects]], juntament amb tots els seus derivats: [[Boundary Infraestructures]], [[Treball Invisible]], [[Boundaries]].
-[[Trompette_Vinck2009]] inclouen l'Objecte dins de [[Grounded Theory (Teoria Fonamentada)]], desenvolupada en el capítol [[030. Disseny de la Investigació]].
+[[Trompette_Vinck2009]] inclouen l'Objecte dins de [[Grounded Theory (Teoria Fonamentada)]], desenvolupada en el capítol [[083. Disseny de la Investigació]].
 
 >  "La noción de objeto frontera se inscribe en el modelo de la « grounded theory », en el sentido donde emerge y se construye como elemento de teorización para los autores en la confrontación con sus materiales de campo"
 
@@ -69,7 +69,7 @@ _Valorar si es necessàri ampliar el marc teòric amb exemples a l'ensenyament.
 
 ## Conceptes Propis
 
-### [[043. Aprenentatge Col·laboratiu]]
+### [[0843. Aprenentatge Col·laboratiu]]
 ### [[Aprenentatge Col·laboratiu Alumnes-Professors]]
 #### [[Aprenentatge Col·laboratiu entre Alumnes]]
 ### [[Gamificació com a Infraestructura Frontera]]

@@ -21,4 +21,4 @@ Aquest directori permet identificar els diferents participants del projecte i vi
 
 [[Perfil professional digital]]  
 [[Creació d’equips]]  
-[[Laable]]
+[[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/Laable]]

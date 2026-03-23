@@ -59,6 +59,12 @@ No es limita a suportar l’aprenentatge: reorganitza la governança del procés
 
 L’espai digital deixa de ser eina i esdevé arquitectura activa de legitimació, memòria i coordinació.
 
+## Desenvolupament empíric a les iteracions
+
+Els mecanismes descrits en aquesta teoria es despleguen principalment a la [[042 Iteració 2]], amb la construcció del web com a arquitectura governant.
+
+A la [[043 Iteració 3]], aquesta arquitectura esdevé condició de possibilitat per a la redistribució efectiva d’agència i la consolidació de noves formes de governança pedagògica.
+
 ## Relacions
 
 → [[Arquitectura pedagògica]]  
@@ -67,4 +73,4 @@ L’espai digital deixa de ser eina i esdevé arquitectura activa de legitimaci�
 → [[Teoria humil de la compatibilitat estructural]]  
 → [[Teoria humil de la co-associació]]  
 → [[Teoria humil de la regamificació com a reconfiguració sistèmica de la lògica educativa]]  
-→ [[070 Teories Humils]]
+→ [[Teories humils de la recerca]]

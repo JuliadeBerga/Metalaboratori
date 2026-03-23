@@ -20,4 +20,4 @@ LabTube funciona com una rèplica d’una plataforma de vídeo similar a YouTube
 
 [[Tutorials del laboratori]]  
 [[Continguts creats pels estudiants]]  
-[[Laable]]
+[[100 elMetaLaboratori/ellaboratori/Laable]]

@@ -19,6 +19,6 @@ Cada estudiant disposa d’un perfil propi on pot presentar els projectes desenv
 
 ## Connexions
 
-[[Laable]]  
+[[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/Laable]]  
 [[Galeria de videojocs]]  
 [[Projectes reals]]

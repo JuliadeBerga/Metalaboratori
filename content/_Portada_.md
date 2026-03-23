@@ -3,11 +3,11 @@
 <br>
 <br>
 <br>
-<b><center>Disseny d'un Espai Híbrid (Col·laboratiu, Digital i Regamificat) a partir d'una Experiència d'Aprenentatge entre estudiants de cicles formatius d’informàtica i mestres en formació</center></b>
+<b><center>Disseny, Desenvolupament i Anàlisi d’Espais d’Aprenentatge Col·laboratius, Digitals i Regamificats</center></b>
 <br>
 <br>
 
-<center>· Creació d'un Videojoc com a Objecte Frontera <br>
+<center>· Creació d’entorns reals de construcció de coneixement <br>
 · Coassociació estudiants-professors en el desenvolupament d'un entorn digital i gamificat de treball<br>
 · Creació d'una Identitat Digital Professional projectada a les Xarxes Socials</center>
 <br>

@@ -145,7 +145,7 @@ _Amb aquests items es podrà analitzar com funciona els desensenvolupadors de el
 
 ## Conceptes Propis
 
-### [[043. Aprenentatge Col·laboratiu]]
+### [[0843. Aprenentatge Col·laboratiu]]
 ### [[Aprenentatge Col·laboratiu Alumnes-Professors]]
 #### [[Aprenentatge Col·laboratiu entre Alumnes]]
 ### [[Gamificació com a Infraestructura Frontera]]

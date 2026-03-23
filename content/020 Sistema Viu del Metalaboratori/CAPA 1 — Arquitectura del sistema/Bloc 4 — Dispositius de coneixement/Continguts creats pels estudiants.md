@@ -20,5 +20,5 @@ La creació de contingut digital forma part del procés de treball del laborator
 ## Connexions
 
 [[Tutorials del laboratori]]  
-[[LabTube]]  
+[[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 4 — Dispositius de coneixement/LabTube]]  
 [[Cognició distribuïda]]

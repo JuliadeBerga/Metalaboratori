@@ -153,7 +153,7 @@ Aquest concepte es relaciona amb:
     
 - [[Dinàmiques de co-creació]]
     
-- [[Teories humils]]
+- [[Teories humils de la recerca]]
     
 
 Forma part de la capa:
@@ -326,7 +326,7 @@ Aquest concepte es relaciona amb:
     
 - [[Dinàmiques de co-creació]]
     
-- [[Teories humils]]
+- [[Teories humils de la recerca]]
     
 
 Forma part de la capa:

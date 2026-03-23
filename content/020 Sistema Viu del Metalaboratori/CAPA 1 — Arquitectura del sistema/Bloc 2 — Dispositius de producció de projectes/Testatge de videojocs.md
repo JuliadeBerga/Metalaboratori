@@ -20,5 +20,5 @@ Un cop pujada una versió del joc, els participants poden jugar-lo directament d
 ## Connexions
 
 [[Pujar videojoc]]  
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Projecte de videojoc]]

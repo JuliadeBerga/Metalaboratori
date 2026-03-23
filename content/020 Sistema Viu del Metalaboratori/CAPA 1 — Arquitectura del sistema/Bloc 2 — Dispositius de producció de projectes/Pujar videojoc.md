@@ -20,5 +20,5 @@ Els estudiants poden actualitzar el joc a mesura que avança el projecte, permet
 ## Connexions
 
 [[Testatge de videojocs]]  
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Projecte de videojoc]]

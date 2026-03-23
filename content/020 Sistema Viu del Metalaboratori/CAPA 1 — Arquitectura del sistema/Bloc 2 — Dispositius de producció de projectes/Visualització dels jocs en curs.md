@@ -20,5 +20,5 @@ Aquest espai permet observar simultàniament els diferents projectes en desenvol
 ## Connexions
 
 [[Galeria de videojocs]]  
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Projecte de videojoc]]

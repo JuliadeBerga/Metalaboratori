@@ -19,6 +19,6 @@ Aquest repositori permet consultar projectes d’anys anteriors i observar l’e
 
 ## Connexions
 
-[[LabFlix]]  
+[[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/LabFlix]]  
 [[Galeria de videojocs]]  
 [[Històric de laboratoris]]

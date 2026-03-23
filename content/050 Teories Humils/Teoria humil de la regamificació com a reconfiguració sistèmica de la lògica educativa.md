@@ -64,6 +64,12 @@ La regamificació és una reconfiguració sistèmica que:
 
 No substitueix el sistema educatiu; el reestructura des de dins.
 
+## Desenvolupament empíric a les iteracions
+
+La regamificació comença a emergir a la [[042 Iteració 2]] amb la introducció del sistema de portes i la reorganització del progrés.
+
+A la [[043 Iteració 3]], es consolida com a reconfiguració sistèmica, integrant avaluació, narrativa i trajectòries diferenciades dins una mateixa arquitectura coherent.
+
 ## Relacions
 
 → [[Arquitectura pedagògica]]  
@@ -72,4 +78,4 @@ No substitueix el sistema educatiu; el reestructura des de dins.
 → [[Teoria humil de la compatibilitat estructural]]  
 → [[Teoria humil de la co-associació]]  
 → [[Teoria de la co-creació arquitectònica com a mecanisme de redistribució d’agència]]  
-→ [[070 Teories Humils]]
+→ [[Teories humils de la recerca]]

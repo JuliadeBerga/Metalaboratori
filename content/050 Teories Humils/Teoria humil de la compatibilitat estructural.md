@@ -73,6 +73,13 @@ Aquestes implicacions no prescriuen un model únic, sinó criteris per analitzar
 
 ![[Pasted image 20260308141415.png]]
 
+
+## Desenvolupament empíric a les iteracions
+
+Aquesta configuració es fa visible especialment a la [[042 Iteració 2]], on la diferenciació entre trajectòries orientades a certificació i exploració es consolida dins el sistema de portes.
+
+A la [[043 Iteració 3]], aquesta compatibilitat estructural esdevé condició d’estabilitat del sistema, permetent la coexistència de formes d’implicació diverses sense fractura pedagògica.
+
 ## Desenvolupament a la tesi
 
-→ [[070 Teories Humils]]
+→ [[Teories humils de la recerca]]

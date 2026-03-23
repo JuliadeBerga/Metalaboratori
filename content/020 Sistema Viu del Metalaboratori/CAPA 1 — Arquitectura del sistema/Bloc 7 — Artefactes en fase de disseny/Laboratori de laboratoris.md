@@ -25,6 +25,6 @@ El concepte va aparèixer durant el procés de disseny, però no es va arribar a
 
 ## Connexions
 
-[[ellaboratori.cat]]  
+[[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]  
 [[Històric de laboratoris]]  
 [[Iteracions DBR]]

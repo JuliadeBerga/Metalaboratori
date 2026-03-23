@@ -26,17 +26,17 @@ Mapa temàtic per navegar per idees, marcs i problemes.
 
 ## Capítols
 
-- [[010. Introducció]] — Context, problema i objectius
+- [[081. Introducció]] — Context, problema i objectius
 - [[010 Fonaments Teòrics]] — Vygotsky, Engeström, Hutchins, Wenger, Latour…
-- [[030. Disseny de la Investigació]] — DBR, instruments i dispositiu d’anàlisi
-- [[040. Conceptes Propis]] — Categories, patrons i articulacions
-- [[050. Espais Híbrids d_Aprenentatge]] — Disseny pedagògic i tecnològic
+- [[083. Disseny de la Investigació]] — DBR, instruments i dispositiu d’anàlisi
+- [[084. Conceptes Propis]] — Categories, patrons i articulacions
+- [[0850. Espais Híbrids d_Aprenentatge]] — Disseny pedagògic i tecnològic
 - [[060. Resultats de la Recerca]] — Evidències, patrons i traçabilitat
-- [[070. Conclusions]] — Aportacions, límits i línies futures
+- [[090. Conclusions]] — Aportacions, límits i línies futures
 
 ---
 
 ## Materials i annexos
 
 - [[Bibliografia Tesi]]
-- [[300. elMetaLaboratori]]
+- [[100. elMetaLaboratori]]

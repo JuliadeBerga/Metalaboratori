@@ -25,6 +25,6 @@ La idea va ser explorada durant el disseny del sistema, però finalment no es va
 
 ## Connexions
 
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Galeria de videojocs]]  
 [[Projectes reals]]

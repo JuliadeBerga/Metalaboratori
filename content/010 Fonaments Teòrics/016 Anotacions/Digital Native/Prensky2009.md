@@ -85,7 +85,7 @@ Simbiosi entre ment humana i millores digitals
 
 ## Conceptes Propis
 
-### [[042. Aprenentatge Digital a les Aules]]
+### [[0842. Aprenentatge Digital a les Aules]]
 #### [[Aprendre a aprendre digitalment]]
 #### [[Com aprenen els nostres alumnes]]
 #### [[El món digital real a les aules]]

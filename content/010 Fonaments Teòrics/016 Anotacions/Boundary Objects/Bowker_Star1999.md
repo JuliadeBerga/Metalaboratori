@@ -111,7 +111,7 @@ ellaboratori.cat, el web, com a infraestructura frontera
 
 ## Conceptes Propis
 
-### [[043. Aprenentatge Col·laboratiu]]
+### [[0843. Aprenentatge Col·laboratiu]]
 ### [[Aprenentatge Col·laboratiu Alumnes-Professors]]
 #### [[Aprenentatge Col·laboratiu entre Alumnes]]
 ### [[Gamificació com a Infraestructura Frontera]]

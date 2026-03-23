@@ -71,7 +71,7 @@ Aquesta capa del Sistema Viu del Metalaboratori s’organitza al voltant dels di
 
 # 1. Infraestructura del laboratori
 
-- [[ellaboratori.cat]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 1 — Espais estructurals del sistema/ellaboratori.cat]]
     
 - [[Històric de laboratoris]]
     
@@ -107,11 +107,11 @@ Aquests dispositius permeten **iniciar i estructurar el desenvolupament dels vid
 
 # 3. Dispositius de visibilitat i circulació
 
-- [[LabFlix]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/LabFlix]]
     
 - [[Galeria de videojocs]]
     
-- [[Laable]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 3 — Dispositius de visibilitat i circulació/Laable]]
     
 - [[Perfil professional digital]]
     
@@ -126,7 +126,7 @@ Aquests espais fan possible la **circulació dels projectes i de les persones di
 
 - [[Tutorials del laboratori]]
     
-- [[LabTube]]
+- [[020 Sistema Viu del Metalaboratori/CAPA 1 — Arquitectura del sistema/Bloc 4 — Dispositius de coneixement/LabTube]]
     
 - [[Continguts creats pels estudiants]]
     

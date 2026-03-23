@@ -19,6 +19,6 @@ La galeria inclou videojocs produïts per l’Aliança FEP–DAM, projectes dese
 
 ## Connexions
 
-[[LabFlix]]  
+[[100 elMetaLaboratori/ellaboratori/LabFlix]]  
 [[Històric de laboratoris]]  
 [[Projectes reals]]
