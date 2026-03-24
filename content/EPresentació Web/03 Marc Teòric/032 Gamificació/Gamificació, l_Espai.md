@@ -1,1 +1,0 @@
-![[Gamificació.excalidraw.svg]]

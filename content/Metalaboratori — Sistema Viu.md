@@ -80,8 +80,8 @@ Visualitzacions conceptuals i navegació no lineal del coneixement.
 
 Estructura institucional de la tesi doctoral.
 
-→ [[Marc Teòric]]  
-→ [[Disseny de la Investigació]]  
+→ [[EPresentació Web/03 Marc Teòric/Marc Teòric]]  
+→ [[EPresentació Web/04 Disseny de la Investigació/Disseny de la Investigació]]  
 → [[Iteracions]]  
 → [[Resultats]]  
 → [[Conclusions]]

@@ -1,1 +1,0 @@
-![[Benvinguts.excalidraw.svg]]
