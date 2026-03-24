@@ -87,6 +87,6 @@ Pots moure’t entre conceptes, tornar enrere i explorar segons el teu interès.
 
 ---
 
-↩️ Tornar a: [[000 Porta d'Entrada/001 Comença aquí/Benvinguts|Benvinguts]]  
-➡️ Següent pas: [[Com són els elements]]
+Tornar a: [[000 Porta d'Entrada/001 Comença aquí/Benvinguts|Benvinguts]]  
+Següent pas: [[Com són els elements]]
 

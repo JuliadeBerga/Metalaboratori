@@ -5,13 +5,13 @@ Cada element té una funció dins el sistema i ajuda a organitzar el coneixement
 
 Abans de continuar, recorda que sempre pots tornar enrere:
 
-↩️ [[Com funciona]]
+[[Com funciona]]
 
 ---
 
 ## Tipus d’elements que trobaràs
 
-### 🔹 Nodes conceptuals
+### Nodes conceptuals
 
 Són les peces bàsiques del sistema.
 
@@ -33,56 +33,55 @@ Cada node conceptual et permet:
 
 ---
 
-### 🔹 Dominis del sistema
+### Dominis del sistema
 
 Agrupen nodes conceptuals segons la seva funció dins el model d’aprenentatge.
 
 Permeten entendre el sistema en capes.
 
 Exemples:  
-→ [[Arquitectura del sistema]]  
-→ [[Dinàmiques del sistema]]  
-→ [[Cognició en el sistema]]  
-→ [[Límits del sistema]]
+→ [[Arquitectura pedagògica]]  
+→ [[022 Redistribució d’agència]]  
+→ [[Cognició distribuïda]]  
+→ [[027 Límits i tensions del sistema]]
 
 ---
 
-### 🔹 Espais d’anàlisi
+### Espais d’anàlisi
 
 Connecten els conceptes amb el desenvolupament de la recerca.
 
 Exemples:  
-→ [[Iteracions de la recerca]]  
+→ [[Iteracions DBR]]  
 → [[Resultats]]  
-→ [[Límits i tensions]]
+→ [[027 Límits i tensions del sistema]]
 
 Aquests espais mostren com el sistema evoluciona i quines evidències el sustenten.
 
 ---
 
-### 🔹 Fonaments teòrics
+### Fonaments teòrics
 
 Inclouen els marcs conceptuals que sustenten la investigació.
 
 Exemples:  
 → [[Cognició distribuïda (marc teòric)]]  
 → [[Cognició de grup (marc teòric)]]  
-→ [[Teoria Actor-Xarxa]]  
-→ [[Aprenentatge col·laboratiu]]
+→ [[Teoria Actor-Xarxa (ANT)]]  
+→ [[0843. Aprenentatge Col·laboratiu]]
 
 Aquests elements permeten comprendre d’on provenen les idees del sistema viu.
 
 ---
 
-### 🔹 Metadades i context acadèmic
+### Metadades i context acadèmic
 
 Informació complementària que amplia la comprensió del treball.
 
 Exemples:  
-→ [[Anotacions de recerca]]  
-→ [[Autors i referents]]  
-→ [[Articles i llibres]]  
-→ [[Recursos digitals]]
+→ [[_Anotacions]]  
+→ [[080. Webs d_autors]]  
+→ [[_Articles i Llibres]]  
 
 ---
 
@@ -103,5 +102,5 @@ Aquest entorn no està pensat per ser recorregut linealment, sinó per ser **exp
 
 ---
 
-↩️ Tornar a: [[Com funciona]]  
-➡️ Següent pas: [[Programes i entorns de recerca]]
+Tornar a: [[Com funciona]]  
+Següent pas: [[Programes i entorns de recerca]]

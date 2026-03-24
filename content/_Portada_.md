@@ -1,21 +1,24 @@
+<br><br>
+<br><b><center>Reconfigurant la relació pedagògica a través de la co-associació en un sistema viu d’aprenentatge</center></b>
+<br><br>
 
-<br>
-<br>
-<br>
-<br>
-<b><center>Disseny, Desenvolupament i Anàlisi d’Espais d’Aprenentatge Col·laboratius, Digitals i Regamificats</center></b>
-<br>
-<br>
+<center>Disseny, implementació i anàlisi de la co-creació d’entorns reals de construcció de coneixement en una recerca basada en el disseny sobre la redistribució d’agència i el pas de la cognició distribuïda a la cognició de grup</center>
+<br><br>
 
-<center>· Creació d’entorns reals de construcció de coneixement <br>
-· Coassociació estudiants-professors en el desenvolupament d'un entorn digital i gamificat de treball<br>
-· Creació d'una Identitat Digital Professional projectada a les Xarxes Socials</center>
-<br>
-<br>
-<br>
+<center>
 
+Doctorand: Julià Fernàndez <br>
 
- [[_Índex Lineal_]] 
+Tutor i director de tesi: Jaume Ametller <br>
+
+Co-director: Pere Cornellà<br>
+
+Co-docent: Àlex Seguí <br>
+
+Co-creadors: Alumnes DAM 2019-2024<br>
+
+</center>
 <br>
-[[_Índex per Conceptes_]]
+[[_Comença Aquí]]
+
 
