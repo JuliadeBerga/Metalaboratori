@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://juliadeberga.github.io/Metalaboratori/000-Porta-d'Entrada/001-Comen%C3%A7a-aqu%C3%AD/_Comen%C3%A7a-Aqu%C3%AD",
+    baseUrl: "tesi.ellaboratori.cat",
     ignorePatterns: [
       ".obsidian/**",
       ".trash/**",
