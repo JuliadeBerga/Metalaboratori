@@ -44,3 +44,18 @@
   color: var(--gray);
   line-height: 1.35;
 }
+
+article img[src$=".excalidraw.svg"],
+article img[src*=".excalidraw.svg"] {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+  width: min(1100px, 100%);
+  height: auto;
+  border-radius: 16px;
+}
+
+article p:has(> img[src$=".excalidraw.svg"]),
+article p:has(> img[src*=".excalidraw.svg"]) {
+  margin: 0;
+}
