@@ -91,7 +91,7 @@ L’aprenentatge observat no és acumulatiu, sinó **expansiu**: el sistema canv
 
 Aquesta teoria fonamenta especialment:
 
-→ [[Evolució del Sistema]]  
+→ [[Evolució del sistema]]  
 → [[Arquitectura pedagògica]]
 → [[Transformació Iterativa]]  
 → [[022 Redistribució d’agència]]
