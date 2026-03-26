@@ -6,7 +6,7 @@
 Clicar la icona central en blanc i negre.
 
 ## [Accés desde la mateixa plataforma](https://publish.obsidian.md/julia/_Portada_)
-Es pot accedir directament al concepte: [[Portada]]
+Es pot accedir directament al concepte: [[index]]
 
 ## Objectiu d'aquest Espai
 Una vegada el projecte col·laboratiu basat en l'aliança de les FEP i DAM va acabar, ellaboratori.cat va deixar de ser un espai d'aprenentatge viu per convertir-se en un espai d'estudi, de recerca i d'anàlisi.
