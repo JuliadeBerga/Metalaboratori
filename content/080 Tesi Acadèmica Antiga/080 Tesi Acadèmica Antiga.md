@@ -1,8 +1,3 @@
----
-
-title: Tesi dA - Metalaboratori
-
----
 # Tesi dA – Metalaboratori
 
 **Disseny d’un Espai Híbrid (col·laboratiu, digital i regamificat)** a partir d’una experiència d’aprenentatge entre estudiants de cicles formatius d’informàtica i mestres en formació.
