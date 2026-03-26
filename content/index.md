@@ -3,12 +3,14 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <br><b><center>Reconfigurant la Relació Pedagògica a través de la Co-associació en un Sistema Viu d’Aprenentatge</center></b>
+<br>
 <br>
 
 <center>Disseny, implementació i anàlisi de la co-creació d’entorns reals de construcció de coneixement en una recerca basada en el disseny sobre la redistribució d’agència i el pas de la cognició distribuïda a la cognició de grup</center>
+<br>
+<br>
+<br>
 <br>
 
 <center>
