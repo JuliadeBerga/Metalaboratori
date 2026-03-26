@@ -59,3 +59,43 @@ article p:has(> img[src$=".excalidraw.svg"]),
 article p:has(> img[src*=".excalidraw.svg"]) {
   margin: 0;
 }
+
+.page-title a {
+  text-decoration: none;
+}
+
+.explorer {
+  font-size: 0.95rem;
+}
+
+.explorer .title-button h2 {
+  font-size: 1.05rem;
+  letter-spacing: 0.01em;
+}
+
+.explorer .explorer-content a,
+.explorer .folder-title {
+  line-height: 1.45;
+}
+
+.explorer .explorer-content li {
+  margin: 0.12rem 0;
+}
+
+footer ul {
+  padding-left: 0;
+  margin-top: 2rem;
+}
+
+footer li {
+  list-style: none;
+}
+
+footer a {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+footer a:hover {
+  opacity: 1;
+}
