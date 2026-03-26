@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "ca-ES",
     baseUrl: "tesi.ellaboratori.cat",
     ignorePatterns: [
       ".obsidian/**",
