@@ -21,7 +21,7 @@ Els accesos que permet ellaboratori (versió definitiva) son els següents:
 
 ## Connexions al Marc Teòric
 Per aprofundir més en els conceptes que han donat la base teòrica del web accedir a:
-### [[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
+### [[080 Tesi Acadèmica Antiga/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
 
 
 ## Enllaços al Web

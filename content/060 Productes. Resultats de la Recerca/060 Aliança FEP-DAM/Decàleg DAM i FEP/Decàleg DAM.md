@@ -3,7 +3,7 @@ tags:: #resultats
 # Decàleg DAM
 tag: #decaleg #ellaboratori
 
-## 1.- [[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
+## 1.- [[080 Tesi Acadèmica Antiga/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
 1.- [[Espai tancat separat del món real]]
 
 

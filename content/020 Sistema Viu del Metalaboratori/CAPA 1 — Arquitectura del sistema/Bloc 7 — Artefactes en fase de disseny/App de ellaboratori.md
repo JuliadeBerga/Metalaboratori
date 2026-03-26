@@ -25,6 +25,6 @@ Aquest artefacte es va plantejar durant el procés de disseny, però no es va ar
 
 ## Connexions
 
-[[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]  
+[[080 Tesi Acadèmica Antiga/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]  
 [[Arquitectura pedagògica]]  
 [[Iteracions DBR]]

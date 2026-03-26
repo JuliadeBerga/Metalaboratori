@@ -19,6 +19,6 @@ El web incorpora un accés a les versions anteriors del laboratori que permet ob
 
 ## Connexions
 
-[[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]  
+[[080 Tesi Acadèmica Antiga/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]  
 [[Arquitectura evolutiva del laboratori]]  
 [[Històric de projectes]]

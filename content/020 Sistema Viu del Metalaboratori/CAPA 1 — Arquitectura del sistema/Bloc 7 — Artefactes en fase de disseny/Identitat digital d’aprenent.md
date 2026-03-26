@@ -34,4 +34,4 @@ Tot i que alguns elements d’aquest concepte apareixen parcialment en el sistem
 
 [[Perfil professional digital]]  
 [[Projectes reals]]  
-[[080 Tesi Acadèmica/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]
+[[080 Tesi Acadèmica Antiga/085 Espais Híbrids d_Aprenentatge/elLaboratori.cat]]

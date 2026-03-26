@@ -1,4 +1,4 @@
-**Benvinguts al Metalaboratori.**
+**Benvinguts al Metalaboratori**
 
 Aquest espai permet explorar la tesi doctoral com un entorn navegable, mantenint el rigor del format acadèmic però ampliant les possibilitats de lectura i connexió del coneixement.
 
@@ -25,3 +25,4 @@ Aquest entorn no substitueix la lectura tradicional de la tesi, sinó que la com
 **Comença l’exploració aquí:**
 
 [[000 Porta d'Entrada/001 Comença aquí/Benvinguts|Benvinguts]]
+
