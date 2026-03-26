@@ -1,4 +1,7 @@
 <br>
+<br>
+<br>
+<br>
 <br><b><center>Reconfigurant la Relació Pedagògica a través de la Co-associació en un Sistema Viu d’Aprenentatge</center></b>
 <br>
 
